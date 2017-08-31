@@ -1,0 +1,10431 @@
+#001
+Blue-eyes White Dragon
+Type: Dragon
+Attribute: LIGHT
+Level:  8
+ATK: 3000
+DEF: 2500
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+An extremely rare
+card with
+unsurpassed attack
+and defense power.
+
+#002
+Mystical Elf
+Type: Spellcaster
+Attribute: LIGHT
+Level:  4
+ATK:  800
+DEF: 2000
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A delicate elf that
+lacks in offense
+but has a terrific
+defense backed by
+mystical power.
+
+#003
+Hitotsu-me Giant
+Type: BeastWarrior
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A one-eyed behemoth
+with thick, powerful
+arms made for
+delivering punishing
+blows.
+
+#004
+Baby Dragon
+Type: Dragon
+Attribute: WIND
+Level:  3
+ATK: 1200
+DEF:  700
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+Much more than just
+a child, this dragon
+is gifted with
+untapped power.
+
+#005
+Ryu-kishin
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  500
+Guardian Star 1: Saturn
+Guardian Star 2: Sun
+Description:
+A very elusive
+creature that looks
+like a harmless
+statue until it
+attacks.
+
+#006
+Feral Imp
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1400
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A playful little
+imp that lurks in
+the dark, waiting to
+attack an unwary
+enemy.
+
+#007
+Winged Dragon #1
+Type: Dragon
+Attribute: WIND
+Level:  4
+ATK: 1400
+DEF: 1200
+Guardian Star 1: Saturn
+Guardian Star 2: Moon
+Description:
+A dragon commonly
+found guarding
+mountain fortresses.
+Its signature attack
+is a sweeping dive
+from out of the blue.
+
+#008
+Mushroom Man
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+Found in moist
+areas, this monster
+launches poison
+spores against its
+enemies.
+
+#009
+Shadow Specter
+Type: Zombie
+Attribute: DARK
+Level:  1
+ATK:  500
+DEF:  200
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+Ghostly beast that
+appears in the
+wasteland and is
+particularly
+troublesome when
+faced in large
+numbers.
+
+#010
+Blackland Fire Dragon
+Type: Dragon
+Attribute: DARK
+Level:  4
+ATK: 1500
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+A dragon that dwells
+in the depths of
+darkness. Its
+defensive capability
+suffers from its
+poor eyesight.
+
+#011
+Sword Arm of Dragon
+Type: Dinosaur
+Attribute: EARTH
+Level:  6
+ATK: 1750
+DEF: 2030
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+With a body covered
+in sword-like
+thorns, nothing
+dares stand in the
+way of this monster
+when it charges.
+
+#012
+Swamp Battleguard
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+This creature is
+armed with a spiked
+club that can
+destroy almost
+anything in its path.
+Rumored to have a
+brother that is just
+as destructive.
+
+#013
+Tyhone
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1200
+DEF: 1400
+Guardian Star 1: Saturn
+Guardian Star 2: Venus
+Description:
+Capable of firing
+cannonballs from its
+mouth for long-range
+attacks against
+enemies.
+
+#014
+Battle Steer
+Type: BeastWarrior
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A bull monster often
+found in the woods.
+Charges enemy
+monsters with a pair
+of razor-sharp horns.
+
+#015
+Flame Swordsman
+Type: Warrior
+Attribute: FIRE
+Level:  5
+ATK: 1800
+DEF: 1600
+Guardian Star 1: Mars
+Guardian Star 2: Sun
+Description:
+A fighter gifted
+with the power of
+fire.
+Attacks enemies with
+a sword that
+launches flames.
+
+#016
+Time Wizard
+Type: Spellcaster
+Attribute: LIGHT
+Level:  2
+ATK:  500
+DEF:  400
+Guardian Star 1: Venus
+Guardian Star 2: Sun
+Description:
+A sorcerer capable
+of bending time to
+his will. Though not
+powerful at first
+glance, appearances
+can be deceiving.
+
+#017
+Right Leg of the Forbidden One
+Type: Spellcaster
+Attribute: DARK
+Level:  1
+ATK:  200
+DEF:  300
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.
+
+#018
+Left Leg of the Forbidden One
+Type: Spellcaster
+Attribute: DARK
+Level:  1
+ATK:  200
+DEF:  300
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.
+
+#019
+Right Arm of the Forbidden One
+Type: Spellcaster
+Attribute: DARK
+Level:  1
+ATK:  200
+DEF:  300
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.
+
+#020
+Left Arm of the Forbidden One
+Type: Spellcaster
+Attribute: DARK
+Level:  1
+ATK:  200
+DEF:  300
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+A forbidden limb
+sealed by magic.
+Whoever breaks
+this seal will know
+infinite power.
+Only one card of
+this type may be
+included in a deck.
+
+#021
+Exodia the Forbidden
+Type: Spellcaster
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+Once combined with
+arms and legs, this
+monster is freed
+from its magical
+chains.
+Only one card of
+this type may be
+included in a deck.
+
+#022
+Summoned Skull
+Type: Fiend
+Attribute: DARK
+Level:  6
+ATK: 2500
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+An entity with dark
+powers for confusing
+the enemy. Among the
+FIEND class of
+monsters, this is a
+pretty rare card.
+
+#023
+The Wicked Worm Beast
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK: 1400
+DEF:  700
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A monster worm
+created by the
+powers of darkness.
+It suddenly appears
+from under the
+ground to attack its
+enemies.
+
+#024
+Skull Servant
+Type: Zombie
+Attribute: DARK
+Level:  1
+ATK:  300
+DEF:  200
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A skeletal ghost
+that isn't strong
+but can mean trouble
+in large numbers.
+
+#025
+Horn Imp
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A small imp that
+dwells in the dark.
+Its single horn
+makes it a
+formidable opponent.
+
+#026
+Battle Ox
+Type: BeastWarrior
+Attribute: EARTH
+Level:  4
+ATK: 1700
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A monster with
+tremendous power.
+Destroys enemies
+with a swing of its
+axe.
+
+#027
+Beaver Warrior
+Type: BeastWarrior
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+What this creature
+lacks in size,
+it makes up for
+in defense when
+battling in the
+meadow.
+
+#028
+Rock Ogre Grotto #1
+Type: Rock
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+Protected by a solid
+body of rock, this
+creature throws
+a bone-shattering
+punch.
+
+#029
+Mountain Warrior
+Type: BeastWarrior
+Attribute: EARTH
+Level:  3
+ATK:  600
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+A solid warrior that
+can move swiftly
+over rough terrain.
+
+#030
+Zombie Warrior
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A deceptively
+fragile-looking
+skeleton warrior
+that is known for
+its swift and
+precise attacks.
+
+#031
+Koumori Dragon
+Type: Dragon
+Attribute: DARK
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A vicious,
+fire-breathing
+dragon whose wicked
+flames corrupt the
+souls of its victims.
+
+#032
+Two-headed King Rex
+Type: Dinosaur
+Attribute: EARTH
+Level:  4
+ATK: 1600
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+An unusual and
+rarely seen
+two-headed dragon.
+
+#033
+Judge Man
+Type: Warrior
+Attribute: EARTH
+Level:  6
+ATK: 2200
+DEF: 1500
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+For this
+club-wielding
+warrior, there is
+no other outcome
+to battle than
+victory or defeat.
+
+#034
+Saggi the Dark Clown
+Type: Spellcaster
+Attribute: DARK
+Level:  3
+ATK:  600
+DEF: 1500
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+This clown appears
+out of nowhere and
+executes some very
+strange moves to
+avoid enemy attacks.
+
+#035
+Dark Magician
+Type: Spellcaster
+Attribute: DARK
+Level:  7
+ATK: 2500
+DEF: 2100
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+The ultimate wizard
+in terms of attack
+and defense.
+
+#036
+The Snake Hair
+Type: Zombie
+Attribute: DARK
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A monster with the
+head of a poisonus
+snake. One look will
+turn an unwary
+opponent to stone.
+
+#037
+Gaia the Dragon Champion
+Type: Dragon
+Attribute: WIND
+Level:  7
+ATK: 2600
+DEF: 2100
+Guardian Star 1: Saturn
+Guardian Star 2: Mercury
+Description:
+A warrior's prowess
+combines with a
+dragon's speed to
+create a powerful
+offensive force.
+
+#038
+Gaia the Fierce Knight
+Type: Warrior
+Attribute: EARTH
+Level:  7
+ATK: 2300
+DEF: 2100
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A knight mounted on
+a horse that travels
+faster than the wind.
+His battle charge is
+a force to be
+reckoned with.
+
+#039
+Curse of Dragon
+Type: Dragon
+Attribute: DARK
+Level:  5
+ATK: 2000
+DEF: 1500
+Guardian Star 1: Saturn
+Guardian Star 2: Pluto
+Description:
+A wicked dragon that
+taps dark forces to
+execute a powerful
+attack.
+
+#040
+Dragon Piper
+Type: Pyro
+Attribute: FIRE
+Level:  3
+ATK:  200
+DEF: 1800
+Guardian Star 1: Mars
+Guardian Star 2: Moon
+Description:
+A jar carved with
+strange patterns. It
+has a particularly
+high defense factor.
+
+#041
+Celtic Guardian
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1400
+DEF: 1200
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+An elf, who learned
+to wield a sword,
+baffles enemies with
+lightning-swift
+attacks.
+
+#042
+Illusionist Faceless Mage
+Type: Spellcaster
+Attribute: DARK
+Level:  5
+ATK: 1200
+DEF: 2200
+Guardian Star 1: Venus
+Guardian Star 2: Mars
+Description:
+Manipulates enemy
+attacks with the
+power of illusion.
+A very rare card.
+
+#043
+Karbonala Warrior
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+A very
+average-looking
+fighter with an
+unusually high
+attack factor.
+
+#044
+Rogue Doll
+Type: Spellcaster
+Attribute: LIGHT
+Level:  4
+ATK: 1600
+DEF: 1000
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+A unique doll gifted
+with mystical power.
+Particularly
+powerful when
+attacking against
+dark forces.
+
+#045
+Oscillo Hero #2
+Type: Thunder
+Attribute: LIGHT
+Level:  3
+ATK: 1000
+DEF:  500
+Guardian Star 1: Pluto
+Guardian Star 2: Sun
+Description:
+Attacks its enemies
+with thunder.
+
+#046
+Griffore
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+This creature's
+tough hide deflects
+just about any
+attack.
+
+#047
+Torike
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  600
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+Not as tough as it
+looks in terms of
+defense.
+This monster's
+sharp horn gives it
+an edge
+when attacking.
+
+#048
+Sangan
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A compact,
+three-eyed monster
+that is dangerous
+when faced
+in the dark.
+
+#049
+Big Insect
+Type: Insect
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A giant ant that
+dwells in the jungle.
+Powerful in terms of
+both ATK and DEF
+factors.
+
+#050
+Basic Insect
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  500
+DEF:  700
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+Usually found
+travelling in swarms.
+this creature's
+ideal environment is
+the forest.
+
+#051
+Armored Lizard
+Type: Reptile
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A lizard with a very
+tough hide and a
+very vicious bite.
+
+#052
+Hercules Beetle
+Type: Insect
+Attribute: EARTH
+Level:  5
+ATK: 1500
+DEF: 2000
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+A massive beetle
+with a tough hide
+and a dangerous horn.
+
+#053
+Killer Needle
+Type: Insect
+Attribute: WIND
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A huge bee with
+exceptional strength.
+Particularly
+dangerous when a
+swarm is encountered.
+
+#054
+Gokibore
+Type: Insect
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A large, spherical
+roach that attacks
+its enemies by
+rolling over them.
+Its tough defense
+makes it
+a formidable foe.
+
+#055
+Giant Flea
+Type: Insect
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A giant
+blood-sucking flea
+that's devastating
+when attacking.
+
+#056
+Larvae Moth
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  500
+DEF:  400
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+Not much in its
+larval form,
+this creature is a
+force to be reckoned
+with when it grows
+to become a colossal
+moth.
+
+#057
+Great Moth
+Type: Insect
+Attribute: EARTH
+Level:  8
+ATK: 2600
+DEF: 2500
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A powerful creature
+of the forest, this
+huge moth attacks
+its enemies by
+spreading poison
+dust with its wings.
+
+#058
+Kuriboh
+Type: Fiend
+Attribute: DARK
+Level:  1
+ATK:  300
+DEF:  200
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+By itself, this
+small creature may
+not seem like much.
+But in the dark, it
+attacks in numbers
+as a formidable
+force.
+
+#059
+Mammoth Graveyard
+Type: Dinosaur
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+A mammoth that
+protects the
+gravesite of its
+pack. It's
+absolutely merciless
+when facing
+graverobbers.
+
+#060
+Great White
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1600
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A giant white shark
+with razor-sharp
+teeth.
+
+#061
+Wolf
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A rarely seen wolf
+with a powerful nose
+for catching the
+scent of an enemy.
+
+#062
+Harpie Lady
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1300
+DEF: 1400
+Guardian Star 1: Saturn
+Guardian Star 2: Neptune
+Description:
+A human-shaped
+animal with wings.
+Beautiful to watch,
+but lethal when
+engaged in battle.
+
+#063
+Harpie Lady Sisters
+Type: WingedBeast
+Attribute: WIND
+Level:  6
+ATK: 1950
+DEF: 2100
+Guardian Star 1: Saturn
+Guardian Star 2: Mars
+Description:
+Three fierce sisters
+who relentlessly
+attack as a team.
+
+#064
+Tiger Axe
+Type: BeastWarrior
+Attribute: EARTH
+Level:  4
+ATK: 1300
+DEF: 1100
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+A fast and powerful
+axe-wielding
+beast warrior.
+
+#065
+Silver Fang
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A snow wolf that's
+beautiful to the eye
+but absolutely
+vicious in battle.
+
+#066
+Kojikocy
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+A man-hunter with
+powerful arms that
+can crush boulders.
+
+#067
+Perfectly Ultimate Great Moth
+Type: Insect
+Attribute: EARTH
+Level:  8
+ATK: 3500
+DEF: 3000
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+The final
+incarnation of the
+ultimate insect,
+the Great Moth!
+
+#068
+Garoozis
+Type: BeastWarrior
+Attribute: FIRE
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Mars
+Guardian Star 2: Venus
+Description:
+An axe-swinging
+beast warrior with
+the head of
+a dragon.
+
+#069
+Thousand Dragon
+Type: Dragon
+Attribute: WIND
+Level:  7
+ATK: 2400
+DEF: 2000
+Guardian Star 1: Mars
+Guardian Star 2: Mercury
+Description:
+A dragon that has
+grown and developed
+over a thousand
+years.
+
+#070
+Fiend Kraken
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1200
+DEF: 1400
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A massive squid that
+suddenly appears
+from the depths of
+the sea to attack
+unwary enemies.
+
+#071
+Jellyfish
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1200
+DEF: 1500
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+An almost invisible,
+semi-transparent
+jellyfish that
+drifts in the sea.
+
+#072
+Cocoon of Evolution
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:    0
+DEF: 2000
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+This creature is
+capable of instantly
+evolving larvae
+into adults.
+
+#073
+Kairyu-shin
+Type: SeaSerpent
+Attribute: WATER
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A sea dragon that's
+referred to as the
+"King of the Ocean".
+It attacks its
+enemies with huge
+tidal waves.
+
+#074
+Giant Soldier of Stone
+Type: Rock
+Attribute: EARTH
+Level:  3
+ATK: 1300
+DEF: 2000
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A giant warrior made
+of stone. A punch
+from this creature
+has earth-shaking
+results.
+
+#075
+Man-eating Plant
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A meat-eating plant
+that is attractive
+to the eye but
+dangerous when
+approached.
+
+#076
+Krokodilus
+Type: Reptile
+Attribute: WATER
+Level:  4
+ATK: 1100
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A vicious crocodile
+with intelligence.
+Hard scales form
+a natural armor
+for this creature.
+
+#077
+Grappler
+Type: Reptile
+Attribute: WATER
+Level:  4
+ATK: 1300
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A devious snake with
+a thick body that
+wraps around an
+enemy monster and
+squeezes the life
+out of it.
+
+#078
+Axe Raider
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1700
+DEF: 1150
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+An axe-wielding
+monster of
+tremendous strength
+and agility.
+
+#079
+Megazowler
+Type: Dinosaur
+Attribute: EARTH
+Level:  6
+ATK: 1800
+DEF: 2000
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+Nothing stands in
+the way of this
+spike-covered
+dinosaur.
+
+#080
+Uraby
+Type: Dinosaur
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF:  800
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+Fast on its feet,
+this dinosaur rips
+enemies to shreds
+with its sharp claws.
+
+#081
+Crawling Dragon #2
+Type: Dinosaur
+Attribute: EARTH
+Level:  4
+ATK: 1600
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A powerful dragon
+with teeth that can
+grind almost
+anything to dust.
+
+#082
+Red-eyes B. Dragon
+Type: Dragon
+Attribute: DARK
+Level:  7
+ATK: 2400
+DEF: 2000
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A very rare card
+with a high-level
+ATK factor.
+
+#083
+Castle of Dark Illusions
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK:  920
+DEF: 1930
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A creature that can
+generate darkness to
+envelop all that
+exists around it.
+
+#084
+Reaper of the Cards
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1380
+DEF: 1930
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+This monster boasts
+a strong defense and
+a massive scythe
+that cuts through
+almost anything.
+
+#085
+King of Yamimakai
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 2000
+DEF: 1530
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+Wields the power of
+darkness to destroy
+its enemies.
+
+#086
+Barox
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1380
+DEF: 1530
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+This creature flies
+through the dark,
+attacking its
+enemies with its
+long, hairy arms.
+
+#087
+Dark Chimera
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1610
+DEF: 1460
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A fire-breathing
+monster that dwells
+in the netherworld.
+
+#088
+Metal Guardian
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1150
+DEF: 2150
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A fiend guarding
+the treasures of
+the netherworld.
+Its defense is
+particularly high in
+ a dark environment.
+
+#089
+Catapult Turtle
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1000
+DEF: 2000
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+Well-protected by
+its shell, this
+monster flings
+projectiles from
+its catapult.
+
+#090
+Gyakutenno Megami
+Type: Fairy
+Attribute: LIGHT
+Level:  6
+ATK: 1800
+DEF: 2000
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+Uses her mystical
+power to protect the
+weak and provide
+spiritual support.
+
+#091
+Mystic Horseman
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1300
+DEF: 1550
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+Half man and half
+horse, this monster
+is known for its
+extreme speed.
+
+#092
+Rabid Horseman
+Type: BeastWarrior
+Attribute: EARTH
+Level:  6
+ATK: 2000
+DEF: 1700
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A powerful
+and unstoppable
+combination of
+bull and horse.
+
+#093
+Zanki
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1500
+DEF: 1700
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+Prefers to face
+enemies one-on-one.
+His swiftly drawn
+blade delivers a
+quick and immediate
+finnish.
+
+#094
+Crawling Dragon
+Type: Dragon
+Attribute: EARTH
+Level:  5
+ATK: 1600
+DEF: 1400
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A weakened dragon
+that can no longer
+fly, but is still a
+formidable force
+to be reckoned with.
+
+#095
+Crass Clown
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1350
+DEF: 1400
+Guardian Star 1: Venus
+Guardian Star 2: Jupiter
+Description:
+A performer
+in the Dark Circus,
+this clown drains
+the strength of
+its enemies with
+strange dances.
+
+#096
+Armored Zombie
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1500
+DEF:    0
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A warrior raised
+from the beyond.
+Blindly swings
+a sharp blade with
+devastating force.
+
+#097
+Dragon Zombie
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1600
+DEF:    0
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A dragon revived by
+sorcery. Its breath
+is highly corrosive.
+
+#098
+Clown Zombie
+Type: Zombie
+Attribute: DARK
+Level:  2
+ATK: 1350
+DEF:    0
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A clown revived by
+the powers of
+darkness.
+Its strange dance
+has sent many
+monsters to their
+ends.
+
+#099
+Pumpking the King of Ghosts
+Type: Zombie
+Attribute: DARK
+Level:  6
+ATK: 1800
+DEF: 2000
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+This pumpkin king
+strikes at its
+enemies with its
+long tentacles.
+
+#100
+Battle Warrior
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  700
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+A warrior that
+fights with his
+bare hands.
+
+#101
+Wings of Wicked Flame
+Type: Pyro
+Attribute: FIRE
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Mars
+Guardian Star 2: Saturn
+Description:
+Soaring over
+its enemies on wings
+of crimson fire,
+this monster attacks
+by blasting flames
+from its body.
+
+#102
+Mask of Darkness
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  900
+DEF:  400
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+A shadow mask
+created by the hands
+of a dark mage.
+
+#103
+Job-change Mirror
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  800
+DEF: 1300
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+An indestructible,
+wicked mirror that
+blocks enemy attacks.
+
+#104
+Curtain of the Dark Ones
+Type: Spellcaster
+Attribute: DARK
+Level:  2
+ATK:  600
+DEF:  500
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A curtain woven by
+the hands of a
+sorcerer. It is said
+to enhance the power
+of magic- users.
+
+#105
+Tomozaurus
+Type: Dinosaur
+Attribute: EARTH
+Level:  2
+ATK:  500
+DEF:  400
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A deceivingly small
+creature that is so
+vicious it attacks
+both friend and foe
+without discretion.
+
+#106
+Spirit of the Winds
+Type: Spellcaster
+Attribute: WIND
+Level:  5
+ATK: 1700
+DEF: 1400
+Guardian Star 1: Saturn
+Guardian Star 2: Sun
+Description:
+A spirit of the wind
+that freely sails
+the skies. Known to
+generate storms when
+it's in a bad mood.
+
+#107
+Kageningen
+Type: Warrior
+Attribute: DARK
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+Uses both its
+physical and shadow
+forms to attack,
+making it
+a difficult creature
+to overcome.
+
+#108
+Graveyard and the Hand of Invitation
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK:  700
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A final resting
+place that enhances
+the power of the
+doomed and drains
+that of the living.
+
+#109
+Goddess with the Third Eye
+Type: Fairy
+Attribute: LIGHT
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Sun
+Guardian Star 2: Venus
+Description:
+A goddess with an
+all-seeing eye that
+reveals all.
+
+#110
+Hero of the East
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+A samurai from the
+Far East armed with
+a razor-sharp sword.
+
+#111
+Doma The Angel of Silence
+Type: Fairy
+Attribute: DARK
+Level:  5
+ATK: 1600
+DEF: 1400
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+This angel rules
+over the doomed
+and administers it
+when necessary.
+
+#112
+That Which Feeds on Life
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A vile monster that
+fuels its power by
+draining the essence
+of life from
+its opponents.
+
+#113
+Dark Gray
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+Entirely gray,
+this beast has
+rarely been seen
+by mortal eyes.
+
+#114
+White Magical Hat
+Type: Spellcaster
+Attribute: LIGHT
+Level:  3
+ATK: 1000
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+A gentleman thief
+that eludes the law
+despite the fact
+that he sticks out
+like a sore thumb
+with his silk hat
+and white cape.
+
+#115
+Kamion Wizard
+Type: Spellcaster
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1100
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+A magic-user that
+controls chaos
+and wields
+a mighty sickle.
+
+#116
+Nightmare Scorpion
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A very toxic
+creature that
+induces nightmares
+and attacks its
+victims with four
+poison- tipped
+stingers.
+
+#117
+Spirit of the Books
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1400
+DEF: 1200
+Guardian Star 1: Saturn
+Guardian Star 2: Moon
+Description:
+A spirit of the
+books with infinite
+knowledge and
+an endless variety
+of attack strategies.
+
+#118
+Supporter in the Shadows
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1000
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A cute elf that
+assists against
+enemies while
+remaining hidden
+from sight.
+
+#119
+Trial of Nightmares
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+Passes judgment on
+enemies that are
+locked in coffins.
+
+#120
+Dream Clown
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Venus
+Guardian Star 2: Saturn
+Description:
+The mysterious dance
+of this creature
+draws its enemies
+into eternal slumber.
+
+#121
+Sleeping Lion
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK:  700
+DEF: 1700
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+Frequently
+found sleeping,
+this monster is
+very dangerous
+when awakened.
+
+#122
+Yamatano Dragon Scroll
+Type: Dragon
+Attribute: WIND
+Level:  2
+ATK:  900
+DEF:  300
+Guardian Star 1: Saturn
+Guardian Star 2: Venus
+Description:
+This dragon is
+conjured from
+a picture scroll
+to attack enemies.
+It has a pretty
+low defense factor.
+
+#123
+Dark Plant
+Type: Plant
+Attribute: DARK
+Level:  1
+ATK:  300
+DEF:  400
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A vicious flower
+raised from polluted
+soil and fertilized
+by dark forces.
+
+#124
+Ancient Tool
+Type: Machine
+Attribute: DARK
+Level:  5
+ATK: 1700
+DEF: 1400
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+An engine
+of destruction
+discovered in the
+ruins of an ancient
+civilization.
+
+#125
+Faith Bird
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1500
+DEF: 1100
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A bird with a very
+long tail that
+attacks with a light
+that emanates from
+its entire being.
+
+#126
+Orion the Battle King
+Type: Fairy
+Attribute: LIGHT
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+A mysterious
+creature known as
+the king of warriors
+but nobody has lived
+long enough to tell
+how it earned
+its reputation.
+
+#127
+Ansatsu
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1700
+DEF: 1200
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A silent and swift
+warrior specializing
+in sneak attack.
+
+#128
+LaMoon
+Type: Spellcaster
+Attribute: LIGHT
+Level:  5
+ATK: 1200
+DEF: 1700
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+A sorcerer who lives
+on the moon and
+attacks opponents
+with the power
+of lunar light.
+
+#129
+Nemuriko
+Type: Spellcaster
+Attribute: DARK
+Level:  3
+ATK:  800
+DEF:  700
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+A child-like
+creature that
+controls a sleep
+spirit to beckon
+enemies into eternal
+slumber.
+
+#130
+Weather Control
+Type: Fairy
+Attribute: LIGHT
+Level:  2
+ATK:  600
+DEF:  400
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+This monster is
+capable of
+manipulating the
+weather. This power
+is the reason behind
+the changing climate
+of mountains.
+
+#131
+Octoberser
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1600
+DEF: 1400
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A strange creature
+with the head
+of a fish and
+the tentacles of
+an octopus that
+attacks its enemies
+with spears.
+
+#132
+The 13th Grave
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A zombie that
+suddenly appeared
+from plot
+#13 - supposedly
+an empty grave.
+
+#133
+Charubin the Fire Knight
+Type: Pyro
+Attribute: FIRE
+Level:  3
+ATK: 1100
+DEF:  800
+Guardian Star 1: Mars
+Guardian Star 2: Uranus
+Description:
+A warrior protected
+by a shell
+that can even
+deflect the heat
+of burning flames.
+
+#134
+Mystical Capture Chain
+Type: Fairy
+Attribute: LIGHT
+Level:  2
+ATK:  700
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+A mystical chain
+that is believed
+capable of binding
+its enemies and
+preventing their
+attacks.
+
+#135
+Fiend's Hand
+Type: Zombie
+Attribute: DARK
+Level:  2
+ATK:  600
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+Long arms reach out
+from the Swamp
+of Chaos to drag
+in enemy creatures.
+
+#136
+Witty Phantom
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1400
+DEF: 1300
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+Dressed in a
+night-black tuxedo,
+this creature
+presides over
+the doomed.
+
+#137
+Mystery Hand
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  500
+DEF:  500
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+Twisting the fabric
+of reality, arms
+stretch out from
+another dimension
+to attack opponents.
+
+#138
+Dragon Statue
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF:  900
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+A granite warrior
+with a dragon's soul
+wields a powerful
+sword against
+all enemies.
+
+#139
+Blue-eyed Silver Zombie
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+A creature rumored
+to turn enemies
+into zombies
+with a strange ray
+that emanates
+from its eyes.
+
+#140
+Toad Master
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1000
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+Thousands of years
+old, this frog
+wizard attacks
+enemies with an
+army of tadpoles.
+
+#141
+Spiked Snail
+Type: Insect
+Attribute: DARK
+Level:  3
+ATK:  700
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+Evolving from the
+powers of darkness,
+this snail has arms
+and legs that allow
+swift attacks
+against its enemies.
+
+#142
+Flame Manipulator
+Type: Spellcaster
+Attribute: FIRE
+Level:  3
+ATK:  900
+DEF: 1000
+Guardian Star 1: Mars
+Guardian Star 2: Pluto
+Description:
+Attacks enemies with
+fire-related spells,
+such as the
+"Sea of Flames"
+and the
+"Wall of Fire".
+
+#143
+Necrolancer the Timelord
+Type: Spellcaster
+Attribute: DARK
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Venus
+Guardian Star 2: Uranus
+Description:
+The first in a line
+of golems that
+appears almost
+anywhere from within
+a dimensional ring.
+
+#144
+Djinn the Watcher of the Wind
+Type: Spellcaster
+Attribute: WIND
+Level:  3
+ATK:  700
+DEF:  900
+Guardian Star 1: Saturn
+Guardian Star 2: Mercury
+Description:
+Controls the air
+currents to create
+violent winds and
+tornadoes to blow
+away its enemies.
+
+#145
+The Bewitching Phantom Thief
+Type: Spellcaster
+Attribute: DARK
+Level:  2
+ATK:  700
+DEF:  700
+Guardian Star 1: Venus
+Guardian Star 2: Pluto
+Description:
+A flashy,
+black-caped thief
+who wields
+a magic cane.
+
+#146
+Temple of Skulls
+Type: Zombie
+Attribute: DARK
+Level:  4
+ATK:  900
+DEF: 1300
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+A weird temple
+of skulls and bones
+that sucks the
+living essence
+of all those who
+dare approach it.
+
+#147
+Monster Egg
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  600
+DEF:  900
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+A warrior hidden
+within an egg that
+attacks enemies by
+flinging eggshells.
+
+#148
+The Shadow Who Controls the Dark
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  800
+DEF:  700
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A living shadow
+that dwells in the
+realm of darkness.
+It paralyzes
+its enemies
+to prevent attacks.
+
+#149
+Lord of the Lamp
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1400
+DEF: 1200
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+A giant that appears
+from a mystic lamp
+and follows
+the orders
+of the lamp's owner.
+
+#150
+Akihiron
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1700
+DEF: 1400
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A mysterious
+creature that dwells
+below the sea.
+
+#151
+Rhaimundos of the Red Sword
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A warrior armed
+with the Sword
+of Crimson Flames.
+Uses fire to bind
+the movement
+of its enemies.
+
+#152
+The Melting Red Shadow
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  500
+DEF:  700
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A creature that
+melts into the earth
+melds with an
+opponent's shadow,
+and attacks
+from below.
+
+#153
+Dokuroizo the Grim Reaper
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK:  900
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A living spirit that
+preys on the living
+essence of enemies.
+
+#154
+Fire Reaper
+Type: Zombie
+Attribute: DARK
+Level:  2
+ATK:  700
+DEF:  500
+Guardian Star 1: Mars
+Guardian Star 2: Sun
+Description:
+A creature that
+deals out punishment
+with its
+flaming arrows.
+
+#155
+Larvas
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A fast-moving,
+bird-like creature
+that strangles an
+opposing monster
+with its long,
+thin arms.
+
+#156
+Hard Armor
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  300
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A living suit of
+armor that attacks
+enemies with a
+bone-jarring tackle.
+
+#157
+Firegrass
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Mars
+Guardian Star 2: Moon
+Description:
+A fire-breathing
+plant found growing
+near volcanoes.
+
+#158
+Man Eater
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+Man-eating plant
+with poison feelers
+for attacking
+enemies.
+
+#159
+Dig Beak
+Type: Beast
+Attribute: EARTH
+Level:  2
+ATK:  500
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+Coiling its
+serpent-like body,
+this creature spins
+and attacks with
+its snapping beak.
+
+#160
+M-warrior #1
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1000
+DEF:  500
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+Specializing in
+combination attacks,
+this warrior uses
+magnetism to block
+an enemy's escape.
+
+#161
+M-warrior #2
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  500
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+Specializing in
+combination attacks,
+this warrior is
+equipped with a
+tough, magnetically
+coated armor.
+
+#162
+Tainted Wisdom
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1250
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A parasite brain
+that preys
+on the knowledge
+and intelligence
+of its opponents.
+
+#163
+Lisark
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1300
+DEF: 1300
+Guardian Star 1: Saturn
+Guardian Star 2: Pluto
+Description:
+An unusual creature
+with sapphire eyes
+that creates visions
+to confuse the enemy.
+
+#164
+Lord of Zemia
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A vile entity that
+deceives enemies
+into walking a path
+of destruction.
+
+#165
+The Judgement Hand
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1400
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Venus
+Description:
+The hand of final
+judgment is capable
+of intense attacks
+against the enemy.
+
+#166
+Mysterious Puppeteer
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1000
+DEF: 1500
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+A puppet master that
+manipulates enemies
+during battle.
+
+#167
+Ancient Jar
+Type: Rock
+Attribute: EARTH
+Level:  1
+ATK:  400
+DEF:  200
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A fragile jar from
+the past containing
+a mysterious
+creature.
+
+#168
+Darkfire Dragon
+Type: Dragon
+Attribute: DARK
+Level:  4
+ATK: 1500
+DEF: 1250
+Guardian Star 1: Mars
+Guardian Star 2: Venus
+Description:
+Scorching flames
+that wipe out
+enemies in the blink
+of an eye.
+
+#169
+Dark King of the Abyss
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1200
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+King of the
+netherworld. It's
+said that he once
+had the power to
+rule over the Dark.
+
+#170
+Spirit of the Harp
+Type: Fairy
+Attribute: LIGHT
+Level:  4
+ATK:  800
+DEF: 2000
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+A spirit that
+soothes the soul
+with the music of
+its glorious harp.
+
+#171
+Big Eye
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Venus
+Guardian Star 2: Neptune
+Description:
+This creature is
+covered with
+hypnotic eyes
+for mesmerizing
+its enemies.
+
+#172
+Armaill
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  700
+DEF: 1300
+Guardian Star 1: Mars
+Guardian Star 2: Mercury
+Description:
+A strange warrior
+who manipulates
+three fearsome
+blades with
+both hands and
+its tail.
+
+#173
+Dark Prisoner
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  600
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+This creature
+manipulates light
+to eliminate
+all traces of
+its appearance.
+
+#174
+Hurricail
+Type: Spellcaster
+Attribute: WIND
+Level:  2
+ATK:  900
+DEF:  200
+Guardian Star 1: Saturn
+Guardian Star 2: Neptune
+Description:
+A twister
+that runs rampant
+in the wastelands,
+cutting its enemies
+with blades of wind.
+
+#175
+Ancient Brain
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  700
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+Exiled from reality,
+this creature is
+adept at fighting
+in the dark.
+
+#176
+Fire Eye
+Type: Pyro
+Attribute: FIRE
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Mars
+Guardian Star 2: Saturn
+Description:
+A winged eye
+enveloped in flames
+that attacks enemies
+with fire.
+
+#177
+Monsturtle
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A vicious turtle
+with a spiked shell.
+
+#178
+Claw Reacher
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+Stretching arms and
+razor-sharp claws
+make this monster a
+formidable opponent.
+
+#179
+Phantom Dewan
+Type: Spellcaster
+Attribute: DARK
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A wizard
+that freezes an
+enemy's movement
+with a single curse.
+
+#180
+Arlownay
+Type: Plant
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+A maiden
+in the flower
+blossoms spreads
+poisonous pollen
+against opponents.
+
+#181
+Dark Shade
+Type: Fiend
+Attribute: WIND
+Level:  3
+ATK: 1000
+DEF: 1000
+Guardian Star 1: Saturn
+Guardian Star 2: Mars
+Description:
+Emits a dazzling
+light from its
+crystal to blind
+its enemies.
+
+#182
+Masked Clown
+Type: Warrior
+Attribute: DARK
+Level:  2
+ATK:  500
+DEF:  700
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+A dancing warrior
+that makes mincemeat
+out of opponents
+with a sharp scythe.
+
+#183
+Lucky Trinket
+Type: Spellcaster
+Attribute: LIGHT
+Level:  2
+ATK:  600
+DEF:  800
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A thin and reedy
+creature protected
+by sacred power.
+
+#184
+Genin
+Type: Spellcaster
+Attribute: LIGHT
+Level:  3
+ATK:  600
+DEF:  900
+Guardian Star 1: Venus
+Guardian Star 2: Sun
+Description:
+Uses amazing
+sleight-of-hand
+to fool and destroy
+its enemies.
+
+#185
+Eyearmor
+Type: Warrior
+Attribute: EARTH
+Level:  2
+ATK:  600
+DEF:  500
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+This warrior
+confuses and
+destroys enemies
+by adopting
+their images.
+
+#186
+Fiend Refrection #2
+Type: WingedBeast
+Attribute: LIGHT
+Level:  4
+ATK: 1100
+DEF: 1400
+Guardian Star 1: Venus
+Guardian Star 2: Mars
+Description:
+A bird-beast
+that summons
+reinforcements
+with a hand mirror.
+
+#187
+Gate Deeg
+Type: Beast
+Attribute: DARK
+Level:  3
+ATK:  700
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A creature
+with an abdominal
+portal used for
+summoning monsters
+from the netherworld.
+
+#188
+Synchar
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+An ugly creature
+with two heads and a
+mouth for blasting
+laser beams.
+
+#189
+Fusionist
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A monstrous cat with
+wings and a long,
+striking tail.
+
+#190
+Akakieisu
+Type: Spellcaster
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A wizard
+whose incantations
+numb the senses of
+opposing monsters.
+
+#191
+LaLa Li-oon
+Type: Thunder
+Attribute: WIND
+Level:  2
+ATK:  600
+DEF:  600
+Guardian Star 1: Pluto
+Guardian Star 2: Moon
+Description:
+Protected by thunder
+this dangerous cloud
+attacks its enemies
+with acid rain.
+
+#192
+Key Mace
+Type: Fairy
+Attribute: LIGHT
+Level:  1
+ATK:  400
+DEF:  300
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+A small angel
+whose cuteness
+melts the hearts
+of its enemies.
+
+#193
+Turtle Tiger
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1000
+DEF: 1500
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A tiger encased in a
+protective shell
+that attacks its
+enemies with its
+razor-sharp fangs.
+
+#194
+Terra the Terrible
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1200
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+Know as a dweller
+of the swamps,
+this creature is a
+minion of the Dark
+forces.
+
+#195
+Doron
+Type: Warrior
+Attribute: EARTH
+Level:  2
+ATK:  900
+DEF:  500
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+An unpredictable
+creature that splits
+into two and attacks
+an enemy from
+opposite directions.
+
+#196
+Arma Knight
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1000
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+An ammonite warrior
+that has protected
+the seas from the
+dawn of time.
+
+#197
+Mech Mole Zombie
+Type: Zombie
+Attribute: DARK
+Level:  2
+ATK:  500
+DEF:  400
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A creature of the
+night that attacks
+enemies with its
+rocket-powered arms.
+
+#198
+Happy Lover
+Type: Fairy
+Attribute: LIGHT
+Level:  2
+ATK:  800
+DEF:  500
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+A little angel
+that fires beams
+of happiness
+from the heart jewel
+on its forehead.
+
+#199
+Penguin Knight
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+A penguin-like
+creature that slides
+on its belly
+to deliver a blow
+with its
+outstretched sword.
+
+#200
+Petit Dragon
+Type: Dragon
+Attribute: WIND
+Level:  2
+ATK:  600
+DEF:  700
+Guardian Star 1: Saturn
+Guardian Star 2: Sun
+Description:
+A very small dragon
+known for its
+vicious attacks.
+
+#201
+Frenzied Panda
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A savage beast
+that carries
+a big bamboo stick
+for beating down
+its enemies.
+
+#202
+Air Marmot of Nefariousness
+Type: Beast
+Attribute: EARTH
+Level:  2
+ATK:  400
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A horned beaver
+with wings that
+throws high-velocity
+acorns from the
+sky with uncanny
+accuracy.
+
+#203
+Phantom Ghost
+Type: Zombie
+Attribute: DARK
+Level:  2
+ATK:  600
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+Malicious spirits
+that walk the world
+of the living,
+unable to find their
+final resting place.
+
+#204
+Mabarrel
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1700
+DEF: 1400
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A cannon-like
+monster that rapidly
+fires eyeballs
+at the enemy.
+
+#205
+Dorover
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+An ugly, melting
+creature that
+breathes out
+poison gas.
+
+#206
+Twin Long Rods #1
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+This creature swings
+its whip-like arms
+for mid-range
+attacks against
+enemies.
+
+#207
+Droll Bird
+Type: WingedBeast
+Attribute: WIND
+Level:  2
+ATK:  600
+DEF:  500
+Guardian Star 1: Saturn
+Guardian Star 2: Moon
+Description:
+With a battle cry
+that curdles
+the blood of
+its opponent,
+this creature
+attacks with its
+massive beak.
+
+#208
+Petit Angel
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK:  600
+DEF:  900
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+A quick-moving and
+tiny angel that's
+very difficult
+to hit.
+
+#209
+Winged Cleaver
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  700
+DEF:  700
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+This creature
+attacks by swinging
+around its
+sickle-like arms.
+
+#210
+Hinotama Soul
+Type: Pyro
+Attribute: FIRE
+Level:  2
+ATK:  600
+DEF:  500
+Guardian Star 1: Mars
+Guardian Star 2: Uranus
+Description:
+An intensely hot
+flame creature that
+rams anything that
+stands in its way.
+
+#211
+Kaminarikozou
+Type: Thunder
+Attribute: WIND
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Pluto
+Guardian Star 2: Venus
+Description:
+This creature stores
+lightning within its
+body to deliver
+electrifying attacks.
+
+#212
+Meotoko
+Type: Beast
+Attribute: EARTH
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A huge monster with
+a single eye that
+fires an intence
+beam.
+
+#213
+Aqua Madoor
+Type: Spellcaster
+Attribute: WATER
+Level:  4
+ATK: 1200
+DEF: 2000
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A wizard of the
+waters that conjures
+a liquid wall to
+crush any enemies
+that oppose him.
+
+#214
+Kagemusha of the Blue Flame
+Type: Warrior
+Attribute: EARTH
+Level:  2
+ATK:  800
+DEF:  400
+Guardian Star 1: Mars
+Guardian Star 2: Sun
+Description:
+Serves as a double
+for the ruler of the
+Blue Flame. A master
+swordsman that
+wields a fine blade.
+
+#215
+Flame Ghost
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  800
+Guardian Star 1: Mars
+Guardian Star 2: Pluto
+Description:
+A fiery spirit
+that burns anything
+in its path.
+
+#216
+Dryad
+Type: Spellcaster
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A spirit of the
+forest protected by
+the surrounding
+plant life.
+
+#217
+B. Skull Dragon
+Type: Dragon
+Attribute: DARK
+Level:  9
+ATK: 3200
+DEF: 2500
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A very rare creature
+created from the
+fusion of an
+uncommon beast and
+a vicious dragon.
+
+#218
+Two-mouth Darkruler
+Type: Dinosaur
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A dinosaur with two
+crushing jaws.
+Stores electricity
+in its horn and
+releases high
+voltage bolts
+from the mouth
+on its back.
+
+#219
+Solitude
+Type: BeastWarrior
+Attribute: EARTH
+Level:  3
+ATK: 1050
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A beast-warrior that
+swings a massive
+scythe that draws on
+the spirit of its
+enemies to deliver
+devastating blows.
+
+#220
+Masked Sorcerer
+Type: Spellcaster
+Attribute: DARK
+Level:  4
+ATK:  900
+DEF: 1400
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A mysterious wizard
+whose face remains
+forever hidden
+behind a strange
+mask.
+
+#221
+Kumootoko
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:  700
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A massive,
+intelligent spider
+that traps its
+enemies with webbing.
+
+#222
+Midnight Fiend
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A winged creature
+rumored to appear
+at midnight.
+
+#223
+Roaring Ocean Snake
+Type: Aqua
+Attribute: WATER
+Level:  6
+ATK: 2100
+DEF: 1800
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A massive
+sea serpent that
+creates tidal waves
+to wipe out
+its enemies.
+
+#224
+Trap Master
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  500
+DEF: 1100
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+A warrior that
+excels in laying
+traps such as a
+bottomless pit, for
+eternally ensnaring
+opponents.
+
+#225
+Fiend Sword
+Type: Warrior
+Attribute: DARK
+Level:  4
+ATK: 1400
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+Few have escaped
+the curse of this
+creature. Those that
+have done so have
+gained untold power.
+
+#226
+Skull Stalker
+Type: Warrior
+Attribute: DARK
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+Swift and vicious,
+this monster grabs
+its victim with its
+pincers and attacks
+the captive with its
+poison stinger.
+
+#227
+Hitodenchak
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  600
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A vicious starfish
+that spits acid
+to melt away
+its enemies.
+
+#228
+Wood Remains
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  900
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+A zombie that rose
+from the remains of
+the woodland ruler.
+
+#229
+Hourglass of Life
+Type: Fairy
+Attribute: LIGHT
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+A creature
+that allows power
+to be gained
+at the cost of life.
+
+#230
+Rare Fish
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+An unusual and
+ferocious fish with
+the head of a beast.
+
+#231
+Wood Clown
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF: 1200
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+An unpleasantly
+smiling creature
+that wields a scythe
+to avoid enemy blows.
+
+#232
+Madjinn Gunn
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  600
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A living weapon that
+fires projectiles
+from its mouth.
+
+#233
+Dark Titan of Terror
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1100
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A spirit said to
+dwell in the world
+of dreams.
+Attacks enemies
+in their sleep.
+
+#234
+Beautiful Headhuntress
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1600
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+A lovely swordmaster
+with some very
+agile moves.
+
+#235
+Wodan the Resident of the Forest
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF: 1200
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A warrior that has
+long resided in the
+forest and enjoys
+the protection
+of Mother Nature.
+
+#236
+Guardian of the Labyrinth
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1000
+DEF: 1200
+Guardian Star 1: Pluto
+Guardian Star 2: Mercury
+Description:
+A warrior that
+guards the entrance
+to the netherworld.
+
+#237
+Haniwa
+Type: Rock
+Attribute: EARTH
+Level:  2
+ATK:  500
+DEF:  500
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+An earthen doll
+that protects
+the treasure
+in the tombs
+of ancient kings.
+
+#238
+Yashinoki
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A palm tree with a
+will of its own that
+attacks enemies by
+flinging coconuts.
+
+#239
+Vishwar Randi
+Type: Warrior
+Attribute: DARK
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A woman warrior that
+serves the forces
+of darkness.
+
+#240
+The Drdek
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  700
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+An eyeball creature
+with legs for
+jumping high and
+delivering finishing
+blows with its sharp
+claws.
+
+#241
+Dark Assailant
+Type: Zombie
+Attribute: DARK
+Level:  4
+ATK: 1200
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+Armed with Psycho
+Sword, this sinister
+cutthroat rules the
+outer land.
+
+#242
+Candle of Fate
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  600
+DEF:  600
+Guardian Star 1: Mars
+Guardian Star 2: Moon
+Description:
+An opponent's fate
+is decided
+when the flames
+of each finger
+are extinguished.
+
+#243
+Water Element
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A water spirit
+that envelops
+its opponent
+in a thick fog
+to cover its attack.
+
+#244
+Dissolverock
+Type: Rock
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF: 1000
+Guardian Star 1: Mars
+Guardian Star 2: Venus
+Description:
+A monster borne from
+the lava pits.
+Generates intensive
+heat that can melt
+away its enemies.
+
+#245
+Meda Bat
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  800
+DEF:  400
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+An eyeball fiend
+created by a servant
+of darkness.
+Uses "Dark Spheres"
+to blow away
+its enemies.
+
+#246
+One Who Hunts Souls
+Type: BeastWarrior
+Attribute: EARTH
+Level:  4
+ATK: 1100
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A creature
+with a sword
+that gains its power
+from the life forces
+of its victims.
+
+#247
+Root Water
+Type: Fish
+Attribute: WATER
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+An amphibian capable
+of calling up a
+massive tidal wave
+from the dark seas
+to wipe out enemy
+monsters.
+
+#248
+Master & Expert
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A fearsome duo
+consisting of a
+beast master and
+its loyal servant.
+
+#249
+Water Omotics
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1400
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+Transforms the water
+overflowing from a
+jar into attacking
+dragons.
+
+#250
+Hyo
+Type: Warrior
+Attribute: WATER
+Level:  3
+ATK:  800
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+An ice warrior whose
+slightest touch
+freezes an opponent.
+
+#251
+Enchanting Mermaid
+Type: Fish
+Attribute: WATER
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A beautiful mermaid
+that lures voyagers
+to a watery grave.
+
+#252
+Nekogal #1
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF:  900
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A cat creature that
+looks cute to the
+eye but delivers
+scratching blows
+with its sharp claws.
+
+#253
+Angelwitch
+Type: Spellcaster
+Attribute: DARK
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A creature
+that chose the
+path of sorcery
+to become a witch.
+
+#254
+Embryonic Beast
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  500
+DEF:  750
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A repulsive monster
+with a gaping belly
+that swallows almost
+anything.
+
+#255
+Prevent Rat
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK:  500
+DEF: 2000
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+This monster is
+shielded by
+a hide covered
+in thick hair.
+
+#256
+Dimensional Warrior
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Venus
+Guardian Star 2: Mars
+Description:
+A monster
+capable of creating
+dimensional rifts
+to trap its enemies.
+
+#257
+Stone Armadiller
+Type: Rock
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+With a body armored
+by rock-hard fur,
+this monster
+features excellent
+defense capabilities.
+
+#258
+Beastking of the Swamps
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1000
+DEF: 1100
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+This creature
+changes the ground
+at its feet into
+quicksand to ensnare
+its enemies.
+
+#259
+Ancient Sorcerer
+Type: Spellcaster
+Attribute: DARK
+Level:  4
+ATK: 1000
+DEF: 1300
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+A master fighter
+that uses various
+staffs to render
+enemies unconscious.
+
+#260
+Lunar Queen Elzaim
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK:  750
+DEF: 1100
+Guardian Star 1: Moon
+Guardian Star 2: Venus
+Description:
+A lovely
+moon goddess that
+can throw up
+a lunar curtain
+to block
+enemy attacks.
+
+#261
+Wicked Mirror
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Venus
+Guardian Star 2: Jupiter
+Description:
+A malevolent mirror
+that hypnotizes
+a beholder and
+renders the victim
+susceptible
+to attacks.
+
+#262
+The Little Swordsman of Aile
+Type: Warrior
+Attribute: WATER
+Level:  3
+ATK:  800
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+An elf warrior
+mounted on a huge
+lizard.
+
+#263
+Rock Ogre Grotto #2
+Type: Rock
+Attribute: EARTH
+Level:  3
+ATK:  700
+DEF: 1400
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A stone golem
+that turns opponents
+into rocks and
+crushes them to dust.
+
+#264
+Wing Egg Elf
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK:  500
+DEF: 1300
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+Hiding within its
+eggshell, this
+creature blocks
+enemy attacks with
+its massive wings.
+
+#265
+The Furious Sea King
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  800
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+Grand King of the
+Seven Seas.
+Able to summon
+massive tidal waves
+to drown the enemy.
+
+#266
+Princess of Tsurugi
+Type: Warrior
+Attribute: WIND
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Saturn
+Guardian Star 2: Venus
+Description:
+A queen of swords
+that is virtually
+unequalled in her
+mastery of every
+blade imaginable
+to man.
+
+#267
+Unknown Warrior of Fiend
+Type: Warrior
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  500
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+The speed of this
+warrior creates
+an intense vacuum
+that can actually
+slice through
+a monster's hide.
+
+#268
+Sectarian of Secrets
+Type: Spellcaster
+Attribute: DARK
+Level:  2
+ATK:  700
+DEF:  500
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A sorcerer that
+worships the dark
+forces and can
+summon a massive
+hand to drag away
+opponents into
+the netherworld.
+
+#269
+Versago the Destroyer
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1100
+DEF:  900
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+A lord of
+destruction
+born from the heart
+of darkness,
+this creature
+can summon storms
+to destroy opponents.
+
+#270
+Wetha
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1000
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A rain spirit that
+can summon typhoons
+to blow away its
+enemies.
+
+#271
+Megirus Light
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  900
+DEF:  600
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+This creature's
+ominous eyes can
+unleash piercing
+rays against its
+enemies.
+
+#272
+Mavelus
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1300
+DEF:  900
+Guardian Star 1: Mars
+Guardian Star 2: Mercury
+Description:
+Related to the
+phoenix, this
+creature dwells in
+the mountains. Its
+fiery breath is
+extremely scorching.
+
+#273
+Ancient Tree of Enlightenment
+Type: Plant
+Attribute: EARTH
+Level:  3
+ATK:  600
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+Armed with a wealth
+of knowledge, this
+monster is able to
+block just about
+any attack.
+
+#274
+Green Phantom King
+Type: Plant
+Attribute: EARTH
+Level:  3
+ATK:  500
+DEF: 1600
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+This youthful king
+of the forests lives
+in a green world,
+abundant with trees
+and wildlife.
+
+#275
+Ground Attacker Bugroth
+Type: Machine
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+A land-based armored
+robot that is said
+to once have marine
+attack capabilities.
+
+#276
+Ray & Temperature
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK: 1000
+DEF: 1000
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+The Sun and the
+North Wind join
+hands to deliver
+a devastating
+combination of heat
+and gale-force winds.
+
+#277
+Gorgon Egg
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  300
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A gorgon's egg with
+eyes said to create
+whatever creature
+crosses its view.
+
+#278
+Petit Moth
+Type: Insect
+Attribute: EARTH
+Level:  1
+ATK:  300
+DEF:  200
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+Nobody has any idea
+what creature may
+spawn from this
+mysterious larva.
+
+#279
+King Fog
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK: 1000
+DEF:  900
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A spectre that
+dwells in a blinding
+curtain of smoke.
+
+#280
+Protector of the Throne
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK:  800
+DEF: 1500
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A creature that
+protects the king's
+throne from usurpers.
+
+#281
+Mystic Clown
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1500
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+Nothing can stop the
+mad attack of this
+powerful creature.
+
+#282
+Mystical Sheep #2
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Venus
+Guardian Star 2: Saturn
+Description:
+A monstrous sheep
+with a long tail for
+hypnotizing enemies
+to render them
+powerless.
+
+#283
+Holograh
+Type: Machine
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A monster machine
+that generates
+images to confuse
+its enemies,
+making them prone
+to attacks.
+
+#284
+Tao the Chanter
+Type: Spellcaster
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Venus
+Guardian Star 2: Uranus
+Description:
+A magic-user that
+corrodes the yin
+and yang to create
+a twisted power
+to attack enemies.
+
+#285
+Serpent Marauder
+Type: Reptile
+Attribute: EARTH
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A snake with a
+single eye that
+blows an icy breath
+to freeze its
+opponents.
+
+#286
+Gatekeeper
+Type: Machine
+Attribute: DARK
+Level:  5
+ATK: 1500
+DEF: 1800
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+An indestructible
+machine
+built to protect
+key entrances.
+
+#287
+Ogre of the Black Shadow
+Type: BeastWarrior
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1400
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+An ogre possessed
+by the powers
+of the dark.
+Few can withstand
+its rapid charge.
+
+#288
+Dark Artist
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  600
+DEF: 1400
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A demented artist
+that creates
+objets d'art
+to crush enemies.
+
+#289
+Change Slime
+Type: Aqua
+Attribute: WATER
+Level:  1
+ATK:  400
+DEF:  300
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A shape-shifting
+slime that is
+capable of adopting
+the form of other
+creatures.
+
+#290
+Moon Envoy
+Type: Warrior
+Attribute: LIGHT
+Level:  4
+ATK: 1100
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A servant of the
+moon goddess,
+this warrior
+wields a pike
+with a spectacular
+crescent-shaped
+blade.
+
+#291
+Fireyarou
+Type: Pyro
+Attribute: FIRE
+Level:  4
+ATK: 1300
+DEF: 1000
+Guardian Star 1: Mars
+Guardian Star 2: Saturn
+Description:
+A malevolent
+creature
+wrapped in flames
+that attacks enemies
+with intense fire.
+
+#292
+Psychic Kappa
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  400
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+An amphibian with
+extrasensory powers
+for blocking attacks.
+
+#293
+Masaki the Legendary Swordsman
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1100
+DEF: 1100
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+Legendary
+swordmaster and a
+veteran of over 100
+battles.
+
+#294
+Dragoness the Wicked Knight
+Type: Warrior
+Attribute: WIND
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Saturn
+Guardian Star 2: Mercury
+Description:
+A warrior
+equipped with
+equipment fashioned
+from dragon scales.
+
+#295
+Bio Plant
+Type: Fiend
+Attribute: DARK
+Level:  3
+ATK:  600
+DEF: 1300
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A monstrous creature
+born from a failed
+lab experiment.
+
+#296
+One-eyed Shield Dragon
+Type: Dragon
+Attribute: WIND
+Level:  3
+ATK:  700
+DEF: 1300
+Guardian Star 1: Saturn
+Guardian Star 2: Pluto
+Description:
+This dragon wears a
+shield not only for
+its own protection
+but also for ramming
+its enemies.
+
+#297
+Cyber Soldier of Darkworld
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK: 1400
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+An unstoppable
+mechanical soldier
+powered by dark
+forces.
+
+#298
+Wicked Dragon with the Ersatz Head
+Type: Dragon
+Attribute: WIND
+Level:  3
+ATK:  900
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A two-headed dragon
+with a pair of
+vicious jaws for
+crushing its enemies.
+
+#299
+Sonic Maid
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+A maiden
+that uses sound
+to her advantage.
+She wields a scythe
+that's shaped
+like a musical note.
+
+#300
+Kurama
+Type: WingedBeast
+Attribute: WIND
+Level:  3
+ATK:  800
+DEF:  800
+Guardian Star 1: Saturn
+Guardian Star 2: Neptune
+Description:
+A vicious bird that
+attacks from the
+skies with its
+whip-like tail.
+
+#301
+Legendary Sword
+Type: Equip
+Description:
+A sword that brings
+out the best in
+warriors. It cannot
+be used by servants
+of the dark.
+
+#302
+Sword of Dark Destruction
+Type: Equip
+Description:
+Dark forces
+increase the power
+of Warriors!
+
+#303
+Dark Energy
+Type: Equip
+Description:
+Dark forces increase
+the power of Fiends
+and other monsters
+of the Dark!
+
+#304
+Axe of Despair
+Type: Equip
+Description:
+Fiends and
+Beast-Warriors can
+constantly use their
+maximum strength!
+
+#305
+Laser Cannon Armor
+Type: Equip
+Description:
+Arms Insects with
+a powerful laser!
+
+#306
+Insect Armor with Laser Cannon
+Type: Equip
+Description:
+Allows Insects to
+fire an intense
+blast of fire!
+
+#307
+Elf's Light
+Type: Equip
+Description:
+Increases the power
+of elves with
+mystical light!
+
+#308
+Beast Fangs
+Type: Equip
+Description:
+Increases the power
+of Beasts and other
+fanged monsters!
+
+#309
+Steel Shell
+Type: Equip
+Description:
+Boosts the power of
+shelled monsters!
+Said to have no
+effect on those
+without shells.
+
+#310
+Vile Germs
+Type: Equip
+Description:
+Vile microbes boost
+the power of Plants
+in the woods!
+
+#311
+Black Pendant
+Type: Equip
+Description:
+This pendant grants
+extra power
+to Dark sorcerers!
+
+#312
+Silver Bow and Arrow
+Type: Equip
+Description:
+Silver bow and arrow
+enhances the power
+of Fairies.
+
+#313
+Horn of Light
+Type: Equip
+Description:
+Increases the power
+of horned creatures!
+Has no effect
+on Dark monsters.
+
+#314
+Horn of the Unicorn
+Type: Equip
+Description:
+Increases the power
+of Dark monsters
+with horns!
+
+#315
+Dragon Treasure
+Type: Equip
+Description:
+A legendary treasure
+that increases the
+power of dragons.
+
+#316
+Electro-whip
+Type: Equip
+Description:
+A whip for
+paralyzing enemies.
+Increases power when
+equipped with
+female creatures.
+
+#317
+Cyber Shield
+Type: Equip
+Description:
+Increases the power
+of female monsters
+by changing their
+attitudes.
+
+#318
+Elegant Egotist
+Type: Equip
+Description:
+Creates two
+doppelgangers of
+Harpy Lady for
+three-pronged
+attacks!
+
+#319
+Mystical Moon
+Type: Equip
+Description:
+Moonlight increases
+the power of Beasts!
+
+#320
+Stop Defense
+Type: Magic
+Description:
+Forces an opponent's
+monster card
+positioned for
+defense into the
+attack position.
+
+#321
+Malevolent Nuzzler
+Type: Equip
+Description:
+Diabolic forces act
+to increase the
+power of female and
+Dark monsters!
+
+#322
+Violet Crystal
+Type: Equip
+Description:
+Mystic forces from
+the crystal increase
+the power of Zombies.
+
+#323
+Book of Secret Arts
+Type: Equip
+Description:
+A magic book for
+increasing the power
+of magic-users.
+It cannot be used
+by bad-hearted
+sorcerers.
+
+#324
+Invigoration
+Type: Equip
+Description:
+Increases the power
+of Thunder, Rock,
+and Pyro monsters.
+
+#325
+Machine Conversion Factory
+Type: Equip
+Description:
+A manufacturing
+facility that tunes
+up all Machine
+monsters.
+
+#326
+Raise Body Heat
+Type: Equip
+Description:
+Absorbs the sun's
+energy to increase
+the power of
+Dinosaurs!
+
+#327
+Follow Wind
+Type: Equip
+Description:
+The winds provide
+support to increase
+the power of Winged
+Beasts and other
+flying monsters!
+
+#328
+Power of Kaishin
+Type: Equip
+Description:
+Poseidon's Strength
+is shared to boost
+the power of
+Aqua, Fish, and
+Sea Serpent
+monsters!
+
+#329
+Dragon Capture Jar
+Type: Magic
+Description:
+Destroys
+all opponent
+Dragon monsters
+on the playfield!
+
+#330
+Forest
+Type: Magic
+Description:
+Changes the field
+in favor of
+Beast-Warrior,
+Insect, Plant, and
+Beast monsters!
+
+#331
+Wasteland
+Type: Magic
+Description:
+Changes the field
+in favor of Zombie,
+Dinosaur and
+Rock monsters!
+
+#332
+Mountain
+Type: Magic
+Description:
+Changes the field
+in favor of Dragon,
+Winged Beast, and
+Thunder monsters!
+
+#333
+Sogen
+Type: Magic
+Description:
+Changes the field
+to meadow land
+in favor of Warrior
+and Beast-Warrior
+monsters!
+
+#334
+Umi
+Type: Magic
+Description:
+Changes the field
+in favor of Aqua
+and Thunder monsters
+but unfavorable to
+Machine and Pyro
+monsters!
+
+#335
+Yami
+Type: Magic
+Description:
+Changes the field
+in favor of
+Magic-User and
+Fiend monsters,
+but unfavorable
+to Fairy monsters!
+
+#336
+Dark Hole
+Type: Magic
+Description:
+Sucks up every card
+in play on the field
+
+#337
+Raigeki
+Type: Magic
+Description:
+Destroys every
+opposing monster
+with a stroke
+of lightning!
+
+#338
+Mooyan Curry
+Type: Magic
+Description:
+A delicious
+beef curry increases
+Life Points by 200!
+
+#339
+Red Medicine
+Type: Magic
+Description:
+A magic potion
+that increases
+Life Points by 500!
+
+#340
+Goblin's Secret Remedy
+Type: Magic
+Description:
+A goblin's herb
+that increases
+Life Points by 1000!
+
+#341
+Soul of the Pure
+Type: Magic
+Description:
+A fairy potion
+that increases
+Life Points by 2000!
+
+#342
+Dian Keto the Cure Master
+Type: Magic
+Description:
+A mystical power
+that increases
+Life Points by 5000!
+
+#343
+Sparks
+Type: Magic
+Description:
+A shower of sparks
+inflicts 50 points
+of damage
+to your opponent's
+Life Points!!
+
+#344
+Hinotama
+Type: Magic
+Description:
+A fireball
+inflicts 100 points
+of damage
+to your opponent's
+Life Points!!
+
+#345
+Final Flame
+Type: Magic
+Description:
+Flames
+inflict 200 points
+of damage
+to your opponent's
+Life Points!!
+
+#346
+Ookazi
+Type: Magic
+Description:
+Flames
+inflict 500 points
+of damage
+to your opponent's
+Life Points!
+
+#347
+Tremendous Fire
+Type: Magic
+Description:
+An inferno
+inflicts 1000 points
+of damage
+to your opponent's
+Life Points!
+
+#348
+Swords of Revealing Light
+Type: Magic
+Description:
+Enemy monsters
+are revealed and
+your opponent
+cannot attack
+for three turns.
+
+#349
+Spellbinding Circle
+Type: Magic
+Description:
+A curse reduces the
+power of all enemy
+monsters!
+
+#350
+Dark-piercing Light
+Type: Magic
+Description:
+A dazzling light
+reveals all monsters
+on the playing field.
+
+#351
+Yaranzo
+Type: Zombie
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1500
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A monster that
+attacks anybody
+who attempts
+to open its lid.
+
+#352
+Kanan the Swordmistress
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1400
+DEF: 1400
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A lady swordsman
+that floats like a
+butterfly and stings
+like a bee.
+
+#353
+Takriminos
+Type: SeaSerpent
+Attribute: WATER
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A finned creature
+distantly related
+to sea Dragons.
+
+#354
+Stuffed Animal
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A deceptively cute
+stuffed animal that
+bites.
+
+#355
+Megasonic Eye
+Type: Machine
+Attribute: DARK
+Level:  5
+ATK: 1500
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A cryptic doomsday
+machine that comes
+from the edge of
+the universe.
+
+#356
+Super War-lion
+Type: Beast
+Attribute: EARTH
+Level:  7
+ATK: 2300
+DEF: 2100
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A very vicious lion
+with sharp and
+long claws.
+
+#357
+Yamadron
+Type: Dragon
+Attribute: FIRE
+Level:  5
+ATK: 1600
+DEF: 1800
+Guardian Star 1: Mars
+Guardian Star 2: Uranus
+Description:
+A three-headed,
+fire-breathing
+monster.
+
+#358
+Seiyaryu
+Type: Dragon
+Attribute: LIGHT
+Level:  7
+ATK: 2500
+DEF: 2300
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+A sacred dragon
+that burns away
+wickedness with its
+mystical flames.
+
+#359
+Three-legged Zombies
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1100
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+Bony and Tubby,
+a friendly pair
+of skeletons.
+
+#360
+Zera The Mant
+Type: Fiend
+Attribute: DARK
+Level:  8
+ATK: 2800
+DEF: 2300
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A huge, brutal
+monster that attacks
+with razor-sharp
+claws.
+
+#361
+Flying Penguin
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A rare penguin that
+flies with the wings
+on its head.
+
+#362
+Millennium Shield
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK:    0
+DEF: 3000
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+A Millennium Item
+candidate
+that is said
+to block any
+powerful attack.
+
+#363
+Fairy's Gift
+Type: Spellcaster
+Attribute: LIGHT
+Level:  4
+ATK: 1400
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+Flies around
+spreading happiness
+to all.
+
+#364
+Black Luster Soldier
+Type: Warrior
+Attribute: DARK
+Level:  8
+ATK: 3000
+DEF: 2500
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A powerful warrior
+with the same
+capabilities as the
+legendary Blue-eyes
+White Dragon.
+
+#365
+Fiend's Mirror
+Type: Fiend
+Attribute: DARK
+Level:  6
+ATK: 2100
+DEF: 1800
+Guardian Star 1: Venus
+Guardian Star 2: Pluto
+Description:
+An arcane glass
+that draws
+its enemies into
+the mirror world.
+
+#366
+Labyrinth Wall
+Type: Rock
+Attribute: EARTH
+Level:  5
+ATK:    0
+DEF: 3000
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+Walls appear
+on the field to form
+a labyrinth with
+no exit.
+
+#367
+Jirai Gumo
+Type: Insect
+Attribute: EARTH
+Level:  4
+ATK: 2200
+DEF:  100
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A monster spider
+that dwells
+under the earth.
+
+#368
+Shadow Ghoul
+Type: Zombie
+Attribute: DARK
+Level:  5
+ATK: 1600
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A dangerous zombie
+that crawls
+in the dark.
+
+#369
+Wall Shadow
+Type: Warrior
+Attribute: DARK
+Level:  7
+ATK: 1600
+DEF: 3000
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+An unusually fast
+monster that sweeps
+across walls to
+attack its enemies.
+
+#370
+Labyrinth Tank
+Type: Machine
+Attribute: DARK
+Level:  7
+ATK: 2400
+DEF: 2400
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A tank that races
+around a labyrinth
+hunting down
+its enemies.
+
+#371
+Sanga of the Thunder
+Type: Thunder
+Attribute: LIGHT
+Level:  7
+ATK: 2600
+DEF: 2200
+Guardian Star 1: Pluto
+Guardian Star 2: Mars
+Description:
+A golem that uses
+lightning attacks
+similar to the
+Labyrinth Brothers.
+
+#372
+Kazejin
+Type: Spellcaster
+Attribute: WIND
+Level:  7
+ATK: 2400
+DEF: 2200
+Guardian Star 1: Saturn
+Guardian Star 2: Mars
+Description:
+A golem that
+controls the winds
+like the Labyrinth
+Brothers.
+
+#373
+Suijin
+Type: Aqua
+Attribute: WATER
+Level:  7
+ATK: 2500
+DEF: 2400
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A golem that uses
+water attacks like
+the Labyrinth
+Brothers.
+
+#374
+Gate Guardian
+Type: Warrior
+Attribute: DARK
+Level: 11
+ATK: 3750
+DEF: 3400
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+Sanga, Kazejin, and
+Suijin join to
+form a single,
+powerful monster.
+
+#375
+Dungeon Worm
+Type: Insect
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+Hidden under
+the floors of
+a labyrinth,
+it swallows any
+who pass above.
+
+#376
+Monster Tamer
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1600
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A master of monsters
+that exercises
+control over several
+creatures.
+
+#377
+Ryu-kishin Powered
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1600
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+Ryu-kishin enhanced
+by the powers of
+darkness. Very sharp
+talons make it
+a worthy opponent.
+
+#378
+Swordstalker
+Type: Warrior
+Attribute: DARK
+Level:  6
+ATK: 2000
+DEF: 1600
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A monster formed by
+the vengeful souls
+of those who passed
+away in battle.
+
+#379
+La Jinn the Mystical Genie
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1800
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+A genie of the lamp
+that's at the beck
+and call of its
+master.
+
+#380
+Blue-eyes Ultimate Dragon
+Type: Dragon
+Attribute: LIGHT
+Level: 12
+ATK: 4500
+DEF: 3800
+Guardian Star 1: Sun
+Guardian Star 2: Venus
+Description:
+The ultimate dragon
+formed by the fusion
+of three Blue-eyes
+White Dragons.
+
+#381
+Toon Alligator
+Type: Reptile
+Attribute: WATER
+Level:  4
+ATK:  800
+DEF: 1600
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+An alligator monster
+straight from
+the cartoons.
+
+#382
+Rude Kaiser
+Type: BeastWarrior
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1600
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+With an axe in each
+hand, this monster
+delivers heavy
+damage.
+
+#383
+Parrot Dragon
+Type: Dragon
+Attribute: WIND
+Level:  5
+ATK: 2000
+DEF: 1300
+Guardian Star 1: Saturn
+Guardian Star 2: Sun
+Description:
+A dragon from the
+cartoons that's more
+dangerous than it
+appears to be.
+
+#384
+Dark Rabbit
+Type: Beast
+Attribute: DARK
+Level:  4
+ATK: 1100
+DEF: 1500
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A cartoon rabbit
+that quickly leaps
+all over the place,
+making it a
+difficult target.
+
+#385
+Bickuribox
+Type: Fiend
+Attribute: DARK
+Level:  7
+ATK: 2300
+DEF: 2000
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A jack-in-the-box
+that excels
+in surprise attacks.
+
+#386
+Harpie's Pet Dragon
+Type: Dragon
+Attribute: WIND
+Level:  7
+ATK: 2000
+DEF: 2500
+Guardian Star 1: Saturn
+Guardian Star 2: Moon
+Description:
+A favorite pet for
+harpies, but a very
+dangerous dragon.
+
+#387
+Mystic Lamp
+Type: Spellcaster
+Attribute: DARK
+Level:  1
+ATK:  400
+DEF:  300
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A lamp
+used by wizards
+to mix potions.
+
+#388
+Pendulum Machine
+Type: Machine
+Attribute: DARK
+Level:  6
+ATK: 1750
+DEF: 2000
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A horrible torture
+machine with a large
+pendulum blade.
+
+#389
+Giltia the D. Knight
+Type: Warrior
+Attribute: LIGHT
+Level:  5
+ATK: 1850
+DEF: 1500
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+Armed with a
+soul-searing spear,
+this creature favors
+magic attacks.
+
+#390
+Launcher Spider
+Type: Machine
+Attribute: FIRE
+Level:  7
+ATK: 2200
+DEF: 2500
+Guardian Star 1: Mars
+Guardian Star 2: Pluto
+Description:
+A spider machine
+that launches
+explosive rockets
+against its enemies.
+
+#391
+Zoa
+Type: Fiend
+Attribute: DARK
+Level:  7
+ATK: 2600
+DEF: 1900
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A monster
+whose full potential
+can be achieved
+when transformed
+into its metal form.
+
+#392
+Metalzoa
+Type: Machine
+Attribute: DARK
+Level:  8
+ATK: 3000
+DEF: 2300
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A metallic Zoa
+capable of
+intensive attacks.
+
+#393
+Zone Eater
+Type: Aqua
+Attribute: WATER
+Level:  1
+ATK:  250
+DEF:  200
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A sea creature that
+swallows enemies and
+slowly digests them.
+
+#394
+Steel Scorpion
+Type: Machine
+Attribute: EARTH
+Level:  1
+ATK:  250
+DEF:  300
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+An iron-tailed
+monster equipped
+with very sharp
+scissors.
+
+#395
+Dancing Elf
+Type: Fairy
+Attribute: WIND
+Level:  1
+ATK:  300
+DEF:  200
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+An elf that dances
+across the sky with
+wings of razor-sharp
+blades.
+
+#396
+Ocubeam
+Type: Fairy
+Attribute: LIGHT
+Level:  5
+ATK: 1550
+DEF: 1650
+Guardian Star 1: Saturn
+Guardian Star 2: Venus
+Description:
+Frightening in
+appearance, this
+creature uses its
+large eyes and ears
+to keep track
+of any movement.
+
+#397
+Leghul
+Type: Insect
+Attribute: EARTH
+Level:  1
+ATK:  300
+DEF:  350
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+Not a very powerful
+monster despite its
+large fangs and
+spikes.
+
+#398
+Ooguchi
+Type: Aqua
+Attribute: WATER
+Level:  1
+ATK:  300
+DEF:  250
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A monstrous bullfrog
+with poison spikes.
+
+#399
+Swordsman from a Foreign Land
+Type: Warrior
+Attribute: EARTH
+Level:  1
+ATK:  250
+DEF:  250
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+An eastern warrior
+armed with a cursed
+sword.
+
+#400
+Emperor of the Land and Sea
+Type: Reptile
+Attribute: WATER
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A fire-breathing
+reptilian monster.
+
+#401
+Ushi Oni
+Type: Fiend
+Attribute: DARK
+Level:  6
+ATK: 2150
+DEF: 1950
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A bull monster
+resurrected by
+the dark arts
+that appears
+from inside a jar.
+
+#402
+Monster Eye
+Type: Fiend
+Attribute: DARK
+Level:  1
+ATK:  250
+DEF:  350
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A servant that
+maintains a close
+watch on anything
+and everything.
+It throws up
+a smokescreen
+when discovered.
+
+#403
+Leogun
+Type: Beast
+Attribute: EARTH
+Level:  5
+ATK: 1750
+DEF: 1550
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+Huge monster
+with a lion's mane
+similar to the
+"King of Beasts".
+
+#404
+Tatsunootoshigo
+Type: Beast
+Attribute: EARTH
+Level:  5
+ATK: 1350
+DEF: 1600
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A fast-moving sea
+monster that has the
+bodies of a horse
+and a fish.
+
+#405
+Saber Slasher
+Type: Machine
+Attribute: DARK
+Level:  5
+ATK: 1450
+DEF: 1500
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A rampaging machine
+that wields
+a massive sword.
+
+#406
+Yaiba Robo
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK: 1000
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A machine
+with several blades
+hidden within
+its square body.
+
+#407
+Machine King
+Type: Machine
+Attribute: EARTH
+Level:  6
+ATK: 2200
+DEF: 2000
+Guardian Star 1: Mars
+Guardian Star 2: Sun
+Description:
+Armored with super
+alloy, this robot
+attacks with blasts
+of fire launched
+from both arms.
+
+#408
+Giant Mech-soldier
+Type: Machine
+Attribute: EARTH
+Level:  6
+ATK: 1750
+DEF: 1900
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+This monster swings
+an earth-shaking axe
+that can eliminate
+enemies with
+a single blow.
+
+#409
+Metal Dragon
+Type: Machine
+Attribute: WIND
+Level:  6
+ATK: 1850
+DEF: 1700
+Guardian Star 1: Mars
+Guardian Star 2: Moon
+Description:
+A golden,
+fire-breathing
+dragon that burns
+any opponent
+in its path.
+
+#410
+Mechanical Spider
+Type: Machine
+Attribute: EARTH
+Level:  2
+ATK:  400
+DEF:  500
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A spider-shaped,
+mechanized monster
+with sickles at
+the end of its legs.
+
+#411
+Bat
+Type: Machine
+Attribute: WIND
+Level:  1
+ATK:  300
+DEF:  350
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A mechanized bat
+that attacks
+by dropping
+explosion orbs.
+
+#412
+Giga-tech Wolf
+Type: Machine
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A wolf made entirely
+of iron. Its steel
+jaws can bite
+through anything.
+
+#413
+Cyber Soldier
+Type: Machine
+Attribute: DARK
+Level:  5
+ATK: 1500
+DEF: 1700
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+Round-shaped
+soldiers that roll
+around and act as
+guardians to the
+Machine King.
+
+#414
+Shovel Crusher
+Type: Machine
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+Armed with
+a pair of shovels,
+this creature is
+a walking engine
+of destruction.
+
+#415
+Mechanicalchacer
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK: 1850
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A hunter that
+relentlessly pursues
+its target by order
+of the Machine King.
+
+#416
+Blocker
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK:  850
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+Each separate part
+of this creature is
+an individual weapon
+capable of
+devastating attacks.
+
+#417
+Blast Juggler
+Type: Machine
+Attribute: FIRE
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Mars
+Guardian Star 2: Venus
+Description:
+A walking time
+device that loves
+to blow enemies
+away.
+
+#418
+Golgoil
+Type: Machine
+Attribute: EARTH
+Level:  4
+ATK:  900
+DEF: 1600
+Guardian Star 1: Venus
+Guardian Star 2: Neptune
+Description:
+A massive iron golem
+that appears from
+a dimensional rift.
+
+#419
+Giganto
+Type: Machine
+Attribute: DARK
+Level:  5
+ATK: 1700
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+This creature swings
+around a huge spiked
+ball to destroy its
+enemies.
+
+#420
+Cyber-Stein
+Type: Machine
+Attribute: DARK
+Level:  2
+ATK:  700
+DEF:  500
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+Created in a
+basement lab, this
+infernal machine
+launches rockets
+from within its
+mouth.
+
+#421
+Cyber Commander
+Type: Machine
+Attribute: DARK
+Level:  2
+ATK:  750
+DEF:  700
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A strike force
+equipped with
+rader detectors
+and sensors.
+
+#422
+Jinzo #7
+Type: Machine
+Attribute: DARK
+Level:  2
+ATK:  500
+DEF:  400
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+Created in an
+underground lab,
+this artificial
+being occasionally
+goes berserk.
+
+#423
+Dice Armadillo
+Type: Machine
+Attribute: EARTH
+Level:  5
+ATK: 1650
+DEF: 1800
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+An armadillo-like
+creature that forms
+a die whenever it
+rolls up its body.
+
+#424
+Sky Dragon
+Type: Dragon
+Attribute: WIND
+Level:  6
+ATK: 1900
+DEF: 1800
+Guardian Star 1: Saturn
+Guardian Star 2: Uranus
+Description:
+A bird-like dragon
+with four bladed
+wings.
+
+#425
+Thunder Dragon
+Type: Thunder
+Attribute: LIGHT
+Level:  5
+ATK: 1600
+DEF: 1500
+Guardian Star 1: Pluto
+Guardian Star 2: Jupiter
+Description:
+A dragon that
+summons thunder and
+lightning to attack
+its opponents.
+
+#426
+Stone D.
+Type: Rock
+Attribute: EARTH
+Level:  7
+ATK: 2000
+DEF: 2300
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+With a body
+consisting entirely
+of rocks,
+this dragon
+flings boulders
+at its enemies.
+
+#427
+Kaiser Dragon
+Type: Dragon
+Attribute: LIGHT
+Level:  7
+ATK: 2300
+DEF: 2000
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A very proud and
+powerful dragon
+emperor.
+
+#428
+Magician of Faith
+Type: Spellcaster
+Attribute: LIGHT
+Level:  1
+ATK:  300
+DEF:  400
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+Despite its weak
+strength, this
+creature is capable
+of casting spells
+to eliminate
+darkness.
+
+#429
+Goddess of Whim
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK:  950
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+A shy goddess that
+seems to spend the
+majority of her
+time sleeping.
+
+#430
+Water Magician
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1400
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+This creature
+surrounds opponents
+with water and
+envelops them in a
+sweeping attack.
+
+#431
+Ice Water
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1150
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A very aggressive
+mermaid with spikes
+for attacking
+enemies.
+
+#432
+Waterdragon Fairy
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1100
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A fairy that
+wanders the seas.
+Rumored to have
+the capabilities
+for summoning sea
+dragons.
+
+#433
+Ancient Elf
+Type: Spellcaster
+Attribute: LIGHT
+Level:  4
+ATK: 1450
+DEF: 1200
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+This elf is rumored
+to have lived for
+thousands of years.
+He leads an army of
+spirits against his
+enemies.
+
+#434
+Beautiful Beast Trainer
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1750
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+A rare female
+magic-user armed
+with a vicious whip.
+
+#435
+Water Girl
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1250
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A beautiful creature
+that flings icy
+arrows.
+
+#436
+White Dolphin
+Type: Fish
+Attribute: WATER
+Level:  2
+ATK:  500
+DEF:  400
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A white, horned
+dolphin that attacks
+by calling up
+tidal waves.
+
+#437
+Deepsea Shark
+Type: Fish
+Attribute: WATER
+Level:  5
+ATK: 1900
+DEF: 1600
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A violent shark that
+attacks anything
+in the sea.
+
+#438
+Metal Fish
+Type: Machine
+Attribute: WATER
+Level:  5
+ATK: 1600
+DEF: 1900
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A steel fish
+armed with a sharp
+dorsal fin.
+
+#439
+Bottom Dweller
+Type: Fish
+Attribute: WATER
+Level:  5
+ATK: 1650
+DEF: 1700
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A beautiful swimmer
+with a very nasty
+temperament.
+
+#440
+7 Colored Fish
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1800
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A rare rainbow fish
+that is almost
+impossible to catch.
+
+#441
+Mech Bass
+Type: Machine
+Attribute: WATER
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+This creature
+carries a plasma
+cannon on its back.
+
+#442
+Aqua Dragon
+Type: SeaSerpent
+Attribute: WATER
+Level:  6
+ATK: 2250
+DEF: 1900
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A dragon that dwells
+in the sea. It is
+capable of spitting
+high-pressure blasts
+of water.
+
+#443
+Sea King Dragon
+Type: SeaSerpent
+Attribute: WATER
+Level:  6
+ATK: 2000
+DEF: 1700
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+The king of the seas
+this creature is
+protected by a solid
+shell and spits
+poisonous bubbles at
+its enemies.
+
+#444
+Turu-Purun
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  450
+DEF:  500
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A strange, one-eyed
+monster armed with
+a dangerous spear.
+
+#445
+Guardian of the Sea
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1300
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A merman warrior
+that attacks anyone
+who dares to
+pollute the sea.
+
+#446
+Aqua Snake
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1050
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A creature that
+drowns its opponents
+by mesmerizing them
+with the ball on
+the end of its tail.
+
+#447
+Giant Red Seasnake
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1800
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A sea serpent
+that bites anything
+that passes nearby.
+
+#448
+Spike Seadra
+Type: SeaSerpent
+Attribute: WATER
+Level:  5
+ATK: 1600
+DEF: 1300
+Guardian Star 1: Pluto
+Guardian Star 2: Mercury
+Description:
+Using the spikes
+sprouting from its
+body, this creature
+stabs its opponents
+and floods them
+with electricity.
+
+#449
+30,000-Year White Turtle
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1250
+DEF: 2100
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A massive and
+well-protected
+giant turtle
+that has lived
+over 30000 years.
+
+#450
+Kappa Avenger
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+An amphibian sworn
+to avenge the death
+of its brothers.
+
+#451
+Kanikabuto
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  650
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A crab monster with
+two massive scissors
+for cutting up
+enemies.
+
+#452
+Zarigun
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  600
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A newly evolved
+crayfish with sharp
+scissors for
+clipping the enemy.
+
+#453
+Millennium Golem
+Type: Rock
+Attribute: EARTH
+Level:  6
+ATK: 2000
+DEF: 2200
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+A golem
+that has protected
+treasure for nearly
+a millennium.
+
+#454
+Destroyer Golem
+Type: Rock
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A golem with a
+massive right hand
+for crushing its
+victims.
+
+#455
+Barrel Rock
+Type: Rock
+Attribute: EARTH
+Level:  4
+ATK: 1000
+DEF: 1300
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+A monster that
+charges into enemies
+firing a pair of
+cannons mounted on
+its shoulders.
+
+#456
+Minomushi Warrior
+Type: Rock
+Attribute: EARTH
+Level:  4
+ATK: 1300
+DEF: 1200
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A rock warrior
+that wields
+a very heavy sword
+carved from stone.
+
+#457
+Stone Ghost
+Type: Rock
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+A creature that
+erupts with anger,
+resulting in a
+crushing rain of
+boulders.
+
+#458
+Kaminari Attack
+Type: Thunder
+Attribute: WIND
+Level:  5
+ATK: 1900
+DEF: 1400
+Guardian Star 1: Pluto
+Guardian Star 2: Venus
+Description:
+A monster that
+judges wrong-doers
+and punishes them
+appropriately.
+
+#459
+Tripwire Beast
+Type: Thunder
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1300
+Guardian Star 1: Pluto
+Guardian Star 2: Saturn
+Description:
+This creature
+attacks enemies
+with electromagnetic
+waves.
+
+#460
+Bolt Escargot
+Type: Thunder
+Attribute: WATER
+Level:  5
+ATK: 1400
+DEF: 1500
+Guardian Star 1: Pluto
+Guardian Star 2: Jupiter
+Description:
+This creature spits
+a gooey substance
+that robs enemies of
+mobility and then
+stuns them with
+electric shocks.
+
+#461
+Bolt Penguin
+Type: Thunder
+Attribute: WATER
+Level:  3
+ATK: 1100
+DEF:  800
+Guardian Star 1: Pluto
+Guardian Star 2: Moon
+Description:
+A monster
+with a pair of
+electric whips
+instead of arms.
+
+#462
+The Immortal of Thunder
+Type: Thunder
+Attribute: LIGHT
+Level:  4
+ATK: 1500
+DEF: 1300
+Guardian Star 1: Pluto
+Guardian Star 2: Sun
+Description:
+A creature that
+attacks enemies
+with thunderbolts.
+
+#463
+Electric Snake
+Type: Thunder
+Attribute: LIGHT
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Pluto
+Guardian Star 2: Mars
+Description:
+A serpent with a
+tail for storing
+electricity.
+
+#464
+Wing Eagle
+Type: WingedBeast
+Attribute: WIND
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Saturn
+Guardian Star 2: Mercury
+Description:
+A hunter of the
+skies that has never
+missed a target.
+
+#465
+Punished Eagle
+Type: WingedBeast
+Attribute: WIND
+Level:  6
+ATK: 2100
+DEF: 1800
+Guardian Star 1: Saturn
+Guardian Star 2: Pluto
+Description:
+A judge of the skies
+that delivers
+a sentence with
+its punishing
+silver-white claws.
+
+#466
+Skull Red Bird
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1550
+DEF: 1200
+Guardian Star 1: Saturn
+Guardian Star 2: Sun
+Description:
+This monster
+swoops down
+and attacks with
+a rain of knives
+stored in its wings.
+
+#467
+Crimson Sunbird
+Type: WingedBeast
+Attribute: FIRE
+Level:  6
+ATK: 2300
+DEF: 1800
+Guardian Star 1: Mars
+Guardian Star 2: Mercury
+Description:
+A monster burning
+with crimson flames
+and capable of
+delivering a rain of
+sparks by flapping
+its wings.
+
+#468
+Queen Bird
+Type: WingedBeast
+Attribute: WIND
+Level:  5
+ATK: 1200
+DEF: 2000
+Guardian Star 1: Saturn
+Guardian Star 2: Moon
+Description:
+A creature that
+attacks its enemies
+with its large beak.
+
+#469
+Armed Ninja
+Type: Warrior
+Attribute: EARTH
+Level:  1
+ATK:  300
+DEF:  300
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A blue ninja
+that attacks
+with a large sickle
+and spiked feet.
+
+#470
+Magical Ghost
+Type: Zombie
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1400
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+This creature casts
+a spell of terror
+and confusion just
+before attacking
+its enemies.
+
+#471
+Soul Hunter
+Type: Fiend
+Attribute: DARK
+Level:  6
+ATK: 2200
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+This clown feeds
+the life force of
+its enemies to
+a monstrous lizard.
+
+#472
+Air Eater
+Type: Fiend
+Attribute: WIND
+Level:  6
+ATK: 2100
+DEF: 1600
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A monster that
+suffocates its
+enemy by feeding
+on the surrounding
+air supply.
+
+#473
+Vermillion Sparrow
+Type: Pyro
+Attribute: FIRE
+Level:  5
+ATK: 1900
+DEF: 1500
+Guardian Star 1: Mars
+Guardian Star 2: Venus
+Description:
+A fiery warrior
+creature that
+unleashes intense
+heat from its body.
+
+#474
+Sea Kamen
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1100
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A cruel monster that
+slices up enemies
+with its sharp claws.
+
+#475
+Sinister Serpent
+Type: Reptile
+Attribute: WATER
+Level:  1
+ATK:  300
+DEF:  250
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A flying poison
+snake that is
+not very good
+at maneuvering
+on the ground.
+
+#476
+Ganigumo
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  600
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A spider armed with
+scissors to attack
+anything that
+it traps in its web.
+
+#477
+Alinsection
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:  950
+DEF:  700
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A stag beetle
+monster with
+saw-toothed horn
+and arms.
+
+#478
+Insect Soldiers of the Sky
+Type: Insect
+Attribute: WIND
+Level:  3
+ATK: 1000
+DEF:  800
+Guardian Star 1: Saturn
+Guardian Star 2: Neptune
+Description:
+Insect soldiers that
+attack in swarms.
+
+#479
+Cockroach Knight
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A cockroach warrior
+that hides in small
+spaces and emerges
+to attack enemies.
+
+#480
+Kuwagata α
+Type: Insect
+Attribute: EARTH
+Level:  4
+ATK: 1250
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A violent stag
+beetle with a
+razor-like cutter.
+
+#481
+Burglar
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  850
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A clever mouse
+with a sharpened
+left claw.
+
+#482
+Pragtical
+Type: Dinosaur
+Attribute: EARTH
+Level:  5
+ATK: 1900
+DEF: 1500
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A very dangerous
+monster with spikes
+on its head and tail.
+
+#483
+Garvas
+Type: Beast
+Attribute: EARTH
+Level:  6
+ATK: 2000
+DEF: 1700
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A malevolent
+creature that
+resembles a
+winged lion.
+
+#484
+Ameba
+Type: Aqua
+Attribute: WATER
+Level:  1
+ATK:  300
+DEF:  350
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A monster
+that envelops
+an enemy and
+slowly digests it.
+
+#485
+Korogashi
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  550
+DEF:  400
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+This creature rolls
+massive objects
+to crush its enemies.
+
+#486
+Boo Koo
+Type: Spellcaster
+Attribute: DARK
+Level:  2
+ATK:  650
+DEF:  500
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A book wizard
+with page after page
+of potent spells.
+
+#487
+Flower Wolf
+Type: Beast
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A beast
+covered in flowers
+from head to toe.
+
+#488
+Rainbow Flower
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  400
+DEF:  500
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A flower creature
+with rainbow-colored
+blossoms that lure
+an enemy into its
+waiting jaws.
+
+#489
+Barrel Lily
+Type: Plant
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A dangerous flower
+that fires pollen
+projectiles.
+
+#490
+Needle Ball
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  750
+DEF:  700
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A ball covered in
+sharp needles.
+Usually rains down
+on enemies in a
+group.
+
+#491
+Peacock
+Type: WingedBeast
+Attribute: WIND
+Level:  5
+ATK: 1700
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A beautiful peacock-
+like creature that
+fires its feathers
+at opponents.
+
+#492
+Hoshiningen
+Type: Fairy
+Attribute: LIGHT
+Level:  2
+ATK:  500
+DEF:  700
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+Trailed by a
+beautiful tail, this
+shooting star
+inflicts damage when
+it hits an enemy.
+
+#493
+Maha Vailo
+Type: Spellcaster
+Attribute: LIGHT
+Level:  5
+ATK: 1550
+DEF: 1400
+Guardian Star 1: Sun
+Guardian Star 2: Venus
+Description:
+A wizard dressed in
+blue who is usually
+found meditating.
+
+#494
+Rainbow Marine Mermaid
+Type: Fish
+Attribute: WATER
+Level:  5
+ATK: 1550
+DEF: 1700
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+An unusual mermaid
+that appears
+whenever a rainbow
+bridges the sky.
+
+#495
+Musician King
+Type: Spellcaster
+Attribute: LIGHT
+Level:  5
+ATK: 1750
+DEF: 1500
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+A fantastic guitar
+player that attacks
+enemies with
+ultrasonic emissions.
+
+#496
+Wilmee
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1000
+DEF: 1200
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A ferocious rabbit
+with sharp claws.
+
+#497
+Yado Karu
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK:  900
+DEF: 1700
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A hermit crab with
+the head of a dragon.
+
+#498
+Morinphen
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1550
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A strange fiend
+with long arms and
+razor-sharp talons.
+
+#499
+Kattapillar
+Type: Insect
+Attribute: EARTH
+Level:  1
+ATK:  250
+DEF:  300
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+Attacks by blowing
+webs at its enemies.
+Nobody knows
+what the final form
+of this insect
+might be.
+
+#500
+Dragon Seeker
+Type: Fiend
+Attribute: DARK
+Level:  6
+ATK: 2000
+DEF: 2100
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A fearsome monster
+sent from the
+netherworld
+to destroy dragons.
+
+#501
+Man-eater Bug
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  450
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A creature that
+slices and dices
+with its scissors
+and feeds off its
+victims.
+
+#502
+D. Human
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1300
+DEF: 1100
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+Gifted with the
+power of dragons,
+this warrior wields
+a sword created
+from a dragon's fang.
+
+#503
+Turtle Raccoon
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  700
+DEF:  900
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A fox-like creature
+with a protective
+shell.
+
+#504
+Fungi of the Musk
+Type: Fiend
+Attribute: DARK
+Level:  1
+ATK:  400
+DEF:  300
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A monster that leaks
+acid from its pores
+to melt anything
+that touches its
+skin.
+
+#505
+Prisman
+Type: Rock
+Attribute: LIGHT
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+A clear crystal
+that focuses light
+to create a powerful
+laser beam.
+
+#506
+Gale Dogra
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  650
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A huge moth that
+generates a
+whirlwind containing
+poison dust.
+
+#507
+Crazy Fish
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1600
+DEF: 1200
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A flying fish
+with a sharp head
+for piercing targets.
+
+#508
+Cyber Saurus
+Type: Machine
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1400
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A mechanical
+dinosaur equipped
+with a beam cannon.
+
+#509
+Bracchio-raidus
+Type: Dinosaur
+Attribute: WATER
+Level:  6
+ATK: 2200
+DEF: 2000
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+A colossal dinosaur
+that stomps
+on anything
+that wanders
+into its path.
+
+#510
+Laughing Flower
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  900
+DEF:  500
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A laughing flower
+whose chuckles can
+drive an enemy mad.
+
+#511
+Bean Soldier
+Type: Plant
+Attribute: EARTH
+Level:  4
+ATK: 1400
+DEF: 1300
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A plant warrior
+that attacks
+with a combination
+of sword-swings and
+pea projectiles.
+
+#512
+Cannon Soldier
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK: 1400
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A highly destructive
+machine armed with a
+powerful cannon.
+
+#513
+Guardian of the Throne Room
+Type: Machine
+Attribute: LIGHT
+Level:  5
+ATK: 1650
+DEF: 1600
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+A sentry robot armed
+with homing rockets
+for guarding throne
+rooms from intruders.
+
+#514
+Brave Scizzar
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK: 1300
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A creature capable
+of manipulating
+several scissors
+with definite
+results.
+
+#515
+The Statue of Easter Island
+Type: Rock
+Attribute: EARTH
+Level:  4
+ATK: 1100
+DEF: 1400
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A massive stone idol
+from Easter Island
+that fires laser
+rings from its mouth.
+
+#516
+Muka Muka
+Type: Rock
+Attribute: EARTH
+Level:  2
+ATK:  600
+DEF:  300
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+A monster that
+angers an opponent
+to the point that
+the enemy goes
+berserk.
+
+#517
+Sand Stone
+Type: Rock
+Attribute: EARTH
+Level:  5
+ATK: 1300
+DEF: 1600
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+Appears from
+underground and
+attacks with long,
+snake-like tentacles.
+
+#518
+Boulder Tortoise
+Type: Aqua
+Attribute: EARTH
+Level:  6
+ATK: 1450
+DEF: 2200
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A stone turtle with
+a very high defense
+factor.
+
+#519
+Fire Kraken
+Type: Aqua
+Attribute: FIRE
+Level:  5
+ATK: 1600
+DEF: 1500
+Guardian Star 1: Mars
+Guardian Star 2: Saturn
+Description:
+A fiery squid that
+can maintain its
+flames underwater.
+
+#520
+Turtle Bird
+Type: Aqua
+Attribute: WATER
+Level:  6
+ATK: 1900
+DEF: 1700
+Guardian Star 1: Saturn
+Guardian Star 2: Mars
+Description:
+A rare flying turtle
+that inhabits
+the sea.
+
+#521
+Skullbird
+Type: WingedBeast
+Attribute: WIND
+Level:  6
+ATK: 1900
+DEF: 1700
+Guardian Star 1: Saturn
+Guardian Star 2: Venus
+Description:
+The breath from this
+bird robs creatures
+of their life force.
+
+#522
+Monstrous Bird
+Type: WingedBeast
+Attribute: WIND
+Level:  6
+ATK: 2000
+DEF: 1900
+Guardian Star 1: Saturn
+Guardian Star 2: Mercury
+Description:
+A huge bird
+known for its sharp
+dive attacks.
+
+#523
+The Bistro Butcher
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1800
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+Defeated enemies
+serve as ingredients
+for this gourmet
+monster.
+
+#524
+Star Boy
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  550
+DEF:  500
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+An extraterrestrial
+life form that loves
+living in water.
+
+#525
+Spirit of the Mountain
+Type: Spellcaster
+Attribute: EARTH
+Level:  5
+ATK: 1300
+DEF: 1800
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+Music from this
+creature's flute
+can drain
+an enemy's willpower.
+
+#526
+Neck Hunter
+Type: Fiend
+Attribute: DARK
+Level:  6
+ATK: 1750
+DEF: 1900
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+Armed with a huge
+sickle, this monster
+can fire beams
+from its large eyes.
+
+#527
+Milus Radiant
+Type: Beast
+Attribute: EARTH
+Level:  1
+ATK:  300
+DEF:  250
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+Often mistaken
+as a cute pet,
+this creature is a
+very dangerous beast.
+
+#528
+Togex
+Type: Beast
+Attribute: EARTH
+Level:  5
+ATK: 1600
+DEF: 1800
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A very fast monster
+that rolls up and
+rams its enemies.
+
+#529
+Flame Cerebrus
+Type: Pyro
+Attribute: FIRE
+Level:  6
+ATK: 2100
+DEF: 1800
+Guardian Star 1: Mars
+Guardian Star 2: Pluto
+Description:
+A flaming beast
+that is lethal
+to the touch.
+
+#530
+Eldeen
+Type: Spellcaster
+Attribute: LIGHT
+Level:  3
+ATK:  950
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+Uses a wand to cast
+various spells
+against an enemy.
+
+#531
+Mystical Sand
+Type: Rock
+Attribute: EARTH
+Level:  6
+ATK: 2100
+DEF: 1700
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+Turns enemies to
+stone and crushes
+them to dust.
+
+#532
+Gemini Elf
+Type: Spellcaster
+Attribute: EARTH
+Level:  4
+ATK: 1900
+DEF:  900
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+Elf twins
+that attack an enemy
+from opposite sides.
+
+#533
+Kwagar Hercules
+Type: Insect
+Attribute: EARTH
+Level:  6
+ATK: 1900
+DEF: 1700
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+An insect monster
+with the jaws of
+a stag beetle and
+the horn of a beetle.
+
+#534
+Minar
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:  850
+DEF:  750
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A monster with four
+highly dexterous
+arms for executing
+separate attacks.
+
+#535
+Kamakiriman
+Type: Insect
+Attribute: EARTH
+Level:  4
+ATK: 1150
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A man-shaped mantis
+with two razor-sharp
+scythes.
+
+#536
+Mechaleon
+Type: Reptile
+Attribute: WATER
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A chameleon-like
+monster that can
+hide anywhere
+by changing colors.
+
+#537
+Mega Thunderball
+Type: Thunder
+Attribute: WIND
+Level:  2
+ATK:  750
+DEF:  600
+Guardian Star 1: Pluto
+Guardian Star 2: Mercury
+Description:
+Rolls along the
+ground releasing
+bolts of electricity
+to attack its
+enemies.
+
+#538
+Niwatori
+Type: WingedBeast
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+Swallows enemies
+whole and uses
+their essence
+as energy.
+
+#539
+Corroding Shark
+Type: Zombie
+Attribute: DARK
+Level:  3
+ATK: 1100
+DEF:  700
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A zombie shark that
+wanders the ocean
+depths, cursing any
+that dare cross its
+path.
+
+#540
+Skelengel
+Type: Fairy
+Attribute: LIGHT
+Level:  2
+ATK:  900
+DEF:  400
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+A phantom fairy that
+fires countless
+arrows at anything
+that harbors an urge
+to attack.
+
+#541
+Hane-Hane
+Type: Beast
+Attribute: EARTH
+Level:  2
+ATK:  450
+DEF:  500
+Guardian Star 1: Saturn
+Guardian Star 2: Pluto
+Description:
+This creature blocks
+enemy movement with
+gale-force winds
+and attacks with
+a massive battle axe.
+
+#542
+Misairuzame
+Type: Fish
+Attribute: WATER
+Level:  5
+ATK: 1400
+DEF: 1600
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A rocket-launching
+fish protected
+by thorny spikes.
+
+#543
+Tongyo
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1350
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+This creature is
+powered by the life
+force of the fishes
+it captures with
+its long tongue.
+
+#544
+Dharma Cannon
+Type: Machine
+Attribute: DARK
+Level:  2
+ATK:  900
+DEF:  500
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A highly accurate
+mechanical monster
+covered with large-
+caliber cannons.
+
+#545
+Skelgon
+Type: Zombie
+Attribute: DARK
+Level:  6
+ATK: 1700
+DEF: 1900
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A skeletal zombie
+dragon that is
+capable of flying
+across the skies.
+
+#546
+Wow Warrior
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1250
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A massive beast
+of a fish with
+arms, legs, and
+razor-sharp teeth.
+
+#547
+Griggle
+Type: Plant
+Attribute: EARTH
+Level:  1
+ATK:  350
+DEF:  300
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+This monster spins
+about its enemy
+launching blinding
+leaves and painful
+seeds.
+
+#548
+Bone Mouse
+Type: Zombie
+Attribute: DARK
+Level:  1
+ATK:  400
+DEF:  300
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A zombie rat
+that hunts felines.
+
+#549
+Frog The Jam
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  700
+DEF:  500
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A slime creature
+with a frog's head
+that croaks as it
+attacks.
+
+#550
+Behegon
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1350
+DEF: 1000
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A strange sea
+serpent with a
+massive mouth lined
+with huge fangs.
+
+#551
+Dark Elf
+Type: Spellcaster
+Attribute: DARK
+Level:  4
+ATK: 2000
+DEF:  800
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A wicked elf
+that just loves
+to engage in battle.
+
+#552
+Winged Dragon #2
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Saturn
+Guardian Star 2: Neptune
+Description:
+Creates powerful
+tornadoes with
+its huge wings.
+
+#553
+Mushroom Man #2
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1250
+DEF:  800
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A fully grown
+Mushroom Man with
+an increased
+attack factor.
+
+#554
+Lava Battleguard
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1550
+DEF: 1800
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+This brother of
+Swamp Battleguard
+may not be powerful,
+but is pretty good
+on defense.
+
+#555
+Tyhone #2
+Type: Dragon
+Attribute: FIRE
+Level:  6
+ATK: 1700
+DEF: 1900
+Guardian Star 1: Mars
+Guardian Star 2: Uranus
+Description:
+A crimson dragon
+that spits fireballs
+at its enemies.
+
+#556
+The Wandering Doomed
+Type: Zombie
+Attribute: DARK
+Level:  2
+ATK:  800
+DEF:  600
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A monster that
+aimlessly wanders
+in search of enemies.
+
+#557
+Steel Ogre Grotto #1
+Type: Machine
+Attribute: EARTH
+Level:  5
+ATK: 1400
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+A steel idol
+worshipped in the
+Land of Machines.
+
+#558
+Pot the Trick
+Type: Rock
+Attribute: EARTH
+Level:  2
+ATK:  400
+DEF:  400
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A not very reliable
+sorcerer's servant.
+
+#559
+Oscillo Hero
+Type: Warrior
+Attribute: EARTH
+Level:  3
+ATK: 1250
+DEF:  700
+Guardian Star 1: Venus
+Guardian Star 2: Sun
+Description:
+A strange warrior
+from another
+dimension.
+
+#560
+Invader from Another Dimension
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK:  950
+DEF: 1400
+Guardian Star 1: Venus
+Guardian Star 2: Mars
+Description:
+A creature that came
+from another galaxy.
+
+#561
+Lesser Dragon
+Type: Dragon
+Attribute: WIND
+Level:  4
+ATK: 1200
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A low-class, minor
+dragon incapable
+of breathing fire.
+
+#562
+Needle Worm
+Type: Insect
+Attribute: EARTH
+Level:  2
+ATK:  750
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A larva
+with steel spikes
+to attack the unwary.
+
+#563
+Wretched Ghost of the Attic
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  550
+DEF:  400
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+A harmless creature
+usually found
+in the attic
+of any home.
+
+#564
+Great Mammoth of Goldfine
+Type: Zombie
+Attribute: DARK
+Level:  6
+ATK: 2200
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A very unusual
+skeletal zombie
+elephant with
+glowing gold bones.
+
+#565
+Man-eating Black Shark
+Type: Fish
+Attribute: WATER
+Level:  5
+ATK: 2100
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A black shark
+that can detect
+almost any scent
+in the water.
+
+#566
+Yormungarde
+Type: Reptile
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A very long snake
+that often appears
+in legends and myths.
+
+#567
+Darkworld Thorns
+Type: Plant
+Attribute: EARTH
+Level:  3
+ATK: 1200
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A thorny plant found
+in the darklands
+that wraps itself
+around any unwary
+traveler.
+
+#568
+Anthrosaurus
+Type: Dinosaur
+Attribute: EARTH
+Level:  3
+ATK: 1000
+DEF:  850
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+Man-like dinosaur
+lacking in strength,
+but with a high I.Q.
+
+#569
+Drooling Lizard
+Type: Reptile
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A blood-sucking
+snake in human form
+that attacks any
+living being that
+passes nearby.
+
+#570
+Trakadon
+Type: Dinosaur
+Attribute: EARTH
+Level:  3
+ATK: 1300
+DEF:  800
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A tiger-striped
+dragon that is often
+seen racing across
+the wasteland with
+tremendous speed.
+
+#571
+B. Dragon Jungle King
+Type: Dragon
+Attribute: EARTH
+Level:  6
+ATK: 2100
+DEF: 1800
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+A jet-black dragon
+that inhabits the
+jungles and feeds
+on trees.
+
+#572
+Empress Judge
+Type: Warrior
+Attribute: EARTH
+Level:  6
+ATK: 2100
+DEF: 1700
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+Empress of the
+Golden Kingdom. None
+may refuse her will.
+
+#573
+Little D
+Type: Dinosaur
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF:  700
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+A very ferocious
+monster spawned
+from a T-Rex.
+
+#574
+Witch of the Black Forest
+Type: Spellcaster
+Attribute: DARK
+Level:  4
+ATK: 1100
+DEF: 1200
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+This forest-dwelling
+witch can see all
+with the eye
+on her forehead.
+
+#575
+Ancient One of the Deep Forest
+Type: Beast
+Attribute: EARTH
+Level:  6
+ATK: 1800
+DEF: 1900
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A white goat that
+has inhabited the
+forest for ages.
+The creature is
+actually an elder
+of the woods.
+
+#576
+Giant Scorpion of the Tundra
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF: 1000
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A rare scarlet
+scorpion that can be
+found in the tundra
+-- not in the desert.
+
+#577
+Crow Goblin
+Type: WingedBeast
+Attribute: WIND
+Level:  5
+ATK: 1850
+DEF: 1600
+Guardian Star 1: Saturn
+Guardian Star 2: Mars
+Description:
+A very wise,
+long-nosed goblin
+with supernatural
+powers.
+
+#578
+Leo Wizard
+Type: Spellcaster
+Attribute: EARTH
+Level:  5
+ATK: 1350
+DEF: 1200
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A wizard with a
+black cape that is
+actually a talking
+lion disguised
+as a man.
+
+#579
+Abyss Flower
+Type: Plant
+Attribute: EARTH
+Level:  2
+ATK:  750
+DEF:  400
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A rare flower
+that blooms in a
+pitch-dark abyss.
+
+#580
+Patrol Robo
+Type: Machine
+Attribute: EARTH
+Level:  3
+ATK: 1100
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A cutting-edge robot
+that eliminates
+intruders upon
+detection.
+
+#581
+Takuhee
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1450
+DEF: 1000
+Guardian Star 1: Saturn
+Guardian Star 2: Sun
+Description:
+This bird is
+a precursor
+to disaster!!
+
+#582
+Dark Witch
+Type: Fairy
+Attribute: LIGHT
+Level:  5
+ATK: 1800
+DEF: 1700
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+A popular creature
+in mythology that
+delivers judgement
+with a sharp spear.
+
+#583
+Weather Report
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK:  950
+DEF: 1500
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+This creature is
+known to predict the
+weather with very
+little accuracy.
+
+#584
+Binding Chain
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK: 1000
+DEF: 1100
+Guardian Star 1: Sun
+Guardian Star 2: Venus
+Description:
+This creature
+corners its enemies
+and seals away
+their power.
+
+#585
+Mechanical Snail
+Type: Machine
+Attribute: DARK
+Level:  3
+ATK:  800
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A mechanically
+enhanced snail that
+is no faster than
+it used to be.
+
+#586
+Greenkappa
+Type: Warrior
+Attribute: DARK
+Level:  3
+ATK:  650
+DEF:  900
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+A creature that
+transforms into the
+image of its enemy
+and copies every
+offensive move.
+
+#587
+Mon Larvas
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1300
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A highly evolved
+Larvas that is even
+more powerful than
+before.
+
+#588
+Living Vase
+Type: Plant
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF: 1100
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A living vase that
+blinds enemies with
+pollen and attacks
+with its sharp teeth.
+
+#589
+Tentacle Plant
+Type: Plant
+Attribute: WATER
+Level:  2
+ATK:  500
+DEF:  600
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+Attacks a nearby
+opponent by reaching
+out with its blue
+vines.
+
+#590
+Beaked Snake
+Type: Reptile
+Attribute: EARTH
+Level:  3
+ATK:  800
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+Wraps its coils
+around opponents and
+pecks them with its
+huge beak.
+
+#591
+Morphing Jar
+Type: Rock
+Attribute: EARTH
+Level:  2
+ATK:  700
+DEF:  600
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A large jar
+that attacks
+nearby enemies
+by unleashing
+the monster
+it contains inside.
+
+#592
+Muse-A
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK:  850
+DEF:  900
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+A fairy of the arts
+and an excellent
+harp player.
+
+#593
+Giant Turtle Who Feeds on Flames
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1400
+DEF: 1800
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A monster turtle
+with a crimson shell.
+It feeds on fire.
+
+#594
+Rose Spectre of Dunn
+Type: Plant
+Attribute: DARK
+Level:  6
+ATK: 2000
+DEF: 1800
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A red rose possessed
+by a vile spirit
+that feeds on
+the life force
+of others to
+provide the flower
+with nourishment.
+
+#595
+Fiend Refrection #1
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1300
+DEF: 1400
+Guardian Star 1: Venus
+Guardian Star 2: Jupiter
+Description:
+Drags enemies into
+a mirror world.
+
+#596
+Ghoul with an Appetite
+Type: Zombie
+Attribute: DARK
+Level:  4
+ATK: 1600
+DEF: 1200
+Guardian Star 1: Moon
+Guardian Star 2: Pluto
+Description:
+A monster that can
+eat all it wants but
+is never fulfilled.
+
+#597
+Pale Beast
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1500
+DEF: 1200
+Guardian Star 1: Jupiter
+Guardian Star 2: Neptune
+Description:
+With skin tinged
+a bluish white, this
+strange creature is
+a fearsome sight
+to behold.
+
+#598
+Little Chimera
+Type: Beast
+Attribute: FIRE
+Level:  2
+ATK:  600
+DEF:  550
+Guardian Star 1: Saturn
+Guardian Star 2: Moon
+Description:
+A monster created
+from an experimental
+attempt to graft
+wings on beasts.
+
+#599
+Violent Rain
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1550
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A monster capable of
+bringing on sudden
+rain showers.
+
+#600
+Key Mace #2
+Type: Fiend
+Attribute: DARK
+Level:  4
+ATK: 1050
+DEF: 1200
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+Seals away the good
+in a soul to create
+a wicked being.
+
+#601
+Tenderness
+Type: Fairy
+Attribute: LIGHT
+Level:  3
+ATK:  700
+DEF: 1400
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A cute fairy
+dedicated
+to bringing
+about eternal love.
+
+#602
+Penguin Soldier
+Type: Aqua
+Attribute: WATER
+Level:  2
+ATK:  750
+DEF:  500
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A low-class penguin
+soldier that attacks
+in a group.
+
+#603
+Fairy Dragon
+Type: Dragon
+Attribute: WIND
+Level:  4
+ATK: 1100
+DEF: 1200
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+A beautiful
+and powerful
+dragon fairy.
+
+#604
+Obese Marmot of Nefariousness
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  750
+DEF:  800
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+An ill-mannered
+field mouse that
+chews on anything.
+
+#605
+Liquid Beast
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  950
+DEF:  800
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A liquid life form
+that moves freely
+in water.
+
+#606
+Twin Long Rods #2
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK:  850
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+An undersea creature
+that attacks with
+two whip-like tails.
+
+#607
+Great Bill
+Type: Beast
+Attribute: EARTH
+Level:  4
+ATK: 1250
+DEF: 1300
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A monster with a
+massive maw that
+allows it to swallow
+an enemy whole.
+
+#608
+Shining Friendship
+Type: Fairy
+Attribute: LIGHT
+Level:  4
+ATK: 1300
+DEF: 1100
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+The peacemaker
+among monsters.
+
+#609
+Bladefly
+Type: Insect
+Attribute: WIND
+Level:  2
+ATK:  600
+DEF:  700
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+A monster fly
+that swoops down
+with sharp
+sword-like arms
+extended out front.
+
+#610
+Electric Lizard
+Type: Thunder
+Attribute: EARTH
+Level:  3
+ATK:  850
+DEF:  800
+Guardian Star 1: Pluto
+Guardian Star 2: Sun
+Description:
+A lizard
+that discharges
+electricity stored
+in its body.
+
+#611
+Hiro's Shadow Scout
+Type: Fiend
+Attribute: DARK
+Level:  2
+ATK:  650
+DEF:  500
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A servant of fiends
+used primarily for
+scouting an area.
+
+#612
+Lady of Faith
+Type: Spellcaster
+Attribute: LIGHT
+Level:  3
+ATK: 1100
+DEF:  800
+Guardian Star 1: Sun
+Guardian Star 2: Pluto
+Description:
+Soothes the souls of
+others by chanting
+a mysterious spell.
+
+#613
+Twin-headed Thunder Dragon
+Type: Thunder
+Attribute: LIGHT
+Level:  7
+ATK: 2800
+DEF: 2100
+Guardian Star 1: Pluto
+Guardian Star 2: Moon
+Description:
+A two-headed Thunder
+Dragon capable of
+powerful electric
+attacks.
+
+#614
+Hunter Spider
+Type: Insect
+Attribute: EARTH
+Level:  5
+ATK: 1600
+DEF: 1400
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A hunter that uses
+its spider web to
+entrap its enemies.
+
+#615
+Armored Starfish
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK:  850
+DEF: 1400
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+A bluish starfish
+with a solid hide
+capable of fending
+off attacks.
+
+#616
+Hourglass of Courage
+Type: Fairy
+Attribute: LIGHT
+Level:  4
+ATK: 1100
+DEF: 1200
+Guardian Star 1: Sun
+Guardian Star 2: Neptune
+Description:
+A fairy that
+controls the
+feelings of others,
+instilling them
+with bravery.
+
+#617
+Marine Beast
+Type: Fish
+Attribute: WATER
+Level:  5
+ATK: 1700
+DEF: 1600
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+A sea creature
+with sharp teeth
+that won't release
+a victim once
+they're locked on.
+
+#618
+Warrior of Tradition
+Type: Warrior
+Attribute: EARTH
+Level:  6
+ATK: 1900
+DEF: 1700
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+A lady warrior
+drenched in the
+essence from
+a thousand
+battlefields.
+
+#619
+Rock Spirit
+Type: Spellcaster
+Attribute: EARTH
+Level:  5
+ATK: 1650
+DEF: 1900
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+A clay idol
+representing a rock
+spirit. The creature
+has significant
+attack and defense
+factors.
+
+#620
+Snakeyashi
+Type: Plant
+Attribute: EARTH
+Level:  4
+ATK: 1000
+DEF: 1200
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A creature made up
+of several snakes
+that attack
+separately in battle.
+
+#621
+Succubus Knight
+Type: Warrior
+Attribute: DARK
+Level:  5
+ATK: 1650
+DEF: 1300
+Guardian Star 1: Mercury
+Guardian Star 2: Jupiter
+Description:
+A vile
+warrior wizard
+adept at casting
+doom-dealing spells.
+
+#622
+Ill Witch
+Type: Spellcaster
+Attribute: LIGHT
+Level:  5
+ATK: 1600
+DEF: 1500
+Guardian Star 1: Sun
+Guardian Star 2: Venus
+Description:
+Controls air
+currents and
+can generate
+a sudden gust
+of wind to blow
+away an opponent.
+
+#623
+The Thing That Hides in the Mud
+Type: Rock
+Attribute: EARTH
+Level:  4
+ATK: 1200
+DEF: 1300
+Guardian Star 1: Uranus
+Guardian Star 2: Jupiter
+Description:
+The appearance
+of this creature
+is preceded by the
+ground melting under
+an opponent's feet.
+
+#624
+High Tide Gyojin
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1650
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Mercury
+Description:
+An amphibian warrior
+that can easily
+navigate beneath
+the waters.
+
+#625
+Fairy of the Fountain
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1600
+DEF: 1100
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+A fairy dedicated to
+protecting fountains
+from pollution.
+
+#626
+Amazon of the Seas
+Type: Fish
+Attribute: WATER
+Level:  4
+ATK: 1300
+DEF: 1400
+Guardian Star 1: Neptune
+Guardian Star 2: Mars
+Description:
+A mermaid sentry
+serving the Sea King
+and his kingdom.
+
+#627
+Nekogal #2
+Type: BeastWarrior
+Attribute: EARTH
+Level:  6
+ATK: 1900
+DEF: 2000
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+This fast creature
+can easily elude
+enemy attacks and
+counter them with
+its vicious claws.
+
+#628
+Witch's Apprentice
+Type: Spellcaster
+Attribute: DARK
+Level:  2
+ATK:  550
+DEF:  500
+Guardian Star 1: Mercury
+Guardian Star 2: Saturn
+Description:
+An inexperienced
+witch who just
+started learning
+the mystic arts.
+
+#629
+Armored Rat
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK:  950
+DEF: 1100
+Guardian Star 1: Jupiter
+Guardian Star 2: Pluto
+Description:
+A rat
+that is protected
+by armor-like fur.
+
+#630
+Ancient Lizard Warrior
+Type: Reptile
+Attribute: EARTH
+Level:  4
+ATK: 1400
+DEF: 1100
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A powerful,
+prehistoric
+lizard warrior.
+
+#631
+Maiden of the Moonlight
+Type: Spellcaster
+Attribute: LIGHT
+Level:  4
+ATK: 1500
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Venus
+Description:
+A lunar sorcerer
+that uses mystical
+spells to induce
+hallucinations.
+
+#632
+Stone Ogre Grotto
+Type: Rock
+Attribute: EARTH
+Level:  5
+ATK: 1600
+DEF: 1500
+Guardian Star 1: Uranus
+Guardian Star 2: Sun
+Description:
+A rock giant
+consisting of
+massive boulders.
+
+#633
+Winged Egg of New Life
+Type: Fairy
+Attribute: LIGHT
+Level:  5
+ATK: 1400
+DEF: 1700
+Guardian Star 1: Sun
+Guardian Star 2: Mars
+Description:
+A messenger of
+newborn life.
+
+#634
+Night Lizard
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1150
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A green-scaled
+lizard warrior
+dedicated to
+protecting the sea.
+
+#635
+Queen's Double
+Type: Warrior
+Attribute: EARTH
+Level:  1
+ATK:  350
+DEF:  300
+Guardian Star 1: Uranus
+Guardian Star 2: Moon
+Description:
+Not very useful
+double of a queen.
+
+#636
+Blue-winged Crown
+Type: WingedBeast
+Attribute: WIND
+Level:  4
+ATK: 1600
+DEF: 1200
+Guardian Star 1: Saturn
+Guardian Star 2: Venus
+Description:
+A bird that glows
+with blue flames and
+has a head of hair
+shaped like a crown.
+
+#637
+Trent
+Type: Plant
+Attribute: EARTH
+Level:  5
+ATK: 1500
+DEF: 1800
+Guardian Star 1: Jupiter
+Guardian Star 2: Sun
+Description:
+A protector
+of the forest,
+this massive tree
+continues to grow.
+
+#638
+Queen of Autumn Leaves
+Type: Plant
+Attribute: EARTH
+Level:  5
+ATK: 1800
+DEF: 1500
+Guardian Star 1: Jupiter
+Guardian Star 2: Moon
+Description:
+Queen of the
+Tree Spirit
+who is embraced
+by brilliant
+autumn leaves.
+
+#639
+Amphibious Bugroth
+Type: Aqua
+Attribute: WATER
+Level:  5
+ATK: 1850
+DEF: 1300
+Guardian Star 1: Neptune
+Guardian Star 2: Sun
+Description:
+A Bugroth unit
+modified for
+underwater warfare.
+
+#640
+Acid Crawler
+Type: Insect
+Attribute: EARTH
+Level:  3
+ATK:  900
+DEF:  700
+Guardian Star 1: Jupiter
+Guardian Star 2: Venus
+Description:
+A gigantic
+caterpillar that
+spits acid capable
+of melting
+almost anything.
+
+#641
+Invader of the Throne
+Type: Warrior
+Attribute: EARTH
+Level:  5
+ATK: 1350
+DEF: 1700
+Guardian Star 1: Uranus
+Guardian Star 2: Venus
+Description:
+A scheming queen
+who covets
+the king's throne
+during his absence.
+
+#642
+Mystical Sheep #1
+Type: Beast
+Attribute: EARTH
+Level:  3
+ATK: 1150
+DEF:  900
+Guardian Star 1: Venus
+Guardian Star 2: Saturn
+Description:
+A black-haired sheep
+that is capable
+of sorcery.
+
+#643
+Disk Magician
+Type: Machine
+Attribute: DARK
+Level:  4
+ATK: 1350
+DEF: 1000
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A creature that
+hides in a saucer
+and appears only to
+attack enemies.
+
+#644
+Flame Viper
+Type: Pyro
+Attribute: EARTH
+Level:  2
+ATK:  400
+DEF:  450
+Guardian Star 1: Mars
+Guardian Star 2: Pluto
+Description:
+A very swift,
+fire-breathing viper.
+
+#645
+Royal Guard
+Type: Machine
+Attribute: EARTH
+Level:  6
+ATK: 1900
+DEF: 2200
+Guardian Star 1: Uranus
+Guardian Star 2: Mercury
+Description:
+Mechanical soldier
+with a mind
+of its own.
+Originally created
+to protect members
+of the royal family.
+
+#646
+Gruesome Goo
+Type: Aqua
+Attribute: WATER
+Level:  3
+ATK: 1300
+DEF:  700
+Guardian Star 1: Neptune
+Guardian Star 2: Moon
+Description:
+Looks like any other
+slime,
+but definitely
+much more powerful!
+
+#647
+Hyosube
+Type: Aqua
+Attribute: WATER
+Level:  4
+ATK: 1500
+DEF:  900
+Guardian Star 1: Neptune
+Guardian Star 2: Venus
+Description:
+This amphibian
+creature boasts
+a high attack factor
+but not much of one
+for defense.
+
+#648
+Machine Attacker
+Type: Machine
+Attribute: EARTH
+Level:  5
+ATK: 1600
+DEF: 1300
+Guardian Star 1: Moon
+Guardian Star 2: Neptune
+Description:
+A machine designed
+to blitz its enemies.
+
+#649
+Hibikime
+Type: Warrior
+Attribute: EARTH
+Level:  4
+ATK: 1450
+DEF: 1000
+Guardian Star 1: Mercury
+Guardian Star 2: Uranus
+Description:
+Confuses enemy
+monsters with noise
+that is harsh
+to the ears.
+
+#650
+Whiptail Crow
+Type: Fiend
+Attribute: DARK
+Level:  5
+ATK: 1650
+DEF: 1600
+Guardian Star 1: Moon
+Guardian Star 2: Mercury
+Description:
+Attacks from the
+skies with
+a whip-like tail.
+
+#651
+Kunai with Chain
+Type: Equip
+Description:
+A boomerang
+featuring the
+effects of two
+cards: the Legendary
+Sword and the Sword
+of Dark Destruction.
+
+#652
+Magical Labyrinth
+Type: Equip
+Description:
+A card for boosting
+the power of the
+Labyrinth Wall.
+
+#653
+Warrior Elimination
+Type: Magic
+Description:
+Destroys all
+opponent Warrior
+cards played
+on the field.
+
+#654
+Salamandra
+Type: Equip
+Description:
+Increases the
+strength of those
+who control the
+power of Salamandra.
+
+#655
+Cursebreaker
+Type: Magic
+Description:
+Cancels the magic
+over all
+level-reduced
+monsters and sets
+them at level 0.
+
+#656
+Eternal Rest
+Type: Magic
+Description:
+Eliminates all
+Zombie creatures.
+
+#657
+Megamorph
+Type: Equip
+Description:
+A card that
+increases the power
+of any selected
+monster by 2 levels.
+
+#658
+Metalmorph
+Type: Equip
+Description:
+A card that changes
+any selected monster
+to a Machine monster.
+
+#659
+Winged Trumpeter
+Type: Equip
+Description:
+A horn that
+increases the power
+of Fairy creatures.
+
+#660
+Stain Storm
+Type: Magic
+Description:
+Acid rain destroys
+an opponent's
+Machine monsters.
+
+#661
+Crush Card
+Type: Magic
+Description:
+Opponent monsters
+in play with attack
+factors of 1500 or
+more are eliminated.
+
+#662
+Eradicating Aerosol
+Type: Magic
+Description:
+An insecticide for
+wiping out an
+opponent's Insect
+monsters that are
+currently in play.
+
+#663
+Breath of Light
+Type: Magic
+Description:
+A magic wind that
+reduces to rubble an
+opponent's Rock
+monsters that are
+currently in play.
+
+#664
+Eternal Draught
+Type: Magic
+Description:
+A blast of heat
+dries up
+and eliminates
+an opponent's Fish
+monsters that are
+currently in play.
+
+#665
+Curse of Millennium Shield
+Type: Ritual
+Description:
+Sacrifices the
+monster with the
+highest defense
+rating and summons
+Shield.
+
+#666
+Yamadron Ritual
+Type: Ritual
+Description:
+Sacrifices
+Beast-Warrior,
+Dragon,
+and Pyro monsters
+to summon Yamadron.
+
+#667
+Gate Guardian Ritual
+Type: Ritual
+Description:
+Sacrifices Kazejin,
+Suijin, and Sanga of
+the Thunder to
+summon Gate Guardian.
+
+#668
+Bright Castle
+Type: Equip
+Description:
+A glaring light that
+increases the power
+of all monsters.
+
+#669
+Shadow Spell
+Type: Magic
+Description:
+Decreases an
+opponent's in-play
+monsters by two
+levels.
+
+#670
+Black Luster Ritual
+Type: Ritual
+Description:
+Ceremony conducted
+to summon
+Black Luster Soldier.
+Sacrifice required.
+
+#671
+Zera Ritual
+Type: Ritual
+Description:
+Ceremony conducted
+to summon Zera.
+Sacrifice required.
+
+#672
+Harpie's Feather Duster
+Type: Magic
+Description:
+Destroys all
+opponent Magic cards
+that are in play.
+
+#673
+War-lion Ritual
+Type: Ritual
+Description:
+Ceremony conducted
+to summon War Lion.
+Sacrifice required.
+
+#674
+Beastry Mirror Ritual
+Type: Ritual
+Description:
+Ceremony conducted
+to summon
+Fiend's Mirror.
+Sacrifice required.
+
+#675
+Ultimate Dragon
+Type: Ritual
+Description:
+Sacrifice three
+Blue-eyes to summon
+Ultimate Dragon.
+
+#676
+Commencement Dance
+Type: Ritual
+Description:
+Sacrifice Dancer and
+Warrior to summon
+Performance of Sword.
+
+#677
+Hamburger Recipe
+Type: Ritual
+Description:
+A card with
+the ingredients
+for making a
+delicious hamburger.
+
+#678
+Revival of Sennen Genjin
+Type: Ritual
+Description:
+Sacrifice
+Beast-Warrior and
+Golem to summon
+Sengenjin.
+
+#679
+Novox's Prayer
+Type: Ritual
+Description:
+Sacrifice Warrior
+and Scythe Wielder
+to summon
+Skull Guardian.
+
+#680
+Curse of Tri-Horned Dragon
+Type: Ritual
+Description:
+Sacrifice a horned
+monster to summon
+Tri-Horned Dragon.
+
+#681
+House of Adhesive Tape
+Type: Trap
+Description:
+Monsters
+with Attack Factors
+of 500 or lower
+are eliminated
+from the play field.
+
+#682
+Eatgaboon
+Type: Trap
+Description:
+Monsters
+with Attack Factors
+of 1000 or lower
+are eliminated
+from the play field.
+
+#683
+Bear Trap
+Type: Trap
+Description:
+When an opposing
+monster's Attack
+Factor is
+1500 or lower,
+it is eliminated
+from the play field.
+
+#684
+Invisible Wire
+Type: Trap
+Description:
+When an opposing
+monster's Attack
+Factor is
+2000 or lower,
+it is eliminated
+from the play field.
+
+#685
+Acid Trap Hole
+Type: Trap
+Description:
+When an opposing
+monster's Attack
+Factor is
+3000 or lower,
+it is eliminated
+from the play field.
+
+#686
+Widespread Ruin
+Type: Trap
+Description:
+When an opponent's
+monster attacks,
+it is blown to
+smithereens and
+eliminated from
+the play field.
+
+#687
+Goblin Fan
+Type: Trap
+Description:
+Reflects the damage
+of direct attack
+cards like
+Fire Sparks and
+Inferno back
+to your opponent.
+
+#688
+Bad Reaction to Simochi
+Type: Trap
+Description:
+A card that reverses
+the effects of
+recovery cards and
+transforms the
+points to damage.
+
+#689
+Reverse Trap
+Type: Trap
+Description:
+A card that reverses
+the effects of
+power-up cards
+and transforms
+the effects
+to power reduction.
+
+#690
+Fake Trap
+Type: Trap
+Description:
+A trap card
+for tricking
+your opponent.
+Nothing happens
+when it is attacked.
+
+#691
+Revived of Serpent Night Dragon
+Type: Ritual
+Description:
+Select a specific
+monster for
+sacrifice and summon
+Serpent Night Dragon.
+
+#692
+Turtle Oath
+Type: Ritual
+Description:
+Sacrifice crab and
+turtle to summon
+Crab Turtle.
+
+#693
+Contruct of Mask
+Type: Ritual
+Description:
+Sacrifice a masked
+one to summon a new
+mask.
+
+#694
+Resurrection of Chakra
+Type: Ritual
+Description:
+Sacrifice 3 Fiend
+monsters to conduct
+the ritual for the
+Resurrection of
+Chakra.
+
+#695
+Puppet Ritual
+Type: Ritual
+Description:
+Sacrifice Puppeteer
+and Machine monsters
+to summon the Puppet.
+
+#696
+Javelin Beetle Pact
+Type: Ritual
+Description:
+Sacrifice the stag
+beetle and beetle
+to summon
+Javelin Beetle.
+
+#697
+Garma Sword Oath
+Type: Ritual
+Description:
+Sacrifice the
+Ashura's Arm
+and Sword-wielder
+to summon.
+
+#698
+Cosmo Queen's Prayer
+Type: Ritual
+Description:
+Sacrifice a normal
+Queen to summon
+Cosmo Queen.
+
+#699
+Revival of Skeleton Rider
+Type: Ritual
+Description:
+Sacrifice Temple and
+Cockroach to summon
+Dokurorider.
+
+#700
+Fortress Whale's Oath
+Type: Ritual
+Description:
+Sacrifice Horn and
+Machine Fish to
+summon Sea Fortress.
+
+#701
+Performance of Sword
+Type: Warrior
+Attribute: EARTH
+Level:  6
+ATK: 1950
+DEF: 1850
+Guardian Star 1: Sun
+Guardian Star 2: Saturn
+Description:
+A warrior dancer
+with fancy dance
+steps.
+
+#702
+Hungry Burger
+Type: Warrior
+Attribute: DARK
+Level:  6
+ATK: 2000
+DEF: 1850
+Guardian Star 1: Moon
+Guardian Star 2: Mars
+Description:
+Attracts hungry
+enemies with tasty
+aromas and eats them
+when they get close
+enough.
+
+#703
+Sengenjin
+Type: BeastWarrior
+Attribute: EARTH
+Level:  8
+ATK: 2750
+DEF: 2500
+Guardian Star 1: Jupiter
+Guardian Star 2: Mercury
+Description:
+A headstrong,
+primitive man
+equipped with
+a Millennium Item.
+
+#704
+Skull Guardian
+Type: Warrior
+Attribute: LIGHT
+Level:  7
+ATK: 2050
+DEF: 2500
+Guardian Star 1: Sun
+Guardian Star 2: Jupiter
+Description:
+A guardian of the
+law that doesn't
+forgive cheating.
+Attacks enemies with
+its sword-like arms.
+
+#705
+Tri-horned Dragon
+Type: Dragon
+Attribute: DARK
+Level:  8
+ATK: 2850
+DEF: 2350
+Guardian Star 1: Moon
+Guardian Star 2: Jupiter
+Description:
+A wicked dragon
+with three horns
+protruding from
+its head.
+
+#706
+Serpent Night Dragon
+Type: Dragon
+Attribute: DARK
+Level:  7
+ATK: 2350
+DEF: 2400
+Guardian Star 1: Mercury
+Guardian Star 2: Pluto
+Description:
+A dragon created
+from the soul
+of a wicked knight.
+
+#707
+Skull Knight
+Type: Spellcaster
+Attribute: DARK
+Level:  7
+ATK: 2650
+DEF: 2250
+Guardian Star 1: Mercury
+Guardian Star 2: Neptune
+Description:
+A monk
+who has conducted
+several rituals
+in the netherworld,
+and who is capable
+of using both
+weapons and magic.
+
+#708
+Cosmo Queen
+Type: Spellcaster
+Attribute: DARK
+Level:  8
+ATK: 2900
+DEF: 2450
+Guardian Star 1: Venus
+Guardian Star 2: Uranus
+Description:
+A queen who rules
+over all the stars
+in the universe.
+
+#709
+Chakra
+Type: Fiend
+Attribute: DARK
+Level:  7
+ATK: 2450
+DEF: 2000
+Guardian Star 1: Mercury
+Guardian Star 2: Moon
+Description:
+A twisting shape
+that attacks with
+tentacle-like arms.
+
+#710
+Crab Turtle
+Type: Aqua
+Attribute: WATER
+Level:  8
+ATK: 2550
+DEF: 2500
+Guardian Star 1: Neptune
+Guardian Star 2: Jupiter
+Description:
+A creature with a
+turtle shell and
+crab scissors to
+provide high attack
+and defense factors.
+
+#711
+Mikazukinoyaiba
+Type: Dragon
+Attribute: DARK
+Level:  7
+ATK: 2200
+DEF: 2350
+Guardian Star 1: Sun
+Guardian Star 2: Uranus
+Description:
+A dragon warrior
+armed with a
+crescent-shaped
+sword. Rumored to be
+from the moon.
+
+#712
+Meteor Dragon
+Type: Dragon
+Attribute: EARTH
+Level:  6
+ATK: 1800
+DEF: 2000
+Guardian Star 1: Uranus
+Guardian Star 2: Neptune
+Description:
+A dragon that
+arrived on earth
+by means of a comet
+that fell from
+the far reaches
+of space.
+
+#713
+Meteor B. Dragon
+Type: Dragon
+Attribute: FIRE
+Level:  8
+ATK: 3500
+DEF: 2000
+Guardian Star 1: Mars
+Guardian Star 2: Sun
+Description:
+With the burning
+hide of a meteorite,
+this creature
+vaporizes all that
+it touches.
+
+#714
+Firewing Pegasus
+Type: Beast
+Attribute: FIRE
+Level:  6
+ATK: 2250
+DEF: 1800
+Guardian Star 1: Mars
+Guardian Star 2: Moon
+Description:
+A heavenly stallion
+that flies
+across the skies
+on scarlet wings.
+
+#715
+Psycho-Puppet
+Type: Fiend
+Attribute: DARK
+Level:  7
+ATK: 2000
+DEF: 2350
+Guardian Star 1: Moon
+Guardian Star 2: Saturn
+Description:
+A mysterious doll
+with a strange dance
+that robs the power
+of opposing monsters.
+
+#716
+Garma Sword
+Type: Warrior
+Attribute: DARK
+Level:  7
+ATK: 2550
+DEF: 2150
+Guardian Star 1: Moon
+Guardian Star 2: Uranus
+Description:
+A skilled warrior
+that wields six
+swords against
+opposing monsters.
+
+#717
+Javelin Beetle
+Type: Insect
+Attribute: EARTH
+Level:  8
+ATK: 2450
+DEF: 2550
+Guardian Star 1: Jupiter
+Guardian Star 2: Uranus
+Description:
+A creature with
+lethal scissors that
+cut through almost
+anything.
+
+#718
+Fortress Whale
+Type: Fish
+Attribute: WATER
+Level:  7
+ATK: 2350
+DEF: 2150
+Guardian Star 1: Neptune
+Guardian Star 2: Saturn
+Description:
+A sea monster with
+a cannon mounted on
+its back to blow
+its enemies out
+of the water.
+
+#719
+Dokurorider
+Type: Zombie
+Attribute: DARK
+Level:  6
+ATK: 1900
+DEF: 1850
+Guardian Star 1: Uranus
+Guardian Star 2: Mars
+Description:
+A lonely rider that
+races across the
+wasteland, raising
+thick clouds of dust.
+
+#720
+Mask of Shine & Dark
+Type: Spellcaster
+Attribute: DARK
+Level:  6
+ATK: 2000
+DEF: 1800
+Guardian Star 1: Venus
+Guardian Star 2: Pluto
+Description:
+A creature that
+twists the fabric of
+light and darkness
+to generate images
+to confuse opponents.
+
+#721
+Dark Magic Ritual
+Type: Ritual
+Description:
+Ceremony
+for summoning
+the Magician of
+Black Chaos.
+Sacrifice required.
+
+#722
+Magician of Black Chaos
+Type: Spellcaster
+Attribute: DARK
+Level:  8
+ATK: 2800
+DEF: 2600
+Guardian Star 1: Mercury
+Guardian Star 2: Mars
+Description:
+The ultimate
+magic-user,
+who wields the power
+of chaos borne from
+the fusion of
+Dark and Light.

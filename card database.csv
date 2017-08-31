@@ -1,0 +1,722 @@
+001	Blue-eyes White Dragon	Dragon	LIGHT	8	3000	2500	Sun	Mars	An extremely rare_card with_unsurpassed attack_and defense power.	?
+002	Mystical Elf	Spellcaster	LIGHT	4	800	2000	Sun	Jupiter	A delicate elf that_lacks in offense_but has a terrific_defense backed by_mystical power.	?
+003	Hitotsu-me Giant	BeastWarrior	EARTH	4	1200	1000	Moon	Mars	A one-eyed behemoth_with thick, powerful_arms made for_delivering punishing_blows.	?
+004	Baby Dragon	Dragon	WIND	3	1200	700	Uranus	Sun	Much more than just_a child, this dragon_is gifted with_untapped power.	?
+005	Ryu-kishin	Fiend	DARK	3	1000	500	Saturn	Sun	A very elusive_creature that looks_like a harmless_statue until it_attacks.	?
+006	Feral Imp	Fiend	DARK	4	1300	1400	Moon	Jupiter	A playful little_imp that lurks in_the dark, waiting to_attack an unwary_enemy.	?
+007	Winged Dragon #1	Dragon	WIND	4	1400	1200	Saturn	Moon	A dragon commonly_found guarding_mountain fortresses._Its signature attack_is a sweeping dive_from out of the blue.	?
+008	Mushroom Man	Plant	EARTH	2	800	600	Jupiter	Sun	Found in moist_areas, this monster_launches poison_spores against its_enemies.	?
+009	Shadow Specter	Zombie	DARK	1	500	200	Moon	Saturn	Ghostly beast that_appears in the_wasteland and is_particularly_troublesome when_faced in large_numbers.	?
+010	Blackland Fire Dragon	Dragon	DARK	4	1500	800	Mercury	Moon	A dragon that dwells_in the depths of_darkness. Its_defensive capability_suffers from its_poor eyesight.	?
+011	Sword Arm of Dragon	Dinosaur	EARTH	6	1750	2030	Uranus	Moon	With a body covered_in sword-like_thorns, nothing_dares stand in the_way of this monster_when it charges.	?
+012	Swamp Battleguard	Warrior	EARTH	5	1800	1500	Mercury	Mars	This creature is_armed with a spiked_club that can_destroy almost_anything in its path._Rumored to have a_brother that is just_as destructive.	?
+013	Tyhone	WingedBeast	WIND	4	1200	1400	Saturn	Venus	Capable of firing_cannonballs from its_mouth for long-range_attacks against_enemies.	?
+014	Battle Steer	BeastWarrior	EARTH	5	1800	1300	Moon	Uranus	A bull monster often_found in the woods._Charges enemy_monsters with a pair_of razor-sharp horns.	?
+015	Flame Swordsman	Warrior	FIRE	5	1800	1600	Mars	Sun	A fighter gifted_with the power of_fire._Attacks enemies with_a sword that_launches flames.	?
+016	Time Wizard	Spellcaster	LIGHT	2	500	400	Venus	Sun	A sorcerer capable_of bending time to_his will. Though not_powerful at first_glance, appearances_can be deceiving.	?
+017	Right Leg of the Forbidden One	Spellcaster	DARK	1	200	300	Mercury	Jupiter	A forbidden limb_sealed by magic._Whoever breaks_this seal will know_infinite power._Only one card of_this type may be_included in a deck.	?
+018	Left Leg of the Forbidden One	Spellcaster	DARK	1	200	300	Mercury	Saturn	A forbidden limb_sealed by magic._Whoever breaks_this seal will know_infinite power._Only one card of_this type may be_included in a deck.	?
+019	Right Arm of the Forbidden One	Spellcaster	DARK	1	200	300	Mercury	Uranus	A forbidden limb_sealed by magic._Whoever breaks_this seal will know_infinite power._Only one card of_this type may be_included in a deck.	?
+020	Left Arm of the Forbidden One	Spellcaster	DARK	1	200	300	Mercury	Pluto	A forbidden limb_sealed by magic._Whoever breaks_this seal will know_infinite power._Only one card of_this type may be_included in a deck.	?
+021	Exodia the Forbidden	Spellcaster	DARK	3	1000	1000	Mercury	Neptune	Once combined with_arms and legs, this_monster is freed_from its magical_chains._Only one card of_this type may be_included in a deck.	?
+022	Summoned Skull	Fiend	DARK	6	2500	1200	Moon	Pluto	An entity with dark_powers for confusing_the enemy. Among the_FIEND class of_monsters, this is a_pretty rare card.	?
+023	The Wicked Worm Beast	Beast	EARTH	3	1400	700	Uranus	Venus	A monster worm_created by the_powers of darkness._It suddenly appears_from under the_ground to attack its_enemies.	?
+024	Skull Servant	Zombie	DARK	1	300	200	Moon	Neptune	A skeletal ghost_that isn't strong_but can mean trouble_in large numbers.	?
+025	Horn Imp	Fiend	DARK	4	1300	1000	Moon	Mercury	A small imp that_dwells in the dark._Its single horn_makes it a_formidable opponent.	?
+026	Battle Ox	BeastWarrior	EARTH	4	1700	1000	Jupiter	Moon	A monster with_tremendous power._Destroys enemies_with a swing of its_axe.	?
+027	Beaver Warrior	BeastWarrior	EARTH	4	1200	1500	Jupiter	Venus	What this creature_lacks in size,_it makes up for_in defense when_battling in the_meadow.	?
+028	Rock Ogre Grotto #1	Rock	EARTH	3	800	1200	Uranus	Mercury	Protected by a solid_body of rock, this_creature throws_a bone-shattering_punch.	?
+029	Mountain Warrior	BeastWarrior	EARTH	3	600	1000	Uranus	Mars	A solid warrior that_can move swiftly_over rough terrain.	?
+030	Zombie Warrior	Zombie	DARK	3	1200	900	Moon	Mars	A deceptively_fragile-looking_skeleton warrior_that is known for_its swift and_precise attacks.	?
+031	Koumori Dragon	Dragon	DARK	4	1500	1200	Moon	Jupiter	A vicious,_fire-breathing_dragon whose wicked_flames corrupt the_souls of its victims.	?
+032	Two-headed King Rex	Dinosaur	EARTH	4	1600	1200	Uranus	Neptune	An unusual and_rarely seen_two-headed dragon.	?
+033	Judge Man	Warrior	EARTH	6	2200	1500	Sun	Saturn	For this_club-wielding_warrior, there is_no other outcome_to battle than_victory or defeat.	?
+034	Saggi the Dark Clown	Spellcaster	DARK	3	600	1500	Mercury	Moon	This clown appears_out of nowhere and_executes some very_strange moves to_avoid enemy attacks.	?
+035	Dark Magician	Spellcaster	DARK	7	2500	2100	Mercury	Mars	The ultimate wizard_in terms of attack_and defense.	?
+036	The Snake Hair	Zombie	DARK	4	1500	1200	Moon	Saturn	A monster with the_head of a poisonus_snake. One look will_turn an unwary_opponent to stone.	?
+037	Gaia the Dragon Champion	Dragon	WIND	7	2600	2100	Saturn	Mercury	A warrior's prowess_combines with a_dragon's speed to_create a powerful_offensive force.	?
+038	Gaia the Fierce Knight	Warrior	EARTH	7	2300	2100	Mercury	Jupiter	A knight mounted on_a horse that travels_faster than the wind._His battle charge is_a force to be_reckoned with.	?
+039	Curse of Dragon	Dragon	DARK	5	2000	1500	Saturn	Pluto	A wicked dragon that_taps dark forces to_execute a powerful_attack.	?
+040	Dragon Piper	Pyro	FIRE	3	200	1800	Mars	Moon	A jar carved with_strange patterns. It_has a particularly_high defense factor.	?
+041	Celtic Guardian	Warrior	EARTH	4	1400	1200	Sun	Uranus	An elf, who learned_to wield a sword,_baffles enemies with_lightning-swift_attacks.	?
+042	Illusionist Faceless Mage	Spellcaster	DARK	5	1200	2200	Venus	Mars	Manipulates enemy_attacks with the_power of illusion._A very rare card.	?
+043	Karbonala Warrior	Warrior	EARTH	4	1500	1200	Uranus	Jupiter	A very_average-looking_fighter with an_unusually high_attack factor.	?
+044	Rogue Doll	Spellcaster	LIGHT	4	1600	1000	Sun	Pluto	A unique doll gifted_with mystical power._Particularly_powerful when_attacking against_dark forces.	?
+045	Oscillo Hero #2	Thunder	LIGHT	3	1000	500	Pluto	Sun	Attacks its enemies_with thunder.	?
+046	Griffore	Beast	EARTH	4	1200	1500	Jupiter	Mercury	This creature's_tough hide deflects_just about any_attack.	?
+047	Torike	Beast	EARTH	3	1200	600	Uranus	Sun	Not as tough as it_looks in terms of_defense._This monster's_sharp horn gives it_an edge_when attacking.	?
+048	Sangan	Fiend	DARK	3	1000	600	Moon	Uranus	A compact,_three-eyed monster_that is dangerous_when faced_in the dark.	?
+049	Big Insect	Insect	EARTH	4	1200	1500	Jupiter	Uranus	A giant ant that_dwells in the jungle._Powerful in terms of_both ATK and DEF_factors.	?
+050	Basic Insect	Insect	EARTH	2	500	700	Jupiter	Pluto	Usually found_travelling in swarms._this creature's_ideal environment is_the forest.	?
+051	Armored Lizard	Reptile	EARTH	4	1500	1200	Neptune	Sun	A lizard with a very_tough hide and a_very vicious bite.	?
+052	Hercules Beetle	Insect	EARTH	5	1500	2000	Jupiter	Neptune	A massive beetle_with a tough hide_and a dangerous horn.	?
+053	Killer Needle	Insect	WIND	4	1200	1000	Jupiter	Sun	A huge bee with_exceptional strength._Particularly_dangerous when a_swarm is encountered.	?
+054	Gokibore	Insect	EARTH	4	1200	1400	Jupiter	Moon	A large, spherical_roach that attacks_its enemies by_rolling over them._Its tough defense_makes it_a formidable foe.	?
+055	Giant Flea	Insect	EARTH	4	1500	1200	Jupiter	Venus	A giant_blood-sucking flea_that's devastating_when attacking.	?
+056	Larvae Moth	Insect	EARTH	2	500	400	Jupiter	Mercury	Not much in its_larval form,_this creature is a_force to be reckoned_with when it grows_to become a colossal_moth.	?
+057	Great Moth	Insect	EARTH	8	2600	2500	Jupiter	Uranus	A powerful creature_of the forest, this_huge moth attacks_its enemies by_spreading poison_dust with its wings.	?
+058	Kuriboh	Fiend	DARK	1	300	200	Mercury	Saturn	By itself, this_small creature may_not seem like much._But in the dark, it_attacks in numbers_as a formidable_force.	?
+059	Mammoth Graveyard	Dinosaur	EARTH	3	1200	800	Mercury	Pluto	A mammoth that_protects the_gravesite of its_pack. It's_absolutely merciless_when facing_graverobbers.	?
+060	Great White	Fish	WATER	4	1600	800	Neptune	Moon	A giant white shark_with razor-sharp_teeth.	?
+061	Wolf	Beast	EARTH	3	1200	800	Jupiter	Pluto	A rarely seen wolf_with a powerful nose_for catching the_scent of an enemy.	?
+062	Harpie Lady	WingedBeast	WIND	4	1300	1400	Saturn	Neptune	A human-shaped_animal with wings._Beautiful to watch,_but lethal when_engaged in battle.	?
+063	Harpie Lady Sisters	WingedBeast	WIND	6	1950	2100	Saturn	Mars	Three fierce sisters_who relentlessly_attack as a team.	?
+064	Tiger Axe	BeastWarrior	EARTH	4	1300	1100	Jupiter	Neptune	A fast and powerful_axe-wielding_beast warrior.	?
+065	Silver Fang	Beast	EARTH	3	1200	800	Jupiter	Sun	A snow wolf that's_beautiful to the eye_but absolutely_vicious in battle.	?
+066	Kojikocy	Warrior	EARTH	4	1500	1200	Uranus	Moon	A man-hunter with_powerful arms that_can crush boulders.	?
+067	Perfectly Ultimate Great Moth	Insect	EARTH	8	3500	3000	Jupiter	Moon	The final_incarnation of the_ultimate insect,_the Great Moth!	?
+068	Garoozis	BeastWarrior	FIRE	5	1800	1500	Mars	Venus	An axe-swinging_beast warrior with_the head of_a dragon.	?
+069	Thousand Dragon	Dragon	WIND	7	2400	2000	Mars	Mercury	A dragon that has_grown and developed_over a thousand_years.	?
+070	Fiend Kraken	Aqua	WATER	4	1200	1400	Neptune	Venus	A massive squid that_suddenly appears_from the depths of_the sea to attack_unwary enemies.	?
+071	Jellyfish	Aqua	WATER	4	1200	1500	Neptune	Mercury	An almost invisible,_semi-transparent_jellyfish that_drifts in the sea.	?
+072	Cocoon of Evolution	Insect	EARTH	3	0	2000	Jupiter	Venus	This creature is_capable of instantly_evolving larvae_into adults.	?
+073	Kairyu-shin	SeaSerpent	WATER	5	1800	1500	Neptune	Mars	A sea dragon that's_referred to as the_"King of the Ocean"._It attacks its_enemies with huge_tidal waves.	?
+074	Giant Soldier of Stone	Rock	EARTH	3	1300	2000	Uranus	Venus	A giant warrior made_of stone. A punch_from this creature_has earth-shaking_results.	?
+075	Man-eating Plant	Plant	EARTH	2	800	600	Mercury	Jupiter	A meat-eating plant_that is attractive_to the eye but_dangerous when_approached.	?
+076	Krokodilus	Reptile	WATER	4	1100	1200	Neptune	Jupiter	A vicious crocodile_with intelligence._Hard scales form_a natural armor_for this creature.	?
+077	Grappler	Reptile	WATER	4	1300	1200	Neptune	Saturn	A devious snake with_a thick body that_wraps around an_enemy monster and_squeezes the life_out of it.	?
+078	Axe Raider	Warrior	EARTH	4	1700	1150	Uranus	Mercury	An axe-wielding_monster of_tremendous strength_and agility.	?
+079	Megazowler	Dinosaur	EARTH	6	1800	2000	Uranus	Neptune	Nothing stands in_the way of this_spike-covered_dinosaur.	?
+080	Uraby	Dinosaur	EARTH	4	1500	800	Uranus	Mars	Fast on its feet,_this dinosaur rips_enemies to shreds_with its sharp claws.	?
+081	Crawling Dragon #2	Dinosaur	EARTH	4	1600	1200	Moon	Pluto	A powerful dragon_with teeth that can_grind almost_anything to dust.	?
+082	Red-eyes B. Dragon	Dragon	DARK	7	2400	2000	Moon	Neptune	A very rare card_with a high-level_ATK factor.	?
+083	Castle of Dark Illusions	Fiend	DARK	4	920	1930	Mercury	Uranus	A creature that can_generate darkness to_envelop all that_exists around it.	?
+084	Reaper of the Cards	Fiend	DARK	5	1380	1930	Moon	Pluto	This monster boasts_a strong defense and_a massive scythe_that cuts through_almost anything.	?
+085	King of Yamimakai	Fiend	DARK	5	2000	1530	Moon	Pluto	Wields the power of_darkness to destroy_its enemies.	?
+086	Barox	Fiend	DARK	5	1380	1530	Jupiter	Mercury	This creature flies_through the dark,_attacking its_enemies with its_long, hairy arms.	?
+087	Dark Chimera	Fiend	DARK	5	1610	1460	Mercury	Neptune	A fire-breathing_monster that dwells_in the netherworld.	?
+088	Metal Guardian	Fiend	DARK	5	1150	2150	Moon	Mercury	A fiend guarding_the treasures of_the netherworld._Its defense is_particularly high in_ a dark environment.	?
+089	Catapult Turtle	Aqua	WATER	5	1000	2000	Neptune	Sun	Well-protected by_its shell, this_monster flings_projectiles from_its catapult.	?
+090	Gyakutenno Megami	Fairy	LIGHT	6	1800	2000	Sun	Neptune	Uses her mystical_power to protect the_weak and provide_spiritual support.	?
+091	Mystic Horseman	Beast	EARTH	4	1300	1550	Jupiter	Uranus	Half man and half_horse, this monster_is known for its_extreme speed.	?
+092	Rabid Horseman	BeastWarrior	EARTH	6	2000	1700	Jupiter	Pluto	A powerful_and unstoppable_combination of_bull and horse.	?
+093	Zanki	Warrior	EARTH	5	1500	1700	Uranus	Jupiter	Prefers to face_enemies one-on-one._His swiftly drawn_blade delivers a_quick and immediate_finnish.	?
+094	Crawling Dragon	Dragon	EARTH	5	1600	1400	Uranus	Sun	A weakened dragon_that can no longer_fly, but is still a_formidable force_to be reckoned with.	?
+095	Crass Clown	Fiend	DARK	4	1350	1400	Venus	Jupiter	A performer_in the Dark Circus,_this clown drains_the strength of_its enemies with_strange dances.	?
+096	Armored Zombie	Zombie	DARK	3	1500	0	Moon	Pluto	A warrior raised_from the beyond._Blindly swings_a sharp blade with_devastating force.	?
+097	Dragon Zombie	Zombie	DARK	3	1600	0	Moon	Pluto	A dragon revived by_sorcery. Its breath_is highly corrosive.	?
+098	Clown Zombie	Zombie	DARK	2	1350	0	Moon	Pluto	A clown revived by_the powers of_darkness._Its strange dance_has sent many_monsters to their_ends.	?
+099	Pumpking the King of Ghosts	Zombie	DARK	6	1800	2000	Jupiter	Neptune	This pumpkin king_strikes at its_enemies with its_long tentacles.	?
+100	Battle Warrior	Warrior	EARTH	3	700	1000	Uranus	Moon	A warrior that_fights with his_bare hands.	?
+101	Wings of Wicked Flame	Pyro	FIRE	2	700	600	Mars	Saturn	Soaring over_its enemies on wings_of crimson fire,_this monster attacks_by blasting flames_from its body.	?
+102	Mask of Darkness	Fiend	DARK	2	900	400	Mercury	Moon	A shadow mask_created by the hands_of a dark mage.	?
+103	Job-change Mirror	Fiend	DARK	3	800	1300	Mercury	Mars	An indestructible,_wicked mirror that_blocks enemy attacks.	?
+104	Curtain of the Dark Ones	Spellcaster	DARK	2	600	500	Mercury	Jupiter	A curtain woven by_the hands of a_sorcerer. It is said_to enhance the power_of magic- users.	?
+105	Tomozaurus	Dinosaur	EARTH	2	500	400	Uranus	Venus	A deceivingly small_creature that is so_vicious it attacks_both friend and foe_without discretion.	?
+106	Spirit of the Winds	Spellcaster	WIND	5	1700	1400	Saturn	Sun	A spirit of the wind_that freely sails_the skies. Known to_generate storms when_it's in a bad mood.	?
+107	Kageningen	Warrior	DARK	2	800	600	Moon	Mars	Uses both its_physical and shadow_forms to attack,_making it_a difficult creature_to overcome.	?
+108	Graveyard and the Hand of Invitation	Zombie	DARK	3	700	900	Moon	Pluto	A final resting_place that enhances_the power of the_doomed and drains_that of the living.	?
+109	Goddess with the Third Eye	Fairy	LIGHT	4	1200	1000	Sun	Venus	A goddess with an_all-seeing eye that_reveals all.	?
+110	Hero of the East	Warrior	EARTH	3	1100	1000	Uranus	Mercury	A samurai from the_Far East armed with_a razor-sharp sword.	?
+111	Doma The Angel of Silence	Fairy	DARK	5	1600	1400	Mercury	Saturn	This angel rules_over the doomed_and administers it_when necessary.	?
+112	That Which Feeds on Life	Fiend	DARK	4	1200	1000	Mercury	Uranus	A vile monster that_fuels its power by_draining the essence_of life from_its opponents.	?
+113	Dark Gray	Beast	EARTH	3	800	900	Jupiter	Moon	Entirely gray,_this beast has_rarely been seen_by mortal eyes.	?
+114	White Magical Hat	Spellcaster	LIGHT	3	1000	700	Sun	Mars	A gentleman thief_that eludes the law_despite the fact_that he sticks out_like a sore thumb_with his silk hat_and white cape.	?
+115	Kamion Wizard	Spellcaster	DARK	4	1300	1100	Mercury	Pluto	A magic-user that_controls chaos_and wields_a mighty sickle.	?
+116	Nightmare Scorpion	Insect	EARTH	3	900	800	Uranus	Neptune	A very toxic_creature that_induces nightmares_and attacks its_victims with four_poison- tipped_stingers.	?
+117	Spirit of the Books	WingedBeast	WIND	4	1400	1200	Saturn	Moon	A spirit of the_books with infinite_knowledge and_an endless variety_of attack strategies.	?
+118	Supporter in the Shadows	Warrior	EARTH	3	1000	1000	Jupiter	Venus	A cute elf that_assists against_enemies while_remaining hidden_from sight.	?
+119	Trial of Nightmares	Fiend	DARK	4	1300	900	Moon	Pluto	Passes judgment on_enemies that are_locked in coffins.	?
+120	Dream Clown	Warrior	EARTH	3	1200	900	Venus	Saturn	The mysterious dance_of this creature_draws its enemies_into eternal slumber.	?
+121	Sleeping Lion	Beast	EARTH	4	700	1700	Jupiter	Sun	Frequently_found sleeping,_this monster is_very dangerous_when awakened.	?
+122	Yamatano Dragon Scroll	Dragon	WIND	2	900	300	Saturn	Venus	This dragon is_conjured from_a picture scroll_to attack enemies._It has a pretty_low defense factor.	?
+123	Dark Plant	Plant	DARK	1	300	400	Moon	Jupiter	A vicious flower_raised from polluted_soil and fertilized_by dark forces.	?
+124	Ancient Tool	Machine	DARK	5	1700	1400	Moon	Saturn	An engine_of destruction_discovered in the_ruins of an ancient_civilization.	?
+125	Faith Bird	WingedBeast	WIND	4	1500	1100	Sun	Jupiter	A bird with a very_long tail that_attacks with a light_that emanates from_its entire being.	?
+126	Orion the Battle King	Fairy	LIGHT	5	1800	1500	Sun	Saturn	A mysterious_creature known as_the king of warriors_but nobody has lived_long enough to tell_how it earned_its reputation.	?
+127	Ansatsu	Warrior	EARTH	5	1700	1200	Mercury	Neptune	A silent and swift_warrior specializing_in sneak attack.	?
+128	LaMoon	Spellcaster	LIGHT	5	1200	1700	Sun	Uranus	A sorcerer who lives_on the moon and_attacks opponents_with the power_of lunar light.	?
+129	Nemuriko	Spellcaster	DARK	3	800	700	Mercury	Moon	A child-like_creature that_controls a sleep_spirit to beckon_enemies into eternal_slumber.	?
+130	Weather Control	Fairy	LIGHT	2	600	400	Sun	Pluto	This monster is_capable of_manipulating the_weather. This power_is the reason behind_the changing climate_of mountains.	?
+131	Octoberser	Aqua	WATER	5	1600	1400	Neptune	Moon	A strange creature_with the head_of a fish and_the tentacles of_an octopus that_attacks its enemies_with spears.	?
+132	The 13th Grave	Zombie	DARK	3	1200	900	Moon	Pluto	A zombie that_suddenly appeared_from plot_#13 - supposedly_an empty grave.	?
+133	Charubin the Fire Knight	Pyro	FIRE	3	1100	800	Mars	Uranus	A warrior protected_by a shell_that can even_deflect the heat_of burning flames.	?
+134	Mystical Capture Chain	Fairy	LIGHT	2	700	700	Sun	Neptune	A mystical chain_that is believed_capable of binding_its enemies and_preventing their_attacks.	?
+135	Fiend's Hand	Zombie	DARK	2	600	600	Moon	Pluto	Long arms reach out_from the Swamp_of Chaos to drag_in enemy creatures.	?
+136	Witty Phantom	Fiend	DARK	4	1400	1300	Mercury	Mars	Dressed in a_night-black tuxedo,_this creature_presides over_the doomed.	?
+137	Mystery Hand	Fiend	DARK	2	500	500	Moon	Uranus	Twisting the fabric_of reality, arms_stretch out from_another dimension_to attack opponents.	?
+138	Dragon Statue	Warrior	EARTH	3	1100	900	Uranus	Mars	A granite warrior_with a dragon's soul_wields a powerful_sword against_all enemies.	?
+139	Blue-eyed Silver Zombie	Zombie	DARK	3	900	700	Sun	Pluto	A creature rumored_to turn enemies_into zombies_with a strange ray_that emanates_from its eyes.	?
+140	Toad Master	Aqua	WATER	3	1000	1000	Neptune	Venus	Thousands of years_old, this frog_wizard attacks_enemies with an_army of tadpoles.	?
+141	Spiked Snail	Insect	DARK	3	700	1300	Moon	Jupiter	Evolving from the_powers of darkness,_this snail has arms_and legs that allow_swift attacks_against its enemies.	?
+142	Flame Manipulator	Spellcaster	FIRE	3	900	1000	Mars	Pluto	Attacks enemies with_fire-related spells,_such as the_"Sea of Flames"_and the_"Wall of Fire".	?
+143	Necrolancer the Timelord	Spellcaster	DARK	3	800	900	Venus	Uranus	The first in a line_of golems that_appears almost_anywhere from within_a dimensional ring.	?
+144	Djinn the Watcher of the Wind	Spellcaster	WIND	3	700	900	Saturn	Mercury	Controls the air_currents to create_violent winds and_tornadoes to blow_away its enemies.	?
+145	The Bewitching Phantom Thief	Spellcaster	DARK	2	700	700	Venus	Pluto	A flashy,_black-caped thief_who wields_a magic cane.	?
+146	Temple of Skulls	Zombie	DARK	4	900	1300	Mercury	Pluto	A weird temple_of skulls and bones_that sucks the_living essence_of all those who_dare approach it.	?
+147	Monster Egg	Warrior	EARTH	3	600	900	Uranus	Jupiter	A warrior hidden_within an egg that_attacks enemies by_flinging eggshells.	?
+148	The Shadow Who Controls the Dark	Fiend	DARK	3	800	700	Mercury	Jupiter	A living shadow_that dwells in the_realm of darkness._It paralyzes_its enemies_to prevent attacks.	?
+149	Lord of the Lamp	Fiend	DARK	4	1400	1200	Mercury	Saturn	A giant that appears_from a mystic lamp_and follows_the orders_of the lamp's owner.	?
+150	Akihiron	Aqua	WATER	5	1700	1400	Neptune	Jupiter	A mysterious_creature that dwells_below the sea.	?
+151	Rhaimundos of the Red Sword	Warrior	EARTH	4	1200	1300	Neptune	Mars	A warrior armed_with the Sword_of Crimson Flames._Uses fire to bind_the movement_of its enemies.	?
+152	The Melting Red Shadow	Aqua	WATER	2	500	700	Moon	Neptune	A creature that_melts into the earth_melds with an_opponent's shadow,_and attacks_from below.	?
+153	Dokuroizo the Grim Reaper	Zombie	DARK	3	900	1200	Moon	Pluto	A living spirit that_preys on the living_essence of enemies.	?
+154	Fire Reaper	Zombie	DARK	2	700	500	Mars	Sun	A creature that_deals out punishment_with its_flaming arrows.	?
+155	Larvas	Beast	EARTH	3	800	1000	Jupiter	Mercury	A fast-moving,_bird-like creature_that strangles an_opposing monster_with its long,_thin arms.	?
+156	Hard Armor	Warrior	EARTH	3	300	1200	Uranus	Sun	A living suit of_armor that attacks_enemies with a_bone-jarring tackle.	?
+157	Firegrass	Plant	EARTH	2	700	600	Mars	Moon	A fire-breathing_plant found growing_near volcanoes.	?
+158	Man Eater	Plant	EARTH	2	800	600	Jupiter	Uranus	Man-eating plant_with poison feelers_for attacking_enemies.	?
+159	Dig Beak	Beast	EARTH	2	500	800	Jupiter	Pluto	Coiling its_serpent-like body,_this creature spins_and attacks with_its snapping beak.	?
+160	M-warrior #1	Warrior	EARTH	3	1000	500	Uranus	Moon	Specializing in_combination attacks,_this warrior uses_magnetism to block_an enemy's escape.	?
+161	M-warrior #2	Warrior	EARTH	3	500	1000	Uranus	Venus	Specializing in_combination attacks,_this warrior is_equipped with a_tough, magnetically_coated armor.	?
+162	Tainted Wisdom	Fiend	DARK	3	1250	800	Moon	Mercury	A parasite brain_that preys_on the knowledge_and intelligence_of its opponents.	?
+163	Lisark	Beast	EARTH	4	1300	1300	Saturn	Pluto	An unusual creature_with sapphire eyes_that creates visions_to confuse the enemy.	?
+164	Lord of Zemia	Fiend	DARK	4	1300	1000	Mercury	Uranus	A vile entity that_deceives enemies_into walking a path_of destruction.	?
+165	The Judgement Hand	Warrior	EARTH	3	1400	700	Sun	Venus	The hand of final_judgment is capable_of intense attacks_against the enemy.	?
+166	Mysterious Puppeteer	Warrior	EARTH	4	1000	1500	Uranus	Mercury	A puppet master that_manipulates enemies_during battle.	?
+167	Ancient Jar	Rock	EARTH	1	400	200	Uranus	Neptune	A fragile jar from_the past containing_a mysterious_creature.	?
+168	Darkfire Dragon	Dragon	DARK	4	1500	1250	Mars	Venus	Scorching flames_that wipe out_enemies in the blink_of an eye.	?
+169	Dark King of the Abyss	Fiend	DARK	3	1200	800	Mercury	Pluto	King of the_netherworld. It's_said that he once_had the power to_rule over the Dark.	?
+170	Spirit of the Harp	Fairy	LIGHT	4	800	2000	Sun	Mars	A spirit that_soothes the soul_with the music of_its glorious harp.	?
+171	Big Eye	Fiend	DARK	4	1200	1000	Venus	Neptune	This creature is_covered with_hypnotic eyes_for mesmerizing_its enemies.	?
+172	Armaill	Warrior	EARTH	3	700	1300	Mars	Mercury	A strange warrior_who manipulates_three fearsome_blades with_both hands and_its tail.	?
+173	Dark Prisoner	Fiend	DARK	3	600	1000	Mercury	Neptune	This creature_manipulates light_to eliminate_all traces of_its appearance.	?
+174	Hurricail	Spellcaster	WIND	2	900	200	Saturn	Neptune	A twister_that runs rampant_in the wastelands,_cutting its enemies_with blades of wind.	?
+175	Ancient Brain	Fiend	DARK	3	1000	700	Mercury	Moon	Exiled from reality,_this creature is_adept at fighting_in the dark.	?
+176	Fire Eye	Pyro	FIRE	2	800	600	Mars	Saturn	A winged eye_enveloped in flames_that attacks enemies_with fire.	?
+177	Monsturtle	Aqua	WATER	3	800	1000	Neptune	Mercury	A vicious turtle_with a spiked shell.	?
+178	Claw Reacher	Fiend	DARK	3	1000	800	Mercury	Mars	Stretching arms and_razor-sharp claws_make this monster a_formidable opponent.	?
+179	Phantom Dewan	Spellcaster	DARK	2	700	600	Mercury	Jupiter	A wizard_that freezes an_enemy's movement_with a single curse.	?
+180	Arlownay	Plant	EARTH	3	800	1000	Jupiter	Neptune	A maiden_in the flower_blossoms spreads_poisonous pollen_against opponents.	?
+181	Dark Shade	Fiend	WIND	3	1000	1000	Saturn	Mars	Emits a dazzling_light from its_crystal to blind_its enemies.	?
+182	Masked Clown	Warrior	DARK	2	500	700	Mercury	Saturn	A dancing warrior_that makes mincemeat_out of opponents_with a sharp scythe.	?
+183	Lucky Trinket	Spellcaster	LIGHT	2	600	800	Sun	Jupiter	A thin and reedy_creature protected_by sacred power.	?
+184	Genin	Spellcaster	LIGHT	3	600	900	Venus	Sun	Uses amazing_sleight-of-hand_to fool and destroy_its enemies.	?
+185	Eyearmor	Warrior	EARTH	2	600	500	Uranus	Mars	This warrior_confuses and_destroys enemies_by adopting_their images.	?
+186	Fiend Refrection #2	WingedBeast	LIGHT	4	1100	1400	Venus	Mars	A bird-beast_that summons_reinforcements_with a hand mirror.	?
+187	Gate Deeg	Beast	DARK	3	700	800	Moon	Mars	A creature_with an abdominal_portal used for_summoning monsters_from the netherworld.	?
+188	Synchar	Beast	EARTH	3	800	900	Jupiter	Sun	An ugly creature_with two heads and a_mouth for blasting_laser beams.	?
+189	Fusionist	Beast	EARTH	3	900	700	Jupiter	Moon	A monstrous cat with_wings and a long,_striking tail.	?
+190	Akakieisu	Spellcaster	DARK	3	1000	800	Mercury	Uranus	A wizard_whose incantations_numb the senses of_opposing monsters.	?
+191	LaLa Li-oon	Thunder	WIND	2	600	600	Pluto	Moon	Protected by thunder_this dangerous cloud_attacks its enemies_with acid rain.	?
+192	Key Mace	Fairy	LIGHT	1	400	300	Sun	Saturn	A small angel_whose cuteness_melts the hearts_of its enemies.	?
+193	Turtle Tiger	Aqua	WATER	4	1000	1500	Neptune	Saturn	A tiger encased in a_protective shell_that attacks its_enemies with its_razor-sharp fangs.	?
+194	Terra the Terrible	Fiend	DARK	4	1200	1300	Moon	Jupiter	Know as a dweller_of the swamps,_this creature is a_minion of the Dark_forces.	?
+195	Doron	Warrior	EARTH	2	900	500	Neptune	Moon	An unpredictable_creature that splits_into two and attacks_an enemy from_opposite directions.	?
+196	Arma Knight	Aqua	WATER	4	1000	1200	Neptune	Venus	An ammonite warrior_that has protected_the seas from the_dawn of time.	?
+197	Mech Mole Zombie	Zombie	DARK	2	500	400	Moon	Saturn	A creature of the_night that attacks_enemies with its_rocket-powered arms.	?
+198	Happy Lover	Fairy	LIGHT	2	800	500	Sun	Uranus	A little angel_that fires beams_of happiness_from the heart jewel_on its forehead.	?
+199	Penguin Knight	Aqua	WATER	3	900	800	Uranus	Mercury	A penguin-like_creature that slides_on its belly_to deliver a blow_with its_outstretched sword.	?
+200	Petit Dragon	Dragon	WIND	2	600	700	Saturn	Sun	A very small dragon_known for its_vicious attacks.	?
+201	Frenzied Panda	Beast	EARTH	4	1200	1000	Jupiter	Venus	A savage beast_that carries_a big bamboo stick_for beating down_its enemies.	?
+202	Air Marmot of Nefariousness	Beast	EARTH	2	400	600	Moon	Uranus	A horned beaver_with wings that_throws high-velocity_acorns from the_sky with uncanny_accuracy.	?
+203	Phantom Ghost	Zombie	DARK	2	600	800	Moon	Pluto	Malicious spirits_that walk the world_of the living,_unable to find their_final resting place.	?
+204	Mabarrel	Fiend	DARK	5	1700	1400	Moon	Neptune	A cannon-like_monster that rapidly_fires eyeballs_at the enemy.	?
+205	Dorover	Aqua	WATER	3	900	800	Neptune	Sun	An ugly, melting_creature that_breathes out_poison gas.	?
+206	Twin Long Rods #1	Aqua	WATER	3	900	700	Moon	Mercury	This creature swings_its whip-like arms_for mid-range_attacks against_enemies.	?
+207	Droll Bird	WingedBeast	WIND	2	600	500	Saturn	Moon	With a battle cry_that curdles_the blood of_its opponent,_this creature_attacks with its_massive beak.	?
+208	Petit Angel	Fairy	LIGHT	3	600	900	Sun	Pluto	A quick-moving and_tiny angel that's_very difficult_to hit.	?
+209	Winged Cleaver	Insect	EARTH	2	700	700	Jupiter	Mercury	This creature_attacks by swinging_around its_sickle-like arms.	?
+210	Hinotama Soul	Pyro	FIRE	2	600	500	Mars	Uranus	An intensely hot_flame creature that_rams anything that_stands in its way.	?
+211	Kaminarikozou	Thunder	WIND	2	700	600	Pluto	Venus	This creature stores_lightning within its_body to deliver_electrifying attacks.	?
+212	Meotoko	Beast	EARTH	2	700	600	Moon	Mars	A huge monster with_a single eye that_fires an intence_beam.	?
+213	Aqua Madoor	Spellcaster	WATER	4	1200	2000	Neptune	Mercury	A wizard of the_waters that conjures_a liquid wall to_crush any enemies_that oppose him.	?
+214	Kagemusha of the Blue Flame	Warrior	EARTH	2	800	400	Mars	Sun	Serves as a double_for the ruler of the_Blue Flame. A master_swordsman that_wields a fine blade.	?
+215	Flame Ghost	Zombie	DARK	3	1000	800	Mars	Pluto	A fiery spirit_that burns anything_in its path.	?
+216	Dryad	Spellcaster	EARTH	4	1200	1400	Jupiter	Uranus	A spirit of the_forest protected by_the surrounding_plant life.	?
+217	B. Skull Dragon	Dragon	DARK	9	3200	2500	Moon	Jupiter	A very rare creature_created from the_fusion of an_uncommon beast and_a vicious dragon.	?
+218	Two-mouth Darkruler	Dinosaur	EARTH	3	900	700	Moon	Saturn	A dinosaur with two_crushing jaws._Stores electricity_in its horn and_releases high_voltage bolts_from the mouth_on its back.	?
+219	Solitude	BeastWarrior	EARTH	3	1050	1000	Moon	Uranus	A beast-warrior that_swings a massive_scythe that draws on_the spirit of its_enemies to deliver_devastating blows.	?
+220	Masked Sorcerer	Spellcaster	DARK	4	900	1400	Mercury	Neptune	A mysterious wizard_whose face remains_forever hidden_behind a strange_mask.	?
+221	Kumootoko	Insect	EARTH	3	700	1400	Jupiter	Pluto	A massive,_intelligent spider_that traps its_enemies with webbing.	?
+222	Midnight Fiend	Fiend	DARK	2	800	600	Moon	Neptune	A winged creature_rumored to appear_at midnight.	?
+223	Roaring Ocean Snake	Aqua	WATER	6	2100	1800	Neptune	Mars	A massive_sea serpent that_creates tidal waves_to wipe out_its enemies.	?
+224	Trap Master	Warrior	EARTH	3	500	1100	Mercury	Moon	A warrior that_excels in laying_traps such as a_bottomless pit, for_eternally ensnaring_opponents.	?
+225	Fiend Sword	Warrior	DARK	4	1400	800	Moon	Mercury	Few have escaped_the curse of this_creature. Those that_have done so have_gained untold power.	?
+226	Skull Stalker	Warrior	DARK	3	900	800	Moon	Mars	Swift and vicious,_this monster grabs_its victim with its_pincers and attacks_the captive with its_poison stinger.	?
+227	Hitodenchak	Aqua	WATER	2	600	700	Neptune	Mars	A vicious starfish_that spits acid_to melt away_its enemies.	?
+228	Wood Remains	Zombie	DARK	3	1000	900	Jupiter	Neptune	A zombie that rose_from the remains of_the woodland ruler.	?
+229	Hourglass of Life	Fairy	LIGHT	2	700	600	Sun	Neptune	A creature_that allows power_to be gained_at the cost of life.	?
+230	Rare Fish	Fish	WATER	4	1500	1200	Neptune	Jupiter	An unusual and_ferocious fish with_the head of a beast.	?
+231	Wood Clown	Warrior	EARTH	3	800	1200	Mercury	Mars	An unpleasantly_smiling creature_that wields a scythe_to avoid enemy blows.	?
+232	Madjinn Gunn	Fiend	DARK	2	600	800	Moon	Jupiter	A living weapon that_fires projectiles_from its mouth.	?
+233	Dark Titan of Terror	Fiend	DARK	4	1300	1100	Mercury	Jupiter	A spirit said to_dwell in the world_of dreams._Attacks enemies_in their sleep.	?
+234	Beautiful Headhuntress	Warrior	EARTH	4	1600	800	Mercury	Saturn	A lovely swordmaster_with some very_agile moves.	?
+235	Wodan the Resident of the Forest	Warrior	EARTH	3	900	1200	Jupiter	Sun	A warrior that has_long resided in the_forest and enjoys_the protection_of Mother Nature.	?
+236	Guardian of the Labyrinth	Warrior	EARTH	4	1000	1200	Pluto	Mercury	A warrior that_guards the entrance_to the netherworld.	?
+237	Haniwa	Rock	EARTH	2	500	500	Uranus	Jupiter	An earthen doll_that protects_the treasure_in the tombs_of ancient kings.	?
+238	Yashinoki	Plant	EARTH	2	800	600	Jupiter	Moon	A palm tree with a_will of its own that_attacks enemies by_flinging coconuts.	?
+239	Vishwar Randi	Warrior	DARK	3	900	700	Mercury	Uranus	A woman warrior that_serves the forces_of darkness.	?
+240	The Drdek	Fiend	DARK	3	700	800	Moon	Saturn	An eyeball creature_with legs for_jumping high and_delivering finishing_blows with its sharp_claws.	?
+241	Dark Assailant	Zombie	DARK	4	1200	1200	Moon	Uranus	Armed with Psycho_Sword, this sinister_cutthroat rules the_outer land.	?
+242	Candle of Fate	Fiend	DARK	2	600	600	Mars	Moon	An opponent's fate_is decided_when the flames_of each finger_are extinguished.	?
+243	Water Element	Aqua	WATER	3	900	700	Neptune	Saturn	A water spirit_that envelops_its opponent_in a thick fog_to cover its attack.	?
+244	Dissolverock	Rock	EARTH	3	900	1000	Mars	Venus	A monster borne from_the lava pits._Generates intensive_heat that can melt_away its enemies.	?
+245	Meda Bat	Fiend	DARK	2	800	400	Moon	Neptune	An eyeball fiend_created by a servant_of darkness._Uses "Dark Spheres"_to blow away_its enemies.	?
+246	One Who Hunts Souls	BeastWarrior	EARTH	4	1100	1000	Moon	Mercury	A creature_with a sword_that gains its power_from the life forces_of its victims.	?
+247	Root Water	Fish	WATER	3	900	800	Neptune	Sun	An amphibian capable_of calling up a_massive tidal wave_from the dark seas_to wipe out enemy_monsters.	?
+248	Master & Expert	Beast	EARTH	4	1200	1000	Jupiter	Venus	A fearsome duo_consisting of a_beast master and_its loyal servant.	?
+249	Water Omotics	Aqua	WATER	4	1400	1200	Neptune	Moon	Transforms the water_overflowing from a_jar into attacking_dragons.	?
+250	Hyo	Warrior	WATER	3	800	1200	Neptune	Mercury	An ice warrior whose_slightest touch_freezes an opponent.	?
+251	Enchanting Mermaid	Fish	WATER	3	1200	900	Neptune	Venus	A beautiful mermaid_that lures voyagers_to a watery grave.	?
+252	Nekogal #1	Beast	EARTH	3	1100	900	Jupiter	Mercury	A cat creature that_looks cute to the_eye but delivers_scratching blows_with its sharp claws.	?
+253	Angelwitch	Spellcaster	DARK	3	800	1000	Mercury	Neptune	A creature_that chose the_path of sorcery_to become a witch.	?
+254	Embryonic Beast	Fiend	DARK	2	500	750	Moon	Mars	A repulsive monster_with a gaping belly_that swallows almost_anything.	?
+255	Prevent Rat	Beast	EARTH	4	500	2000	Jupiter	Uranus	This monster is_shielded by_a hide covered_in thick hair.	?
+256	Dimensional Warrior	Warrior	EARTH	4	1200	1000	Venus	Mars	A monster_capable of creating_dimensional rifts_to trap its enemies.	?
+257	Stone Armadiller	Rock	EARTH	3	800	1200	Uranus	Sun	With a body armored_by rock-hard fur,_this monster_features excellent_defense capabilities.	?
+258	Beastking of the Swamps	Aqua	WATER	4	1000	1100	Uranus	Mercury	This creature_changes the ground_at its feet into_quicksand to ensnare_its enemies.	?
+259	Ancient Sorcerer	Spellcaster	DARK	4	1000	1300	Mercury	Moon	A master fighter_that uses various_staffs to render_enemies unconscious.	?
+260	Lunar Queen Elzaim	Fairy	LIGHT	3	750	1100	Moon	Venus	A lovely_moon goddess that_can throw up_a lunar curtain_to block_enemy attacks.	?
+261	Wicked Mirror	Fiend	DARK	2	700	600	Venus	Jupiter	A malevolent mirror_that hypnotizes_a beholder and_renders the victim_susceptible_to attacks.	?
+262	The Little Swordsman of Aile	Warrior	WATER	3	800	1300	Neptune	Mars	An elf warrior_mounted on a huge_lizard.	?
+263	Rock Ogre Grotto #2	Rock	EARTH	3	700	1400	Uranus	Sun	A stone golem_that turns opponents_into rocks and_crushes them to dust.	?
+264	Wing Egg Elf	Fairy	LIGHT	3	500	1300	Sun	Mars	Hiding within its_eggshell, this_creature blocks_enemy attacks with_its massive wings.	?
+265	The Furious Sea King	Aqua	WATER	3	800	700	Neptune	Jupiter	Grand King of the_Seven Seas._Able to summon_massive tidal waves_to drown the enemy.	?
+266	Princess of Tsurugi	Warrior	WIND	3	900	700	Saturn	Venus	A queen of swords_that is virtually_unequalled in her_mastery of every_blade imaginable_to man.	?
+267	Unknown Warrior of Fiend	Warrior	DARK	3	1000	500	Mercury	Mars	The speed of this_warrior creates_an intense vacuum_that can actually_slice through_a monster's hide.	?
+268	Sectarian of Secrets	Spellcaster	DARK	2	700	500	Mercury	Jupiter	A sorcerer that_worships the dark_forces and can_summon a massive_hand to drag away_opponents into_the netherworld.	?
+269	Versago the Destroyer	Fiend	DARK	3	1100	900	Mercury	Saturn	A lord of_destruction_born from the heart_of darkness,_this creature_can summon storms_to destroy opponents.	?
+270	Wetha	Aqua	WATER	3	1000	900	Neptune	Saturn	A rain spirit that_can summon typhoons_to blow away its_enemies.	?
+271	Megirus Light	Fiend	DARK	3	900	600	Mercury	Uranus	This creature's_ominous eyes can_unleash piercing_rays against its_enemies.	?
+272	Mavelus	WingedBeast	WIND	4	1300	900	Mars	Mercury	Related to the_phoenix, this_creature dwells in_the mountains. Its_fiery breath is_extremely scorching.	?
+273	Ancient Tree of Enlightenment	Plant	EARTH	3	600	1500	Jupiter	Pluto	Armed with a wealth_of knowledge, this_monster is able to_block just about_any attack.	?
+274	Green Phantom King	Plant	EARTH	3	500	1600	Jupiter	Neptune	This youthful king_of the forests lives_in a green world,_abundant with trees_and wildlife.	?
+275	Ground Attacker Bugroth	Machine	EARTH	4	1500	1000	Uranus	Moon	A land-based armored_robot that is said_to once have marine_attack capabilities.	?
+276	Ray & Temperature	Fairy	LIGHT	3	1000	1000	Sun	Saturn	The Sun and the_North Wind join_hands to deliver_a devastating_combination of heat_and gale-force winds.	?
+277	Gorgon Egg	Fiend	DARK	3	300	1300	Moon	Jupiter	A gorgon's egg with_eyes said to create_whatever creature_crosses its view.	?
+278	Petit Moth	Insect	EARTH	1	300	200	Jupiter	Sun	Nobody has any idea_what creature may_spawn from this_mysterious larva.	?
+279	King Fog	Fiend	DARK	3	1000	900	Mercury	Neptune	A spectre that_dwells in a blinding_curtain of smoke.	?
+280	Protector of the Throne	Warrior	EARTH	4	800	1500	Uranus	Venus	A creature that_protects the king's_throne from usurpers.	?
+281	Mystic Clown	Fiend	DARK	4	1500	1000	Mercury	Moon	Nothing can stop the_mad attack of this_powerful creature.	?
+282	Mystical Sheep #2	Beast	EARTH	3	800	1000	Venus	Saturn	A monstrous sheep_with a long tail for_hypnotizing enemies_to render them_powerless.	?
+283	Holograh	Machine	EARTH	3	1100	700	Sun	Jupiter	A monster machine_that generates_images to confuse_its enemies,_making them prone_to attacks.	?
+284	Tao the Chanter	Spellcaster	EARTH	3	1200	900	Venus	Uranus	A magic-user that_corrodes the yin_and yang to create_a twisted power_to attack enemies.	?
+285	Serpent Marauder	Reptile	EARTH	2	700	600	Neptune	Sun	A snake with a_single eye that_blows an icy breath_to freeze its_opponents.	?
+286	Gatekeeper	Machine	DARK	5	1500	1800	Mercury	Mars	An indestructible_machine_built to protect_key entrances.	?
+287	Ogre of the Black Shadow	BeastWarrior	EARTH	4	1200	1400	Moon	Saturn	An ogre possessed_by the powers_of the dark._Few can withstand_its rapid charge.	?
+288	Dark Artist	Fiend	DARK	3	600	1400	Mercury	Jupiter	A demented artist_that creates_objets d'art_to crush enemies.	?
+289	Change Slime	Aqua	WATER	1	400	300	Neptune	Moon	A shape-shifting_slime that is_capable of adopting_the form of other_creatures.	?
+290	Moon Envoy	Warrior	LIGHT	4	1100	1000	Moon	Saturn	A servant of the_moon goddess,_this warrior_wields a pike_with a spectacular_crescent-shaped_blade.	?
+291	Fireyarou	Pyro	FIRE	4	1300	1000	Mars	Saturn	A malevolent_creature_wrapped in flames_that attacks enemies_with intense fire.	?
+292	Psychic Kappa	Aqua	WATER	2	400	1000	Neptune	Venus	An amphibian with_extrasensory powers_for blocking attacks.	?
+293	Masaki the Legendary Swordsman	Warrior	EARTH	4	1100	1100	Sun	Uranus	Legendary_swordmaster and a_veteran of over 100_battles.	?
+294	Dragoness the Wicked Knight	Warrior	WIND	3	1200	900	Saturn	Mercury	A warrior_equipped with_equipment fashioned_from dragon scales.	?
+295	Bio Plant	Fiend	DARK	3	600	1300	Jupiter	Moon	A monstrous creature_born from a failed_lab experiment.	?
+296	One-eyed Shield Dragon	Dragon	WIND	3	700	1300	Saturn	Pluto	This dragon wears a_shield not only for_its own protection_but also for ramming_its enemies.	?
+297	Cyber Soldier of Darkworld	Machine	DARK	4	1400	1200	Moon	Uranus	An unstoppable_mechanical soldier_powered by dark_forces.	?
+298	Wicked Dragon with the Ersatz Head	Dragon	WIND	3	900	900	Moon	Neptune	A two-headed dragon_with a pair of_vicious jaws for_crushing its enemies.	?
+299	Sonic Maid	Warrior	EARTH	3	1200	900	Sun	Pluto	A maiden_that uses sound_to her advantage._She wields a scythe_that's shaped_like a musical note.	?
+300	Kurama	WingedBeast	WIND	3	800	800	Saturn	Neptune	A vicious bird that_attacks from the_skies with its_whip-like tail.	?
+301	Legendary Sword	Equip	 	 	 	 	 	 	A sword that brings_out the best in_warriors. It cannot_be used by servants_of the dark.	?
+302	Sword of Dark Destruction	Equip	 	 	 	 	 	 	Dark forces_increase the power_of Warriors!	?
+303	Dark Energy	Equip	 	 	 	 	 	 	Dark forces increase_the power of Fiends_and other monsters_of the Dark!	?
+304	Axe of Despair	Equip	 	 	 	 	 	 	Fiends and_Beast-Warriors can_constantly use their_maximum strength!	?
+305	Laser Cannon Armor	Equip	 	 	 	 	 	 	Arms Insects with_a powerful laser!	?
+306	Insect Armor with Laser Cannon	Equip	 	 	 	 	 	 	Allows Insects to_fire an intense_blast of fire!	?
+307	Elf's Light	Equip	 	 	 	 	 	 	Increases the power_of elves with_mystical light!	?
+308	Beast Fangs	Equip	 	 	 	 	 	 	Increases the power_of Beasts and other_fanged monsters!	?
+309	Steel Shell	Equip	 	 	 	 	 	 	Boosts the power of_shelled monsters!_Said to have no_effect on those_without shells.	?
+310	Vile Germs	Equip	 	 	 	 	 	 	Vile microbes boost_the power of Plants_in the woods!	?
+311	Black Pendant	Equip	 	 	 	 	 	 	This pendant grants_extra power_to Dark sorcerers!	?
+312	Silver Bow and Arrow	Equip	 	 	 	 	 	 	Silver bow and arrow_enhances the power_of Fairies.	?
+313	Horn of Light	Equip	 	 	 	 	 	 	Increases the power_of horned creatures!_Has no effect_on Dark monsters.	?
+314	Horn of the Unicorn	Equip	 	 	 	 	 	 	Increases the power_of Dark monsters_with horns!	?
+315	Dragon Treasure	Equip	 	 	 	 	 	 	A legendary treasure_that increases the_power of dragons.	?
+316	Electro-whip	Equip	 	 	 	 	 	 	A whip for_paralyzing enemies._Increases power when_equipped with_female creatures.	?
+317	Cyber Shield	Equip	 	 	 	 	 	 	Increases the power_of female monsters_by changing their_attitudes.	?
+318	Elegant Egotist	Equip	 	 	 	 	 	 	Creates two_doppelgangers of_Harpy Lady for_three-pronged_attacks!	?
+319	Mystical Moon	Equip	 	 	 	 	 	 	Moonlight increases_the power of Beasts!	?
+320	Stop Defense	Magic	 	 	 	 	 	 	Forces an opponent's_monster card_positioned for_defense into the_attack position.	?
+321	Malevolent Nuzzler	Equip	 	 	 	 	 	 	Diabolic forces act_to increase the_power of female and_Dark monsters!	?
+322	Violet Crystal	Equip	 	 	 	 	 	 	Mystic forces from_the crystal increase_the power of Zombies.	?
+323	Book of Secret Arts	Equip	 	 	 	 	 	 	A magic book for_increasing the power_of magic-users._It cannot be used_by bad-hearted_sorcerers.	?
+324	Invigoration	Equip	 	 	 	 	 	 	Increases the power_of Thunder, Rock,_and Pyro monsters.	?
+325	Machine Conversion Factory	Equip	 	 	 	 	 	 	A manufacturing_facility that tunes_up all Machine_monsters.	?
+326	Raise Body Heat	Equip	 	 	 	 	 	 	Absorbs the sun's_energy to increase_the power of_Dinosaurs!	?
+327	Follow Wind	Equip	 	 	 	 	 	 	The winds provide_support to increase_the power of Winged_Beasts and other_flying monsters!	?
+328	Power of Kaishin	Equip	 	 	 	 	 	 	Poseidon's Strength_is shared to boost_the power of_Aqua, Fish, and_Sea Serpent_monsters!	?
+329	Dragon Capture Jar	Magic	 	 	 	 	 	 	Destroys_all opponent_Dragon monsters_on the playfield!	?
+330	Forest	Magic	 	 	 	 	 	 	Changes the field_in favor of_Beast-Warrior,_Insect, Plant, and_Beast monsters!	?
+331	Wasteland	Magic	 	 	 	 	 	 	Changes the field_in favor of Zombie,_Dinosaur and_Rock monsters!	?
+332	Mountain	Magic	 	 	 	 	 	 	Changes the field_in favor of Dragon,_Winged Beast, and_Thunder monsters!	?
+333	Sogen	Magic	 	 	 	 	 	 	Changes the field_to meadow land_in favor of Warrior_and Beast-Warrior_monsters!	?
+334	Umi	Magic	 	 	 	 	 	 	Changes the field_in favor of Aqua_and Thunder monsters_but unfavorable to_Machine and Pyro_monsters!	?
+335	Yami	Magic	 	 	 	 	 	 	Changes the field_in favor of_Magic-User and_Fiend monsters,_but unfavorable_to Fairy monsters!	?
+336	Dark Hole	Magic	 	 	 	 	 	 	Sucks up every card_in play on the field	?
+337	Raigeki	Magic	 	 	 	 	 	 	Destroys every_opposing monster_with a stroke_of lightning!	?
+338	Mooyan Curry	Magic	 	 	 	 	 	 	A delicious_beef curry increases_Life Points by 200!	?
+339	Red Medicine	Magic	 	 	 	 	 	 	A magic potion_that increases_Life Points by 500!	?
+340	Goblin's Secret Remedy	Magic	 	 	 	 	 	 	A goblin's herb_that increases_Life Points by 1000!	?
+341	Soul of the Pure	Magic	 	 	 	 	 	 	A fairy potion_that increases_Life Points by 2000!	?
+342	Dian Keto the Cure Master	Magic	 	 	 	 	 	 	A mystical power_that increases_Life Points by 5000!	?
+343	Sparks	Magic	 	 	 	 	 	 	A shower of sparks_inflicts 50 points_of damage_to your opponent's_Life Points!!	?
+344	Hinotama	Magic	 	 	 	 	 	 	A fireball_inflicts 100 points_of damage_to your opponent's_Life Points!!	?
+345	Final Flame	Magic	 	 	 	 	 	 	Flames_inflict 200 points_of damage_to your opponent's_Life Points!!	?
+346	Ookazi	Magic	 	 	 	 	 	 	Flames_inflict 500 points_of damage_to your opponent's_Life Points!	?
+347	Tremendous Fire	Magic	 	 	 	 	 	 	An inferno_inflicts 1000 points_of damage_to your opponent's_Life Points!	?
+348	Swords of Revealing Light	Magic	 	 	 	 	 	 	Enemy monsters_are revealed and_your opponent_cannot attack_for three turns.	?
+349	Spellbinding Circle	Magic	 	 	 	 	 	 	A curse reduces the_power of all enemy_monsters!	?
+350	Dark-piercing Light	Magic	 	 	 	 	 	 	A dazzling light_reveals all monsters_on the playing field.	?
+351	Yaranzo	Zombie	DARK	4	1300	1500	Moon	Mercury	A monster that_attacks anybody_who attempts_to open its lid.	?
+352	Kanan the Swordmistress	Warrior	EARTH	4	1400	1400	Uranus	Neptune	A lady swordsman_that floats like a_butterfly and stings_like a bee.	?
+353	Takriminos	SeaSerpent	WATER	4	1500	1200	Neptune	Mercury	A finned creature_distantly related_to sea Dragons.	?
+354	Stuffed Animal	Warrior	EARTH	3	1200	900	Moon	Mars	A deceptively cute_stuffed animal that_bites.	?
+355	Megasonic Eye	Machine	DARK	5	1500	1800	Moon	Jupiter	A cryptic doomsday_machine that comes_from the edge of_the universe.	?
+356	Super War-lion	Beast	EARTH	7	2300	2100	Jupiter	Venus	A very vicious lion_with sharp and_long claws.	?
+357	Yamadron	Dragon	FIRE	5	1600	1800	Mars	Uranus	A three-headed,_fire-breathing_monster.	?
+358	Seiyaryu	Dragon	LIGHT	7	2500	2300	Sun	Neptune	A sacred dragon_that burns away_wickedness with its_mystical flames.	?
+359	Three-legged Zombies	Zombie	DARK	3	1100	800	Moon	Pluto	Bony and Tubby,_a friendly pair_of skeletons.	?
+360	Zera The Mant	Fiend	DARK	8	2800	2300	Moon	Saturn	A huge, brutal_monster that attacks_with razor-sharp_claws.	?
+361	Flying Penguin	Aqua	WATER	4	1200	1000	Neptune	Jupiter	A rare penguin that_flies with the wings_on its head.	?
+362	Millennium Shield	Warrior	EARTH	5	0	3000	Uranus	Mars	A Millennium Item_candidate_that is said_to block any_powerful attack.	?
+363	Fairy's Gift	Spellcaster	LIGHT	4	1400	1000	Jupiter	Mercury	Flies around_spreading happiness_to all.	?
+364	Black Luster Soldier	Warrior	DARK	8	3000	2500	Moon	Uranus	A powerful warrior_with the same_capabilities as the_legendary Blue-eyes_White Dragon.	?
+365	Fiend's Mirror	Fiend	DARK	6	2100	1800	Venus	Pluto	An arcane glass_that draws_its enemies into_the mirror world.	?
+366	Labyrinth Wall	Rock	EARTH	5	0	3000	Uranus	Jupiter	Walls appear_on the field to form_a labyrinth with_no exit.	?
+367	Jirai Gumo	Insect	EARTH	4	2200	100	Jupiter	Uranus	A monster spider_that dwells_under the earth.	?
+368	Shadow Ghoul	Zombie	DARK	5	1600	1300	Moon	Pluto	A dangerous zombie_that crawls_in the dark.	?
+369	Wall Shadow	Warrior	DARK	7	1600	3000	Moon	Neptune	An unusually fast_monster that sweeps_across walls to_attack its enemies.	?
+370	Labyrinth Tank	Machine	DARK	7	2400	2400	Moon	Mercury	A tank that races_around a labyrinth_hunting down_its enemies.	?
+371	Sanga of the Thunder	Thunder	LIGHT	7	2600	2200	Pluto	Mars	A golem that uses_lightning attacks_similar to the_Labyrinth Brothers.	?
+372	Kazejin	Spellcaster	WIND	7	2400	2200	Saturn	Mars	A golem that_controls the winds_like the Labyrinth_Brothers.	?
+373	Suijin	Aqua	WATER	7	2500	2400	Neptune	Saturn	A golem that uses_water attacks like_the Labyrinth_Brothers.	?
+374	Gate Guardian	Warrior	DARK	11	3750	3400	Moon	Mars	Sanga, Kazejin, and_Suijin join to_form a single,_powerful monster.	?
+375	Dungeon Worm	Insect	EARTH	5	1800	1500	Uranus	Moon	Hidden under_the floors of_a labyrinth,_it swallows any_who pass above.	?
+376	Monster Tamer	Warrior	EARTH	5	1800	1600	Jupiter	Pluto	A master of monsters_that exercises_control over several_creatures.	?
+377	Ryu-kishin Powered	Fiend	DARK	4	1600	1200	Moon	Jupiter	Ryu-kishin enhanced_by the powers of_darkness. Very sharp_talons make it_a worthy opponent.	?
+378	Swordstalker	Warrior	DARK	6	2000	1600	Moon	Saturn	A monster formed by_the vengeful souls_of those who passed_away in battle.	?
+379	La Jinn the Mystical Genie	Fiend	DARK	4	1800	1000	Mercury	Saturn	A genie of the lamp_that's at the beck_and call of its_master.	?
+380	Blue-eyes Ultimate Dragon	Dragon	LIGHT	12	4500	3800	Sun	Venus	The ultimate dragon_formed by the fusion_of three Blue-eyes_White Dragons.	?
+381	Toon Alligator	Reptile	WATER	4	800	1600	Neptune	Mars	An alligator monster_straight from_the cartoons.	?
+382	Rude Kaiser	BeastWarrior	EARTH	5	1800	1600	Uranus	Sun	With an axe in each_hand, this monster_delivers heavy_damage.	?
+383	Parrot Dragon	Dragon	WIND	5	2000	1300	Saturn	Sun	A dragon from the_cartoons that's more_dangerous than it_appears to be.	?
+384	Dark Rabbit	Beast	DARK	4	1100	1500	Moon	Uranus	A cartoon rabbit_that quickly leaps_all over the place,_making it a_difficult target.	?
+385	Bickuribox	Fiend	DARK	7	2300	2000	Moon	Neptune	A jack-in-the-box_that excels_in surprise attacks.	?
+386	Harpie's Pet Dragon	Dragon	WIND	7	2000	2500	Saturn	Moon	A favorite pet for_harpies, but a very_dangerous dragon.	?
+387	Mystic Lamp	Spellcaster	DARK	1	400	300	Mercury	Uranus	A lamp_used by wizards_to mix potions.	?
+388	Pendulum Machine	Machine	DARK	6	1750	2000	Mercury	Neptune	A horrible torture_machine with a large_pendulum blade.	?
+389	Giltia the D. Knight	Warrior	LIGHT	5	1850	1500	Sun	Mars	Armed with a_soul-searing spear,_this creature favors_magic attacks.	?
+390	Launcher Spider	Machine	FIRE	7	2200	2500	Mars	Pluto	A spider machine_that launches_explosive rockets_against its enemies.	?
+391	Zoa	Fiend	DARK	7	2600	1900	Moon	Mercury	A monster_whose full potential_can be achieved_when transformed_into its metal form.	?
+392	Metalzoa	Machine	DARK	8	3000	2300	Moon	Mars	A metallic Zoa_capable of_intensive attacks.	?
+393	Zone Eater	Aqua	WATER	1	250	200	Neptune	Sun	A sea creature that_swallows enemies and_slowly digests them.	?
+394	Steel Scorpion	Machine	EARTH	1	250	300	Jupiter	Neptune	An iron-tailed_monster equipped_with very sharp_scissors.	?
+395	Dancing Elf	Fairy	WIND	1	300	200	Jupiter	Sun	An elf that dances_across the sky with_wings of razor-sharp_blades.	?
+396	Ocubeam	Fairy	LIGHT	5	1550	1650	Saturn	Venus	Frightening in_appearance, this_creature uses its_large eyes and ears_to keep track_of any movement.	?
+397	Leghul	Insect	EARTH	1	300	350	Jupiter	Moon	Not a very powerful_monster despite its_large fangs and_spikes.	?
+398	Ooguchi	Aqua	WATER	1	300	250	Neptune	Moon	A monstrous bullfrog_with poison spikes.	?
+399	Swordsman from a Foreign Land	Warrior	EARTH	1	250	250	Uranus	Venus	An eastern warrior_armed with a cursed_sword.	?
+400	Emperor of the Land and Sea	Reptile	WATER	5	1800	1500	Neptune	Venus	A fire-breathing_reptilian monster.	?
+401	Ushi Oni	Fiend	DARK	6	2150	1950	Jupiter	Venus	A bull monster_resurrected by_the dark arts_that appears_from inside a jar.	?
+402	Monster Eye	Fiend	DARK	1	250	350	Moon	Jupiter	A servant that_maintains a close_watch on anything_and everything._It throws up_a smokescreen_when discovered.	?
+403	Leogun	Beast	EARTH	5	1750	1550	Uranus	Mercury	Huge monster_with a lion's mane_similar to the_"King of Beasts".	?
+404	Tatsunootoshigo	Beast	EARTH	5	1350	1600	Neptune	Mercury	A fast-moving sea_monster that has the_bodies of a horse_and a fish.	?
+405	Saber Slasher	Machine	DARK	5	1450	1500	Moon	Saturn	A rampaging machine_that wields_a massive sword.	?
+406	Yaiba Robo	Machine	DARK	4	1000	1300	Moon	Uranus	A machine_with several blades_hidden within_its square body.	?
+407	Machine King	Machine	EARTH	6	2200	2000	Mars	Sun	Armored with super_alloy, this robot_attacks with blasts_of fire launched_from both arms.	?
+408	Giant Mech-soldier	Machine	EARTH	6	1750	1900	Moon	Neptune	This monster swings_an earth-shaking axe_that can eliminate_enemies with_a single blow.	?
+409	Metal Dragon	Machine	WIND	6	1850	1700	Mars	Moon	A golden,_fire-breathing_dragon that burns_any opponent_in its path.	?
+410	Mechanical Spider	Machine	EARTH	2	400	500	Jupiter	Mercury	A spider-shaped,_mechanized monster_with sickles at_the end of its legs.	?
+411	Bat	Machine	WIND	1	300	350	Moon	Mercury	A mechanized bat_that attacks_by dropping_explosion orbs.	?
+412	Giga-tech Wolf	Machine	EARTH	4	1200	1400	Jupiter	Uranus	A wolf made entirely_of iron. Its steel_jaws can bite_through anything.	?
+413	Cyber Soldier	Machine	DARK	5	1500	1700	Moon	Mars	Round-shaped_soldiers that roll_around and act as_guardians to the_Machine King.	?
+414	Shovel Crusher	Machine	EARTH	3	900	1200	Uranus	Neptune	Armed with_a pair of shovels,_this creature is_a walking engine_of destruction.	?
+415	Mechanicalchacer	Machine	DARK	4	1850	800	Moon	Jupiter	A hunter that_relentlessly pursues_its target by order_of the Machine King.	?
+416	Blocker	Machine	DARK	4	850	1800	Moon	Saturn	Each separate part_of this creature is_an individual weapon_capable of_devastating attacks.	?
+417	Blast Juggler	Machine	FIRE	3	800	900	Mars	Venus	A walking time_device that loves_to blow enemies_away.	?
+418	Golgoil	Machine	EARTH	4	900	1600	Venus	Neptune	A massive iron golem_that appears from_a dimensional rift.	?
+419	Giganto	Machine	DARK	5	1700	1800	Moon	Uranus	This creature swings_around a huge spiked_ball to destroy its_enemies.	?
+420	Cyber-Stein	Machine	DARK	2	700	500	Moon	Neptune	Created in a_basement lab, this_infernal machine_launches rockets_from within its_mouth.	?
+421	Cyber Commander	Machine	DARK	2	750	700	Moon	Mercury	A strike force_equipped with_rader detectors_and sensors.	?
+422	Jinzo #7	Machine	DARK	2	500	400	Moon	Mars	Created in an_underground lab,_this artificial_being occasionally_goes berserk.	?
+423	Dice Armadillo	Machine	EARTH	5	1650	1800	Jupiter	Pluto	An armadillo-like_creature that forms_a die whenever it_rolls up its body.	?
+424	Sky Dragon	Dragon	WIND	6	1900	1800	Saturn	Uranus	A bird-like dragon_with four bladed_wings.	?
+425	Thunder Dragon	Thunder	LIGHT	5	1600	1500	Pluto	Jupiter	A dragon that_summons thunder and_lightning to attack_its opponents.	?
+426	Stone D.	Rock	EARTH	7	2000	2300	Uranus	Mars	With a body_consisting entirely_of rocks,_this dragon_flings boulders_at its enemies.	?
+427	Kaiser Dragon	Dragon	LIGHT	7	2300	2000	Sun	Jupiter	A very proud and_powerful dragon_emperor.	?
+428	Magician of Faith	Spellcaster	LIGHT	1	300	400	Sun	Saturn	Despite its weak_strength, this_creature is capable_of casting spells_to eliminate_darkness.	?
+429	Goddess of Whim	Fairy	LIGHT	3	950	700	Sun	Uranus	A shy goddess that_seems to spend the_majority of her_time sleeping.	?
+430	Water Magician	Aqua	WATER	4	1400	1000	Neptune	Mercury	This creature_surrounds opponents_with water and_envelops them in a_sweeping attack.	?
+431	Ice Water	Aqua	WATER	3	1150	900	Neptune	Moon	A very aggressive_mermaid with spikes_for attacking_enemies.	?
+432	Waterdragon Fairy	Aqua	WATER	3	1100	700	Neptune	Venus	A fairy that_wanders the seas._Rumored to have_the capabilities_for summoning sea_dragons.	?
+433	Ancient Elf	Spellcaster	LIGHT	4	1450	1200	Sun	Pluto	This elf is rumored_to have lived for_thousands of years._He leads an army of_spirits against his_enemies.	?
+434	Beautiful Beast Trainer	Warrior	EARTH	5	1750	1500	Jupiter	Neptune	A rare female_magic-user armed_with a vicious whip.	?
+435	Water Girl	Aqua	WATER	4	1250	1000	Neptune	Venus	A beautiful creature_that flings icy_arrows.	?
+436	White Dolphin	Fish	WATER	2	500	400	Neptune	Jupiter	A white, horned_dolphin that attacks_by calling up_tidal waves.	?
+437	Deepsea Shark	Fish	WATER	5	1900	1600	Neptune	Mars	A violent shark that_attacks anything_in the sea.	?
+438	Metal Fish	Machine	WATER	5	1600	1900	Neptune	Saturn	A steel fish_armed with a sharp_dorsal fin.	?
+439	Bottom Dweller	Fish	WATER	5	1650	1700	Neptune	Sun	A beautiful swimmer_with a very nasty_temperament.	?
+440	7 Colored Fish	Fish	WATER	4	1800	800	Neptune	Sun	A rare rainbow fish_that is almost_impossible to catch.	?
+441	Mech Bass	Machine	WATER	5	1800	1500	Neptune	Venus	This creature_carries a plasma_cannon on its back.	?
+442	Aqua Dragon	SeaSerpent	WATER	6	2250	1900	Neptune	Moon	A dragon that dwells_in the sea. It is_capable of spitting_high-pressure blasts_of water.	?
+443	Sea King Dragon	SeaSerpent	WATER	6	2000	1700	Neptune	Mercury	The king of the seas_this creature is_protected by a solid_shell and spits_poisonous bubbles at_its enemies.	?
+444	Turu-Purun	Aqua	WATER	2	450	500	Neptune	Jupiter	A strange, one-eyed_monster armed with_a dangerous spear.	?
+445	Guardian of the Sea	Aqua	WATER	4	1300	1000	Neptune	Mars	A merman warrior_that attacks anyone_who dares to_pollute the sea.	?
+446	Aqua Snake	Aqua	WATER	3	1050	900	Neptune	Saturn	A creature that_drowns its opponents_by mesmerizing them_with the ball on_the end of its tail.	?
+447	Giant Red Seasnake	Aqua	WATER	4	1800	800	Neptune	Sun	A sea serpent_that bites anything_that passes nearby.	?
+448	Spike Seadra	SeaSerpent	WATER	5	1600	1300	Pluto	Mercury	Using the spikes_sprouting from its_body, this creature_stabs its opponents_and floods them_with electricity.	?
+449	30,000-Year White Turtle	Aqua	WATER	5	1250	2100	Neptune	Moon	A massive and_well-protected_giant turtle_that has lived_over 30000 years.	?
+450	Kappa Avenger	Aqua	WATER	3	1200	900	Neptune	Venus	An amphibian sworn_to avenge the death_of its brothers.	?
+451	Kanikabuto	Aqua	WATER	3	650	900	Neptune	Saturn	A crab monster with_two massive scissors_for cutting up_enemies.	?
+452	Zarigun	Aqua	WATER	2	600	700	Neptune	Mercury	A newly evolved_crayfish with sharp_scissors for_clipping the enemy.	?
+453	Millennium Golem	Rock	EARTH	6	2000	2200	Uranus	Jupiter	A golem_that has protected_treasure for nearly_a millennium.	?
+454	Destroyer Golem	Rock	EARTH	4	1500	1000	Uranus	Sun	A golem with a_massive right hand_for crushing its_victims.	?
+455	Barrel Rock	Rock	EARTH	4	1000	1300	Uranus	Moon	A monster that_charges into enemies_firing a pair of_cannons mounted on_its shoulders.	?
+456	Minomushi Warrior	Rock	EARTH	4	1300	1200	Uranus	Venus	A rock warrior_that wields_a very heavy sword_carved from stone.	?
+457	Stone Ghost	Rock	EARTH	4	1200	1000	Uranus	Mercury	A creature that_erupts with anger,_resulting in a_crushing rain of_boulders.	?
+458	Kaminari Attack	Thunder	WIND	5	1900	1400	Pluto	Venus	A monster that_judges wrong-doers_and punishes them_appropriately.	?
+459	Tripwire Beast	Thunder	EARTH	4	1200	1300	Pluto	Saturn	This creature_attacks enemies_with electromagnetic_waves.	?
+460	Bolt Escargot	Thunder	WATER	5	1400	1500	Pluto	Jupiter	This creature spits_a gooey substance_that robs enemies of_mobility and then_stuns them with_electric shocks.	?
+461	Bolt Penguin	Thunder	WATER	3	1100	800	Pluto	Moon	A monster_with a pair of_electric whips_instead of arms.	?
+462	The Immortal of Thunder	Thunder	LIGHT	4	1500	1300	Pluto	Sun	A creature that_attacks enemies_with thunderbolts.	?
+463	Electric Snake	Thunder	LIGHT	3	800	900	Pluto	Mars	A serpent with a_tail for storing_electricity.	?
+464	Wing Eagle	WingedBeast	WIND	5	1800	1500	Saturn	Mercury	A hunter of the_skies that has never_missed a target.	?
+465	Punished Eagle	WingedBeast	WIND	6	2100	1800	Saturn	Pluto	A judge of the skies_that delivers_a sentence with_its punishing_silver-white claws.	?
+466	Skull Red Bird	WingedBeast	WIND	4	1550	1200	Saturn	Sun	This monster_swoops down_and attacks with_a rain of knives_stored in its wings.	?
+467	Crimson Sunbird	WingedBeast	FIRE	6	2300	1800	Mars	Mercury	A monster burning_with crimson flames_and capable of_delivering a rain of_sparks by flapping_its wings.	?
+468	Queen Bird	WingedBeast	WIND	5	1200	2000	Saturn	Moon	A creature that_attacks its enemies_with its large beak.	?
+469	Armed Ninja	Warrior	EARTH	1	300	300	Neptune	Mars	A blue ninja_that attacks_with a large sickle_and spiked feet.	?
+470	Magical Ghost	Zombie	DARK	4	1300	1400	Moon	Pluto	This creature casts_a spell of terror_and confusion just_before attacking_its enemies.	?
+471	Soul Hunter	Fiend	DARK	6	2200	1800	Moon	Jupiter	This clown feeds_the life force of_its enemies to_a monstrous lizard.	?
+472	Air Eater	Fiend	WIND	6	2100	1600	Moon	Saturn	A monster that_suffocates its_enemy by feeding_on the surrounding_air supply.	?
+473	Vermillion Sparrow	Pyro	FIRE	5	1900	1500	Mars	Venus	A fiery warrior_creature that_unleashes intense_heat from its body.	?
+474	Sea Kamen	Aqua	WATER	4	1100	1300	Neptune	Sun	A cruel monster that_slices up enemies_with its sharp claws.	?
+475	Sinister Serpent	Reptile	WATER	1	300	250	Neptune	Jupiter	A flying poison_snake that is_not very good_at maneuvering_on the ground.	?
+476	Ganigumo	Insect	EARTH	2	600	800	Jupiter	Sun	A spider armed with_scissors to attack_anything that_it traps in its web.	?
+477	Alinsection	Insect	EARTH	3	950	700	Jupiter	Moon	A stag beetle_monster with_saw-toothed horn_and arms.	?
+478	Insect Soldiers of the Sky	Insect	WIND	3	1000	800	Saturn	Neptune	Insect soldiers that_attack in swarms.	?
+479	Cockroach Knight	Insect	EARTH	3	800	900	Jupiter	Venus	A cockroach warrior_that hides in small_spaces and emerges_to attack enemies.	?
+480	Kuwagata α	Insect	EARTH	4	1250	1000	Jupiter	Mercury	A violent stag_beetle with a_razor-like cutter.	?
+481	Burglar	Beast	EARTH	3	850	800	Jupiter	Uranus	A clever mouse_with a sharpened_left claw.	?
+482	Pragtical	Dinosaur	EARTH	5	1900	1500	Uranus	Neptune	A very dangerous_monster with spikes_on its head and tail.	?
+483	Garvas	Beast	EARTH	6	2000	1700	Jupiter	Pluto	A malevolent_creature that_resembles a_winged lion.	?
+484	Ameba	Aqua	WATER	1	300	350	Neptune	Moon	A monster_that envelops_an enemy and_slowly digests it.	?
+485	Korogashi	Insect	EARTH	2	550	400	Jupiter	Neptune	This creature rolls_massive objects_to crush its enemies.	?
+486	Boo Koo	Spellcaster	DARK	2	650	500	Sun	Jupiter	A book wizard_with page after page_of potent spells.	?
+487	Flower Wolf	Beast	EARTH	5	1800	1400	Jupiter	Sun	A beast_covered in flowers_from head to toe.	?
+488	Rainbow Flower	Plant	EARTH	2	400	500	Jupiter	Moon	A flower creature_with rainbow-colored_blossoms that lure_an enemy into its_waiting jaws.	?
+489	Barrel Lily	Plant	EARTH	3	1100	600	Jupiter	Venus	A dangerous flower_that fires pollen_projectiles.	?
+490	Needle Ball	Fiend	DARK	2	750	700	Moon	Uranus	A ball covered in_sharp needles._Usually rains down_on enemies in a_group.	?
+491	Peacock	WingedBeast	WIND	5	1700	1500	Jupiter	Mercury	A beautiful peacock-_like creature that_fires its feathers_at opponents.	?
+492	Hoshiningen	Fairy	LIGHT	2	500	700	Sun	Neptune	Trailed by a_beautiful tail, this_shooting star_inflicts damage when_it hits an enemy.	?
+493	Maha Vailo	Spellcaster	LIGHT	5	1550	1400	Sun	Venus	A wizard dressed in_blue who is usually_found meditating.	?
+494	Rainbow Marine Mermaid	Fish	WATER	5	1550	1700	Neptune	Venus	An unusual mermaid_that appears_whenever a rainbow_bridges the sky.	?
+495	Musician King	Spellcaster	LIGHT	5	1750	1500	Sun	Mars	A fantastic guitar_player that attacks_enemies with_ultrasonic emissions.	?
+496	Wilmee	Beast	EARTH	4	1000	1200	Jupiter	Uranus	A ferocious rabbit_with sharp claws.	?
+497	Yado Karu	Aqua	WATER	4	900	1700	Neptune	Mercury	A hermit crab with_the head of a dragon.	?
+498	Morinphen	Fiend	DARK	5	1550	1300	Moon	Neptune	A strange fiend_with long arms and_razor-sharp talons.	?
+499	Kattapillar	Insect	EARTH	1	250	300	Jupiter	Neptune	Attacks by blowing_webs at its enemies._Nobody knows_what the final form_of this insect_might be.	?
+500	Dragon Seeker	Fiend	DARK	6	2000	2100	Moon	Mercury	A fearsome monster_sent from the_netherworld_to destroy dragons.	?
+501	Man-eater Bug	Insect	EARTH	2	450	600	Jupiter	Pluto	A creature that_slices and dices_with its scissors_and feeds off its_victims.	?
+502	D. Human	Warrior	EARTH	4	1300	1100	Uranus	Mars	Gifted with the_power of dragons,_this warrior wields_a sword created_from a dragon's fang.	?
+503	Turtle Raccoon	Aqua	WATER	3	700	900	Jupiter	Sun	A fox-like creature_with a protective_shell.	?
+504	Fungi of the Musk	Fiend	DARK	1	400	300	Jupiter	Moon	A monster that leaks_acid from its pores_to melt anything_that touches its_skin.	?
+505	Prisman	Rock	LIGHT	3	800	1000	Uranus	Jupiter	A clear crystal_that focuses light_to create a powerful_laser beam.	?
+506	Gale Dogra	Insect	EARTH	2	650	600	Jupiter	Venus	A huge moth that_generates a_whirlwind containing_poison dust.	?
+507	Crazy Fish	Fish	WATER	4	1600	1200	Neptune	Jupiter	A flying fish_with a sharp head_for piercing targets.	?
+508	Cyber Saurus	Machine	EARTH	5	1800	1400	Uranus	Sun	A mechanical_dinosaur equipped_with a beam cannon.	?
+509	Bracchio-raidus	Dinosaur	WATER	6	2200	2000	Uranus	Moon	A colossal dinosaur_that stomps_on anything_that wanders_into its path.	?
+510	Laughing Flower	Plant	EARTH	2	900	500	Jupiter	Mercury	A laughing flower_whose chuckles can_drive an enemy mad.	?
+511	Bean Soldier	Plant	EARTH	4	1400	1300	Jupiter	Uranus	A plant warrior_that attacks_with a combination_of sword-swings and_pea projectiles.	?
+512	Cannon Soldier	Machine	DARK	4	1400	1300	Moon	Mars	A highly destructive_machine armed with a_powerful cannon.	?
+513	Guardian of the Throne Room	Machine	LIGHT	5	1650	1600	Sun	Saturn	A sentry robot armed_with homing rockets_for guarding throne_rooms from intruders.	?
+514	Brave Scizzar	Machine	DARK	4	1300	1000	Moon	Jupiter	A creature capable_of manipulating_several scissors_with definite_results.	?
+515	The Statue of Easter Island	Rock	EARTH	4	1100	1400	Uranus	Venus	A massive stone idol_from Easter Island_that fires laser_rings from its mouth.	?
+516	Muka Muka	Rock	EARTH	2	600	300	Uranus	Mercury	A monster that_angers an opponent_to the point that_the enemy goes_berserk.	?
+517	Sand Stone	Rock	EARTH	5	1300	1600	Uranus	Mars	Appears from_underground and_attacks with long,_snake-like tentacles.	?
+518	Boulder Tortoise	Aqua	EARTH	6	1450	2200	Uranus	Neptune	A stone turtle with_a very high defense_factor.	?
+519	Fire Kraken	Aqua	FIRE	5	1600	1500	Mars	Saturn	A fiery squid that_can maintain its_flames underwater.	?
+520	Turtle Bird	Aqua	WATER	6	1900	1700	Saturn	Mars	A rare flying turtle_that inhabits_the sea.	?
+521	Skullbird	WingedBeast	WIND	6	1900	1700	Saturn	Venus	The breath from this_bird robs creatures_of their life force.	?
+522	Monstrous Bird	WingedBeast	WIND	6	2000	1900	Saturn	Mercury	A huge bird_known for its sharp_dive attacks.	?
+523	The Bistro Butcher	Fiend	DARK	4	1800	1000	Moon	Saturn	Defeated enemies_serve as ingredients_for this gourmet_monster.	?
+524	Star Boy	Aqua	WATER	2	550	500	Neptune	Mars	An extraterrestrial_life form that loves_living in water.	?
+525	Spirit of the Mountain	Spellcaster	EARTH	5	1300	1800	Uranus	Jupiter	Music from this_creature's flute_can drain_an enemy's willpower.	?
+526	Neck Hunter	Fiend	DARK	6	1750	1900	Moon	Uranus	Armed with a huge_sickle, this monster_can fire beams_from its large eyes.	?
+527	Milus Radiant	Beast	EARTH	1	300	250	Jupiter	Neptune	Often mistaken_as a cute pet,_this creature is a_very dangerous beast.	?
+528	Togex	Beast	EARTH	5	1600	1800	Uranus	Sun	A very fast monster_that rolls up and_rams its enemies.	?
+529	Flame Cerebrus	Pyro	FIRE	6	2100	1800	Mars	Pluto	A flaming beast_that is lethal_to the touch.	?
+530	Eldeen	Spellcaster	LIGHT	3	950	1000	Mercury	Moon	Uses a wand to cast_various spells_against an enemy.	?
+531	Mystical Sand	Rock	EARTH	6	2100	1700	Mercury	Saturn	Turns enemies to_stone and crushes_them to dust.	?
+532	Gemini Elf	Spellcaster	EARTH	4	1900	900	Sun	Uranus	Elf twins_that attack an enemy_from opposite sides.	?
+533	Kwagar Hercules	Insect	EARTH	6	1900	1700	Jupiter	Sun	An insect monster_with the jaws of_a stag beetle and_the horn of a beetle.	?
+534	Minar	Insect	EARTH	3	850	750	Moon	Neptune	A monster with four_highly dexterous_arms for executing_separate attacks.	?
+535	Kamakiriman	Insect	EARTH	4	1150	1400	Jupiter	Moon	A man-shaped mantis_with two razor-sharp_scythes.	?
+536	Mechaleon	Reptile	WATER	2	800	600	Neptune	Saturn	A chameleon-like_monster that can_hide anywhere_by changing colors.	?
+537	Mega Thunderball	Thunder	WIND	2	750	600	Pluto	Mercury	Rolls along the_ground releasing_bolts of electricity_to attack its_enemies.	?
+538	Niwatori	WingedBeast	EARTH	3	900	800	Jupiter	Venus	Swallows enemies_whole and uses_their essence_as energy.	?
+539	Corroding Shark	Zombie	DARK	3	1100	700	Moon	Pluto	A zombie shark that_wanders the ocean_depths, cursing any_that dare cross its_path.	?
+540	Skelengel	Fairy	LIGHT	2	900	400	Sun	Pluto	A phantom fairy that_fires countless_arrows at anything_that harbors an urge_to attack.	?
+541	Hane-Hane	Beast	EARTH	2	450	500	Saturn	Pluto	This creature blocks_enemy movement with_gale-force winds_and attacks with_a massive battle axe.	?
+542	Misairuzame	Fish	WATER	5	1400	1600	Neptune	Sun	A rocket-launching_fish protected_by thorny spikes.	?
+543	Tongyo	Fish	WATER	4	1350	800	Neptune	Moon	This creature is_powered by the life_force of the fishes_it captures with_its long tongue.	?
+544	Dharma Cannon	Machine	DARK	2	900	500	Moon	Mercury	A highly accurate_mechanical monster_covered with large-_caliber cannons.	?
+545	Skelgon	Zombie	DARK	6	1700	1900	Moon	Pluto	A skeletal zombie_dragon that is_capable of flying_across the skies.	?
+546	Wow Warrior	Fish	WATER	4	1250	900	Neptune	Mars	A massive beast_of a fish with_arms, legs, and_razor-sharp teeth.	?
+547	Griggle	Plant	EARTH	1	350	300	Jupiter	Mercury	This monster spins_about its enemy_launching blinding_leaves and painful_seeds.	?
+548	Bone Mouse	Zombie	DARK	1	400	300	Moon	Pluto	A zombie rat_that hunts felines.	?
+549	Frog The Jam	Aqua	WATER	2	700	500	Neptune	Jupiter	A slime creature_with a frog's head_that croaks as it_attacks.	?
+550	Behegon	Aqua	WATER	4	1350	1000	Neptune	Saturn	A strange sea_serpent with a_massive mouth lined_with huge fangs.	?
+551	Dark Elf	Spellcaster	DARK	4	2000	800	Mercury	Jupiter	A wicked elf_that just loves_to engage in battle.	?
+552	Winged Dragon #2	WingedBeast	WIND	4	1200	1000	Saturn	Neptune	Creates powerful_tornadoes with_its huge wings.	?
+553	Mushroom Man #2	Warrior	EARTH	3	1250	800	Jupiter	Uranus	A fully grown_Mushroom Man with_an increased_attack factor.	?
+554	Lava Battleguard	Warrior	EARTH	5	1550	1800	Mercury	Mars	This brother of_Swamp Battleguard_may not be powerful,_but is pretty good_on defense.	?
+555	Tyhone #2	Dragon	FIRE	6	1700	1900	Mars	Uranus	A crimson dragon_that spits fireballs_at its enemies.	?
+556	The Wandering Doomed	Zombie	DARK	2	800	600	Moon	Pluto	A monster that_aimlessly wanders_in search of enemies.	?
+557	Steel Ogre Grotto #1	Machine	EARTH	5	1400	1800	Moon	Mars	A steel idol_worshipped in the_Land of Machines.	?
+558	Pot the Trick	Rock	EARTH	2	400	400	Moon	Jupiter	A not very reliable_sorcerer's servant.	?
+559	Oscillo Hero	Warrior	EARTH	3	1250	700	Venus	Sun	A strange warrior_from another_dimension.	?
+560	Invader from Another Dimension	Fiend	DARK	4	950	1400	Venus	Mars	A creature that came_from another galaxy.	?
+561	Lesser Dragon	Dragon	WIND	4	1200	1000	Moon	Saturn	A low-class, minor_dragon incapable_of breathing fire.	?
+562	Needle Worm	Insect	EARTH	2	750	600	Jupiter	Pluto	A larva_with steel spikes_to attack the unwary.	?
+563	Wretched Ghost of the Attic	Fiend	DARK	2	550	400	Mercury	Uranus	A harmless creature_usually found_in the attic_of any home.	?
+564	Great Mammoth of Goldfine	Zombie	DARK	6	2200	1800	Moon	Pluto	A very unusual_skeletal zombie_elephant with_glowing gold bones.	?
+565	Man-eating Black Shark	Fish	WATER	5	2100	1300	Neptune	Sun	A black shark_that can detect_almost any scent_in the water.	?
+566	Yormungarde	Reptile	EARTH	3	1200	900	Neptune	Moon	A very long snake_that often appears_in legends and myths.	?
+567	Darkworld Thorns	Plant	EARTH	3	1200	900	Moon	Jupiter	A thorny plant found_in the darklands_that wraps itself_around any unwary_traveler.	?
+568	Anthrosaurus	Dinosaur	EARTH	3	1000	850	Uranus	Moon	Man-like dinosaur_lacking in strength,_but with a high I.Q.	?
+569	Drooling Lizard	Reptile	EARTH	3	900	800	Neptune	Venus	A blood-sucking_snake in human form_that attacks any_living being that_passes nearby.	?
+570	Trakadon	Dinosaur	EARTH	3	1300	800	Uranus	Venus	A tiger-striped_dragon that is often_seen racing across_the wasteland with_tremendous speed.	?
+571	B. Dragon Jungle King	Dragon	EARTH	6	2100	1800	Jupiter	Neptune	A jet-black dragon_that inhabits the_jungles and feeds_on trees.	?
+572	Empress Judge	Warrior	EARTH	6	2100	1700	Uranus	Venus	Empress of the_Golden Kingdom. None_may refuse her will.	?
+573	Little D	Dinosaur	EARTH	3	1100	700	Uranus	Mercury	A very ferocious_monster spawned_from a T-Rex.	?
+574	Witch of the Black Forest	Spellcaster	DARK	4	1100	1200	Mercury	Pluto	This forest-dwelling_witch can see all_with the eye_on her forehead.	?
+575	Ancient One of the Deep Forest	Beast	EARTH	6	1800	1900	Jupiter	Sun	A white goat that_has inhabited the_forest for ages._The creature is_actually an elder_of the woods.	?
+576	Giant Scorpion of the Tundra	Insect	EARTH	3	1100	1000	Jupiter	Moon	A rare scarlet_scorpion that can be_found in the tundra_-- not in the desert.	?
+577	Crow Goblin	WingedBeast	WIND	5	1850	1600	Saturn	Mars	A very wise,_long-nosed goblin_with supernatural_powers.	?
+578	Leo Wizard	Spellcaster	EARTH	5	1350	1200	Mercury	Neptune	A wizard with a_black cape that is_actually a talking_lion disguised_as a man.	?
+579	Abyss Flower	Plant	EARTH	2	750	400	Jupiter	Venus	A rare flower_that blooms in a_pitch-dark abyss.	?
+580	Patrol Robo	Machine	EARTH	3	1100	900	Moon	Uranus	A cutting-edge robot_that eliminates_intruders upon_detection.	?
+581	Takuhee	WingedBeast	WIND	4	1450	1000	Saturn	Sun	This bird is_a precursor_to disaster!!	?
+582	Dark Witch	Fairy	LIGHT	5	1800	1700	Sun	Neptune	A popular creature_in mythology that_delivers judgement_with a sharp spear.	?
+583	Weather Report	Aqua	WATER	4	950	1500	Neptune	Mercury	This creature is_known to predict the_weather with very_little accuracy.	?
+584	Binding Chain	Fairy	LIGHT	3	1000	1100	Sun	Venus	This creature_corners its enemies_and seals away_their power.	?
+585	Mechanical Snail	Machine	DARK	3	800	1000	Moon	Neptune	A mechanically_enhanced snail that_is no faster than_it used to be.	?
+586	Greenkappa	Warrior	DARK	3	650	900	Moon	Mercury	A creature that_transforms into the_image of its enemy_and copies every_offensive move.	?
+587	Mon Larvas	Beast	EARTH	4	1300	1400	Jupiter	Mercury	A highly evolved_Larvas that is even_more powerful than_before.	?
+588	Living Vase	Plant	EARTH	3	900	1100	Jupiter	Uranus	A living vase that_blinds enemies with_pollen and attacks_with its sharp teeth.	?
+589	Tentacle Plant	Plant	WATER	2	500	600	Jupiter	Pluto	Attacks a nearby_opponent by reaching_out with its blue_vines.	?
+590	Beaked Snake	Reptile	EARTH	3	800	900	Neptune	Jupiter	Wraps its coils_around opponents and_pecks them with its_huge beak.	?
+591	Morphing Jar	Rock	EARTH	2	700	600	Uranus	Neptune	A large jar_that attacks_nearby enemies_by unleashing_the monster_it contains inside.	?
+592	Muse-A	Fairy	LIGHT	3	850	900	Sun	Mars	A fairy of the arts_and an excellent_harp player.	?
+593	Giant Turtle Who Feeds on Flames	Aqua	WATER	5	1400	1800	Neptune	Mars	A monster turtle_with a crimson shell._It feeds on fire.	?
+594	Rose Spectre of Dunn	Plant	DARK	6	2000	1800	Moon	Jupiter	A red rose possessed_by a vile spirit_that feeds on_the life force_of others to_provide the flower_with nourishment.	?
+595	Fiend Refrection #1	WingedBeast	WIND	4	1300	1400	Venus	Jupiter	Drags enemies into_a mirror world.	?
+596	Ghoul with an Appetite	Zombie	DARK	4	1600	1200	Moon	Pluto	A monster that can_eat all it wants but_is never fulfilled.	?
+597	Pale Beast	Beast	EARTH	4	1500	1200	Jupiter	Neptune	With skin tinged_a bluish white, this_strange creature is_a fearsome sight_to behold.	?
+598	Little Chimera	Beast	FIRE	2	600	550	Saturn	Moon	A monster created_from an experimental_attempt to graft_wings on beasts.	?
+599	Violent Rain	Aqua	WATER	4	1550	800	Neptune	Mercury	A monster capable of_bringing on sudden_rain showers.	?
+600	Key Mace #2	Fiend	DARK	4	1050	1200	Mercury	Moon	Seals away the good_in a soul to create_a wicked being.	?
+601	Tenderness	Fairy	LIGHT	3	700	1400	Sun	Jupiter	A cute fairy_dedicated_to bringing_about eternal love.	?
+602	Penguin Soldier	Aqua	WATER	2	750	500	Neptune	Mars	A low-class penguin_soldier that attacks_in a group.	?
+603	Fairy Dragon	Dragon	WIND	4	1100	1200	Sun	Saturn	A beautiful_and powerful_dragon fairy.	?
+604	Obese Marmot of Nefariousness	Beast	EARTH	3	750	800	Moon	Mars	An ill-mannered_field mouse that_chews on anything.	?
+605	Liquid Beast	Aqua	WATER	3	950	800	Neptune	Saturn	A liquid life form_that moves freely_in water.	?
+606	Twin Long Rods #2	Aqua	WATER	3	850	700	Neptune	Sun	An undersea creature_that attacks with_two whip-like tails.	?
+607	Great Bill	Beast	EARTH	4	1250	1300	Jupiter	Sun	A monster with a_massive maw that_allows it to swallow_an enemy whole.	?
+608	Shining Friendship	Fairy	LIGHT	4	1300	1100	Sun	Uranus	The peacemaker_among monsters.	?
+609	Bladefly	Insect	WIND	2	600	700	Jupiter	Moon	A monster fly_that swoops down_with sharp_sword-like arms_extended out front.	?
+610	Electric Lizard	Thunder	EARTH	3	850	800	Pluto	Sun	A lizard_that discharges_electricity stored_in its body.	?
+611	Hiro's Shadow Scout	Fiend	DARK	2	650	500	Moon	Saturn	A servant of fiends_used primarily for_scouting an area.	?
+612	Lady of Faith	Spellcaster	LIGHT	3	1100	800	Sun	Pluto	Soothes the souls of_others by chanting_a mysterious spell.	?
+613	Twin-headed Thunder Dragon	Thunder	LIGHT	7	2800	2100	Pluto	Moon	A two-headed Thunder_Dragon capable of_powerful electric_attacks.	?
+614	Hunter Spider	Insect	EARTH	5	1600	1400	Jupiter	Venus	A hunter that uses_its spider web to_entrap its enemies.	?
+615	Armored Starfish	Aqua	WATER	4	850	1400	Neptune	Moon	A bluish starfish_with a solid hide_capable of fending_off attacks.	?
+616	Hourglass of Courage	Fairy	LIGHT	4	1100	1200	Sun	Neptune	A fairy that_controls the_feelings of others,_instilling them_with bravery.	?
+617	Marine Beast	Fish	WATER	5	1700	1600	Neptune	Mercury	A sea creature_with sharp teeth_that won't release_a victim once_they're locked on.	?
+618	Warrior of Tradition	Warrior	EARTH	6	1900	1700	Mercury	Mars	A lady warrior_drenched in the_essence from_a thousand_battlefields.	?
+619	Rock Spirit	Spellcaster	EARTH	5	1650	1900	Uranus	Mars	A clay idol_representing a rock_spirit. The creature_has significant_attack and defense_factors.	?
+620	Snakeyashi	Plant	EARTH	4	1000	1200	Jupiter	Mercury	A creature made up_of several snakes_that attack_separately in battle.	?
+621	Succubus Knight	Warrior	DARK	5	1650	1300	Mercury	Jupiter	A vile_warrior wizard_adept at casting_doom-dealing spells.	?
+622	Ill Witch	Spellcaster	LIGHT	5	1600	1500	Sun	Venus	Controls air_currents and_can generate_a sudden gust_of wind to blow_away an opponent.	?
+623	The Thing That Hides in the Mud	Rock	EARTH	4	1200	1300	Uranus	Jupiter	The appearance_of this creature_is preceded by the_ground melting under_an opponent's feet.	?
+624	High Tide Gyojin	Aqua	WATER	5	1650	1300	Neptune	Mercury	An amphibian warrior_that can easily_navigate beneath_the waters.	?
+625	Fairy of the Fountain	Aqua	WATER	4	1600	1100	Neptune	Venus	A fairy dedicated to_protecting fountains_from pollution.	?
+626	Amazon of the Seas	Fish	WATER	4	1300	1400	Neptune	Mars	A mermaid sentry_serving the Sea King_and his kingdom.	?
+627	Nekogal #2	BeastWarrior	EARTH	6	1900	2000	Jupiter	Uranus	This fast creature_can easily elude_enemy attacks and_counter them with_its vicious claws.	?
+628	Witch's Apprentice	Spellcaster	DARK	2	550	500	Mercury	Saturn	An inexperienced_witch who just_started learning_the mystic arts.	?
+629	Armored Rat	Beast	EARTH	3	950	1100	Jupiter	Pluto	A rat_that is protected_by armor-like fur.	?
+630	Ancient Lizard Warrior	Reptile	EARTH	4	1400	1100	Neptune	Saturn	A powerful,_prehistoric_lizard warrior.	?
+631	Maiden of the Moonlight	Spellcaster	LIGHT	4	1500	1300	Moon	Venus	A lunar sorcerer_that uses mystical_spells to induce_hallucinations.	?
+632	Stone Ogre Grotto	Rock	EARTH	5	1600	1500	Uranus	Sun	A rock giant_consisting of_massive boulders.	?
+633	Winged Egg of New Life	Fairy	LIGHT	5	1400	1700	Sun	Mars	A messenger of_newborn life.	?
+634	Night Lizard	Aqua	WATER	4	1150	1300	Neptune	Jupiter	A green-scaled_lizard warrior_dedicated to_protecting the sea.	?
+635	Queen's Double	Warrior	EARTH	1	350	300	Uranus	Moon	Not very useful_double of a queen.	?
+636	Blue-winged Crown	WingedBeast	WIND	4	1600	1200	Saturn	Venus	A bird that glows_with blue flames and_has a head of hair_shaped like a crown.	?
+637	Trent	Plant	EARTH	5	1500	1800	Jupiter	Sun	A protector_of the forest,_this massive tree_continues to grow.	?
+638	Queen of Autumn Leaves	Plant	EARTH	5	1800	1500	Jupiter	Moon	Queen of the_Tree Spirit_who is embraced_by brilliant_autumn leaves.	?
+639	Amphibious Bugroth	Aqua	WATER	5	1850	1300	Neptune	Sun	A Bugroth unit_modified for_underwater warfare.	?
+640	Acid Crawler	Insect	EARTH	3	900	700	Jupiter	Venus	A gigantic_caterpillar that_spits acid capable_of melting_almost anything.	?
+641	Invader of the Throne	Warrior	EARTH	5	1350	1700	Uranus	Venus	A scheming queen_who covets_the king's throne_during his absence.	?
+642	Mystical Sheep #1	Beast	EARTH	3	1150	900	Venus	Saturn	A black-haired sheep_that is capable_of sorcery.	?
+643	Disk Magician	Machine	DARK	4	1350	1000	Moon	Uranus	A creature that_hides in a saucer_and appears only to_attack enemies.	?
+644	Flame Viper	Pyro	EARTH	2	400	450	Mars	Pluto	A very swift,_fire-breathing viper.	?
+645	Royal Guard	Machine	EARTH	6	1900	2200	Uranus	Mercury	Mechanical soldier_with a mind_of its own._Originally created_to protect members_of the royal family.	?
+646	Gruesome Goo	Aqua	WATER	3	1300	700	Neptune	Moon	Looks like any other_slime,_but definitely_much more powerful!	?
+647	Hyosube	Aqua	WATER	4	1500	900	Neptune	Venus	This amphibian_creature boasts_a high attack factor_but not much of one_for defense.	?
+648	Machine Attacker	Machine	EARTH	5	1600	1300	Moon	Neptune	A machine designed_to blitz its enemies.	?
+649	Hibikime	Warrior	EARTH	4	1450	1000	Mercury	Uranus	Confuses enemy_monsters with noise_that is harsh_to the ears.	?
+650	Whiptail Crow	Fiend	DARK	5	1650	1600	Moon	Mercury	Attacks from the_skies with_a whip-like tail.	?
+651	Kunai with Chain	Equip	 	 	 	 	 	 	A boomerang_featuring the_effects of two_cards: the Legendary_Sword and the Sword_of Dark Destruction.	?
+652	Magical Labyrinth	Equip	 	 	 	 	 	 	A card for boosting_the power of the_Labyrinth Wall.	?
+653	Warrior Elimination	Magic	 	 	 	 	 	 	Destroys all_opponent Warrior_cards played_on the field.	?
+654	Salamandra	Equip	 	 	 	 	 	 	Increases the_strength of those_who control the_power of Salamandra.	?
+655	Cursebreaker	Magic	 	 	 	 	 	 	Cancels the magic_over all_level-reduced_monsters and sets_them at level 0.	?
+656	Eternal Rest	Magic	 	 	 	 	 	 	Eliminates all_Zombie creatures.	?
+657	Megamorph	Equip	 	 	 	 	 	 	A card that_increases the power_of any selected_monster by 2 levels.	?
+658	Metalmorph	Equip	 	 	 	 	 	 	A card that changes_any selected monster_to a Machine monster.	?
+659	Winged Trumpeter	Equip	 	 	 	 	 	 	A horn that_increases the power_of Fairy creatures.	?
+660	Stain Storm	Magic	 	 	 	 	 	 	Acid rain destroys_an opponent's_Machine monsters.	?
+661	Crush Card	Magic	 	 	 	 	 	 	Opponent monsters_in play with attack_factors of 1500 or_more are eliminated.	?
+662	Eradicating Aerosol	Magic	 	 	 	 	 	 	An insecticide for_wiping out an_opponent's Insect_monsters that are_currently in play.	?
+663	Breath of Light	Magic	 	 	 	 	 	 	A magic wind that_reduces to rubble an_opponent's Rock_monsters that are_currently in play.	?
+664	Eternal Draught	Magic	 	 	 	 	 	 	A blast of heat_dries up_and eliminates_an opponent's Fish_monsters that are_currently in play.	?
+665	Curse of Millennium Shield	Ritual	 	 	 	 	 	 	Sacrifices the_monster with the_highest defense_rating and summons_Shield.	?
+666	Yamadron Ritual	Ritual	 	 	 	 	 	 	Sacrifices_Beast-Warrior,_Dragon,_and Pyro monsters_to summon Yamadron.	?
+667	Gate Guardian Ritual	Ritual	 	 	 	 	 	 	Sacrifices Kazejin,_Suijin, and Sanga of_the Thunder to_summon Gate Guardian.	?
+668	Bright Castle	Equip	 	 	 	 	 	 	A glaring light that_increases the power_of all monsters.	?
+669	Shadow Spell	Magic	 	 	 	 	 	 	Decreases an_opponent's in-play_monsters by two_levels.	?
+670	Black Luster Ritual	Ritual	 	 	 	 	 	 	Ceremony conducted_to summon_Black Luster Soldier._Sacrifice required.	?
+671	Zera Ritual	Ritual	 	 	 	 	 	 	Ceremony conducted_to summon Zera._Sacrifice required.	?
+672	Harpie's Feather Duster	Magic	 	 	 	 	 	 	Destroys all_opponent Magic cards_that are in play.	?
+673	War-lion Ritual	Ritual	 	 	 	 	 	 	Ceremony conducted_to summon War Lion._Sacrifice required.	?
+674	Beastry Mirror Ritual	Ritual	 	 	 	 	 	 	Ceremony conducted_to summon_Fiend's Mirror._Sacrifice required.	?
+675	Ultimate Dragon	Ritual	 	 	 	 	 	 	Sacrifice three_Blue-eyes to summon_Ultimate Dragon.	?
+676	Commencement Dance	Ritual	 	 	 	 	 	 	Sacrifice Dancer and_Warrior to summon_Performance of Sword.	?
+677	Hamburger Recipe	Ritual	 	 	 	 	 	 	A card with_the ingredients_for making a_delicious hamburger.	?
+678	Revival of Sennen Genjin	Ritual	 	 	 	 	 	 	Sacrifice_Beast-Warrior and_Golem to summon_Sengenjin.	?
+679	Novox's Prayer	Ritual	 	 	 	 	 	 	Sacrifice Warrior_and Scythe Wielder_to summon_Skull Guardian.	?
+680	Curse of Tri-Horned Dragon	Ritual	 	 	 	 	 	 	Sacrifice a horned_monster to summon_Tri-Horned Dragon.	?
+681	House of Adhesive Tape	Trap	 	 	 	 	 	 	Monsters_with Attack Factors_of 500 or lower_are eliminated_from the play field.	?
+682	Eatgaboon	Trap	 	 	 	 	 	 	Monsters_with Attack Factors_of 1000 or lower_are eliminated_from the play field.	?
+683	Bear Trap	Trap	 	 	 	 	 	 	When an opposing_monster's Attack_Factor is_1500 or lower,_it is eliminated_from the play field.	?
+684	Invisible Wire	Trap	 	 	 	 	 	 	When an opposing_monster's Attack_Factor is_2000 or lower,_it is eliminated_from the play field.	?
+685	Acid Trap Hole	Trap	 	 	 	 	 	 	When an opposing_monster's Attack_Factor is_3000 or lower,_it is eliminated_from the play field.	?
+686	Widespread Ruin	Trap	 	 	 	 	 	 	When an opponent's_monster attacks,_it is blown to_smithereens and_eliminated from_the play field.	?
+687	Goblin Fan	Trap	 	 	 	 	 	 	Reflects the damage_of direct attack_cards like_Fire Sparks and_Inferno back_to your opponent.	?
+688	Bad Reaction to Simochi	Trap	 	 	 	 	 	 	A card that reverses_the effects of_recovery cards and_transforms the_points to damage.	?
+689	Reverse Trap	Trap	 	 	 	 	 	 	A card that reverses_the effects of_power-up cards_and transforms_the effects_to power reduction.	?
+690	Fake Trap	Trap	 	 	 	 	 	 	A trap card_for tricking_your opponent._Nothing happens_when it is attacked.	?
+691	Revived of Serpent Night Dragon	Ritual	 	 	 	 	 	 	Select a specific_monster for_sacrifice and summon_Serpent Night Dragon.	?
+692	Turtle Oath	Ritual	 	 	 	 	 	 	Sacrifice crab and_turtle to summon_Crab Turtle.	?
+693	Contruct of Mask	Ritual	 	 	 	 	 	 	Sacrifice a masked_one to summon a new_mask.	?
+694	Resurrection of Chakra	Ritual	 	 	 	 	 	 	Sacrifice 3 Fiend_monsters to conduct_the ritual for the_Resurrection of_Chakra.	?
+695	Puppet Ritual	Ritual	 	 	 	 	 	 	Sacrifice Puppeteer_and Machine monsters_to summon the Puppet.	?
+696	Javelin Beetle Pact	Ritual	 	 	 	 	 	 	Sacrifice the stag_beetle and beetle_to summon_Javelin Beetle.	?
+697	Garma Sword Oath	Ritual	 	 	 	 	 	 	Sacrifice the_Ashura's Arm_and Sword-wielder_to summon.	?
+698	Cosmo Queen's Prayer	Ritual	 	 	 	 	 	 	Sacrifice a normal_Queen to summon_Cosmo Queen.	?
+699	Revival of Skeleton Rider	Ritual	 	 	 	 	 	 	Sacrifice Temple and_Cockroach to summon_Dokurorider.	?
+700	Fortress Whale's Oath	Ritual	 	 	 	 	 	 	Sacrifice Horn and_Machine Fish to_summon Sea Fortress.	?
+701	Performance of Sword	Warrior	EARTH	6	1950	1850	Sun	Saturn	A warrior dancer_with fancy dance_steps.	?
+702	Hungry Burger	Warrior	DARK	6	2000	1850	Moon	Mars	Attracts hungry_enemies with tasty_aromas and eats them_when they get close_enough.	?
+703	Sengenjin	BeastWarrior	EARTH	8	2750	2500	Jupiter	Mercury	A headstrong,_primitive man_equipped with_a Millennium Item.	?
+704	Skull Guardian	Warrior	LIGHT	7	2050	2500	Sun	Jupiter	A guardian of the_law that doesn't_forgive cheating._Attacks enemies with_its sword-like arms.	?
+705	Tri-horned Dragon	Dragon	DARK	8	2850	2350	Moon	Jupiter	A wicked dragon_with three horns_protruding from_its head.	?
+706	Serpent Night Dragon	Dragon	DARK	7	2350	2400	Mercury	Pluto	A dragon created_from the soul_of a wicked knight.	?
+707	Skull Knight	Spellcaster	DARK	7	2650	2250	Mercury	Neptune	A monk_who has conducted_several rituals_in the netherworld,_and who is capable_of using both_weapons and magic.	?
+708	Cosmo Queen	Spellcaster	DARK	8	2900	2450	Venus	Uranus	A queen who rules_over all the stars_in the universe.	?
+709	Chakra	Fiend	DARK	7	2450	2000	Mercury	Moon	A twisting shape_that attacks with_tentacle-like arms.	?
+710	Crab Turtle	Aqua	WATER	8	2550	2500	Neptune	Jupiter	A creature with a_turtle shell and_crab scissors to_provide high attack_and defense factors.	?
+711	Mikazukinoyaiba	Dragon	DARK	7	2200	2350	Sun	Uranus	A dragon warrior_armed with a_crescent-shaped_sword. Rumored to be_from the moon.	?
+712	Meteor Dragon	Dragon	EARTH	6	1800	2000	Uranus	Neptune	A dragon that_arrived on earth_by means of a comet_that fell from_the far reaches_of space.	?
+713	Meteor B. Dragon	Dragon	FIRE	8	3500	2000	Mars	Sun	With the burning_hide of a meteorite,_this creature_vaporizes all that_it touches.	?
+714	Firewing Pegasus	Beast	FIRE	6	2250	1800	Mars	Moon	A heavenly stallion_that flies_across the skies_on scarlet wings.	?
+715	Psycho-Puppet	Fiend	DARK	7	2000	2350	Moon	Saturn	A mysterious doll_with a strange dance_that robs the power_of opposing monsters.	?
+716	Garma Sword	Warrior	DARK	7	2550	2150	Moon	Uranus	A skilled warrior_that wields six_swords against_opposing monsters.	?
+717	Javelin Beetle	Insect	EARTH	8	2450	2550	Jupiter	Uranus	A creature with_lethal scissors that_cut through almost_anything.	?
+718	Fortress Whale	Fish	WATER	7	2350	2150	Neptune	Saturn	A sea monster with_a cannon mounted on_its back to blow_its enemies out_of the water.	?
+719	Dokurorider	Zombie	DARK	6	1900	1850	Uranus	Mars	A lonely rider that_races across the_wasteland, raising_thick clouds of dust.	?
+720	Mask of Shine & Dark	Spellcaster	DARK	6	2000	1800	Venus	Pluto	A creature that_twists the fabric of_light and darkness_to generate images_to confuse opponents.	?
+721	Dark Magic Ritual	Ritual	 	 	 	 	 	 	Ceremony_for summoning_the Magician of_Black Chaos._Sacrifice required.	?
+722	Magician of Black Chaos	Spellcaster	DARK	8	2800	2600	Mercury	Mars	The ultimate_magic-user,_who wields the power_of chaos borne from_the fusion of_Dark and Light.	?
